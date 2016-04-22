@@ -4,7 +4,7 @@ CLTT is a collection of 1133 manually annotated dependency trees. CLTT consists
 of two legal documents: The Accounting Act (563/1991 Coll., as amended) and
 Decree on Double-entry Accounting for undertakers (500/2002 Coll., as amended).
 
-See the following websites for more information on CAC 2.0:
+See the following websites for more information on CLTT 1.0:
 
 * http://ufal.mff.cuni.cz/czech-legal-text-treebank
 * http://hdl.handle.net/11234/1-1516
