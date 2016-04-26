@@ -1,6 +1,6 @@
 The UD_Czech-CLTT treebank is based on the Czech Legal Text Treebank 1.0,
 created at Charles University in Prague.
-CLTT is a collection of 1133 manually annotated dependency trees. CLTT consists
+CLTT is a collection of 1125 manually annotated dependency trees. CLTT consists
 of two legal documents: The Accounting Act (563/1991 Coll., as amended) and
 Decree on Double-entry Accounting for undertakers (500/2002 Coll., as amended).
 
