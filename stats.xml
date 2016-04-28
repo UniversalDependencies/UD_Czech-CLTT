@@ -101,7 +101,7 @@
   <deps unique="35">
     <dep name="acl">635</dep>
     <dep name="advcl">218</dep>
-    <dep name="advmod">750</dep>
+    <dep name="advmod">753</dep>
     <dep name="advmod:emph">295</dep>
     <dep name="amod">6084</dep>
     <dep name="appos">79</dep>
@@ -109,7 +109,7 @@
     <dep name="auxpass">133</dep>
     <dep name="auxpass:reflex">358</dep>
     <dep name="case">3888</dep>
-    <dep name="cc">1952</dep>
+    <dep name="cc">1949</dep>
     <dep name="ccomp">61</dep>
     <dep name="compound">1</dep>
     <dep name="conj">2655</dep>

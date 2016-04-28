@@ -1210,7 +1210,7 @@
 16	fúze	fúze	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	13	nmod	_	_
 17	splynutím	splynutí	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Negative=Pos|Number=Sing	16	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	19	punct	_	_
-19	jakož	jakož	SCONJ	J,-------------	_	13	cc	_	_
+19	jakož	jakož	SCONJ	J,-------------	_	13	advmod	_	_
 20	i	i	CONJ	J^-------------	_	23	advmod:emph	_	LId=i-1
 21	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	_	LId=v-1
 22	dalších	další	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	23	amod	_	_
@@ -9361,7 +9361,7 @@
 56	běžné	běžný	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	58	amod	_	_
 57	podnikatelské	podnikatelský	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	58	amod	_	_
 58	činnosti	činnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	60	nmod	_	_
-59	například	například	ADV	Db-------------	_	60	cc	_	_
+59	například	například	ADV	Db-------------	_	60	advmod	_	_
 60	plnit	plnit	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	41	conj	_	_
 61	své	svůj	DET	P8YP4---------1	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	62	det	_	LId=svůj-1
 62	závazky	závazek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	60	dobj	_	SpaceAfter=No
@@ -12031,7 +12031,7 @@
 15	,	,	PUNCT	Z:-------------	_	19	punct	_	_
 16	které	který	PRON	P4NS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	19	nsubj	_	_
 17	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	_
-18	pravděpodobně	pravděpodobně	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	19	cc	_	_
+18	pravděpodobně	pravděpodobně	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	19	advmod	_	_
 19	trvalé	trvalý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing	7	acl	_	SpaceAfter=No
 20	,	,	PUNCT	Z:-------------	_	19	punct	_	_
 21	zaúčtuje	zaúčtovat	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
