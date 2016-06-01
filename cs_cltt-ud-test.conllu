@@ -1,4 +1,4 @@
-# sent_id a-zakon.iso-006-p39s4
+# sent_id zakon.iso-006-p39s4/cs
 # orig_file_sentence document_02_006#1
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=v-1
 2	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Plur	9	nmod	_	_
@@ -23,7 +23,7 @@
 21	)	)	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id a-zakon.iso-006-p39s5
+# sent_id zakon.iso-006-p39s5/cs
 # orig_file_sentence document_02_006#2
 1	Ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	11	nsubj	_	_
 2	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=o-1
@@ -38,7 +38,7 @@
 11	dotčena	dotknout	VERB	VsQW---XX-AP---	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id a-zakon.iso-006-p39s6
+# sent_id zakon.iso-006-p39s6/cs
 # orig_file_sentence document_02_006#3
 1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Průběžnou	průběžný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	_
@@ -98,7 +98,7 @@
 56	náleží	náležet	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	53	acl	_	SpaceAfter=No
 57	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p39s7
+# sent_id zakon.iso-006-p39s7/cs
 # orig_file_sentence document_02_006#4
 1	Termín	termín	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	5	dobj	_	_
 2	této	tento	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
@@ -110,7 +110,7 @@
 8	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	5	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p39s8
+# sent_id zakon.iso-006-p39s8/cs
 # orig_file_sentence document_02_006#5
 1	Každý	každý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	2	amod	_	_
 2	druh	druh	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	8	nsubj	_	LId=druh-1
@@ -130,7 +130,7 @@
 16	období	období	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Negative=Pos|Number=Sing	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-006-p39s9
+# sent_id zakon.iso-006-p39s9/cs
 # orig_file_sentence document_02_006#6
 1	(3)	(3)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -154,7 +154,7 @@
 20	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p39s10
+# sent_id zakon.iso-006-p39s10/cs
 # orig_file_sentence document_02_006#7
 1	(4)	(4)	PUNCT	Z:-------------	_	25	punct	_	_
 2	Požadavky	požadavek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	25	dobj	_	_
@@ -186,11 +186,11 @@
 28	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	25	nsubj	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	25	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s1
+# sent_id zakon.iso-006-p40s1/cs
 # orig_file_sentence document_02_006#8
 1	§_30	§_30	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-006-p40s2
+# sent_id zakon.iso-006-p40s2/cs
 # orig_file_sentence document_02_006#9
 1	(1)	(1)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -211,7 +211,7 @@
 17	soupisech	soupis	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Plur	13	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s3
+# sent_id zakon.iso-006-p40s3/cs
 # orig_file_sentence document_02_006#10
 1	Tyto	tento	DET	PDIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	stavy	stav	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	3	nsubj	_	_
@@ -264,7 +264,7 @@
 49	účtů	účet	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	47	nmod	_	SpaceAfter=No
 50	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s5
+# sent_id zakon.iso-006-p40s5/cs
 # orig_file_sentence document_02_006#11
 1	(2)	(2)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -293,7 +293,7 @@
 25	účetnictví	účetnictví	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing	23	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s6
+# sent_id zakon.iso-006-p40s6/cs
 # orig_file_sentence document_02_006#12
 1	(3)	(3)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -328,7 +328,7 @@
 31	existenci	existence	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	29	dobj	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s7
+# sent_id zakon.iso-006-p40s7/cs
 # orig_file_sentence document_02_006#13
 1	(4)	(4)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=při-1
@@ -389,7 +389,7 @@
 57	dnem	den	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	54	conj	_	SpaceAfter=No
 58	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s8
+# sent_id zakon.iso-006-p40s8/cs
 # orig_file_sentence document_02_006#14
 1	(5)	(5)	PUNCT	Z:-------------	_	8	punct	_	_
 2	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=při-1
@@ -402,7 +402,7 @@
 9	obdobně	obdobně	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	8	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s9
+# sent_id zakon.iso-006-p40s9/cs
 # orig_file_sentence document_02_006#15
 1	(6)	(6)	PUNCT	Z:-------------	_	8	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -432,7 +432,7 @@
 26	dni	den	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Sing	23	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s11
+# sent_id zakon.iso-006-p40s11/cs
 # orig_file_sentence document_02_006#16
 1	(7)	(7)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Inventurní	inventurní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	3	amod	_	_
@@ -570,7 +570,7 @@
 133	inventury	inventura	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	128	nmod	_	SpaceAfter=No
 134	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s13
+# sent_id zakon.iso-006-p40s13/cs
 # orig_file_sentence document_02_006#17
 1	(8)	(8)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=při-1
@@ -598,7 +598,7 @@
 24	rozdílů	rozdíl	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s14
+# sent_id zakon.iso-006-p40s14/cs
 # orig_file_sentence document_02_006#18
 1	(9)	(9)	PUNCT	Z:-------------	_	19	punct	_	_
 2	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
@@ -646,7 +646,7 @@
 44	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	42	nmod	_	SpaceAfter=No
 45	.	.	PUNCT	Z:-------------	_	19	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s15
+# sent_id zakon.iso-006-p40s15/cs
 # orig_file_sentence document_02_006#19
 1	Požadavky	požadavek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	18	dobj	_	_
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	LId=na-1
@@ -671,7 +671,7 @@
 21	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	18	nsubj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	18	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s16
+# sent_id zakon.iso-006-p40s16/cs
 # orig_file_sentence document_02_006#20
 1	(10)	(10)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Inventarizačními	inventarizační	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	3	amod	_	_
@@ -738,7 +738,7 @@
 63	přebytek	přebytek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	59	xcomp	_	SpaceAfter=No
 64	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s18
+# sent_id zakon.iso-006-p40s18/cs
 # orig_file_sentence document_02_006#21
 1	(11)	(11)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Inventarizační	inventarizační	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	3	amod	_	_
@@ -761,7 +761,7 @@
 19	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	17	conj	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p40s19
+# sent_id zakon.iso-006-p40s19/cs
 # orig_file_sentence document_02_006#22
 1	(12)	(12)	PUNCT	Z:-------------	_	10	punct	_	_
 2	Ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	10	nsubjpass	_	_
@@ -791,22 +791,22 @@
 26	účtů	účet	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id a-zakon.iso-006-p41s1
+# sent_id zakon.iso-006-p41s1/cs
 # orig_file_sentence document_02_006#23
 1	ČÁST	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	0	root	_	_
 2	ŠESTÁ	šestý	ADJ	CrFS1----------	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	1	amod	_	_
 
-# sent_id a-zakon.iso-006-p41s2
+# sent_id zakon.iso-006-p41s2/cs
 # orig_file_sentence document_02_006#24
 1	Úschova	úschova	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	0	root	_	_
 2	účetních	účetní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
 3	záznamů	záznam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	1	nmod	_	_
 
-# sent_id a-zakon.iso-006-p42s1
+# sent_id zakon.iso-006-p42s1/cs
 # orig_file_sentence document_02_006#25
 1	§_31	§_31	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-006-p42s2
+# sent_id zakon.iso-006-p42s2/cs
 # orig_file_sentence document_02_006#26
 1	(1)	(1)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -830,7 +830,7 @@
 20	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	18	conj	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p42s3
+# sent_id zakon.iso-006-p42s3/cs
 # orig_file_sentence document_02_006#27
 1	Nestanoví-li	Nestanoví-li	NOUN	NNNXX-----A----	Gender=Neut|Negative=Pos	6	nmod	_	_
 2	tento	tento	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -847,7 +847,7 @@
 13	předpisy	předpis	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	6	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-006-p42s4
+# sent_id zakon.iso-006-p42s4/cs
 # orig_file_sentence document_02_006#28
 1	(2)	(2)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -939,7 +939,7 @@
 88	týkají	týkat	VERB	VB-P---3P-AA---	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	84	acl	_	SpaceAfter=No
 89	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p42s6
+# sent_id zakon.iso-006-p42s6/cs
 # orig_file_sentence document_02_006#29
 1	(3)	(3)	PUNCT	Z:-------------	_	14	punct	_	_
 2	Povinnosti	povinnost	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Plur	14	nsubj	_	_
@@ -1043,7 +1043,7 @@
 100	archiv	archiv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	98	dobj	_	SpaceAfter=No
 101	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id a-zakon.iso-006-p42s8
+# sent_id zakon.iso-006-p42s8/cs
 # orig_file_sentence document_02_006#30
 1	(4)	(4)	PUNCT	Z:-------------	_	13	punct	_	_
 2	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=v-1
@@ -1093,11 +1093,11 @@
 46	archiv	archiv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	44	dobj	_	SpaceAfter=No
 47	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id a-zakon.iso-006-p43s1
+# sent_id zakon.iso-006-p43s1/cs
 # orig_file_sentence document_02_006#31
 1	§_32	§_32	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-006-p43s2
+# sent_id zakon.iso-006-p43s2/cs
 # orig_file_sentence document_02_006#32
 1	(1)	(1)	PUNCT	Z:-------------	_	67	punct	_	_
 2	Použijí-li	Použijí-li	NOUN	NNNXX-----A----	Gender=Neut|Negative=Pos	67	nmod	_	_
@@ -1215,7 +1215,7 @@
 113	obdobně	obdobně	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	104	advmod	_	SpaceAfter=No
 114	.	.	PUNCT	Z:-------------	_	67	punct	_	_
 
-# sent_id a-zakon.iso-006-p43s3
+# sent_id zakon.iso-006-p43s3/cs
 # orig_file_sentence document_02_006#33
 1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -1241,7 +1241,7 @@
 22	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	18	dobj	_	SpaceAfter=No
 23	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p43s4
+# sent_id zakon.iso-006-p43s4/cs
 # orig_file_sentence document_02_006#34
 1	Takto	takto	ADV	Db-------------	_	2	advmod	_	_
 2	použitá	použitý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	_
@@ -1257,7 +1257,7 @@
 12	záznamy	záznam	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	7	dobj	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p43s5
+# sent_id zakon.iso-006-p43s5/cs
 # orig_file_sentence document_02_006#35
 1	Tuto	tento	DET	PDFS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	dokumentaci	dokumentace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	3	dobj	_	_
@@ -1287,7 +1287,7 @@
 26	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	25	nummod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-006-p43s6
+# sent_id zakon.iso-006-p43s6/cs
 # orig_file_sentence document_02_006#36
 1	(3)	(3)	PUNCT	Z:-------------	_	15	punct	_	_
 2	Pokud	pokud	SCONJ	J,-------------	_	9	mark	_	_
@@ -1368,7 +1368,7 @@
 77	závazku	závazek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	76	nmod	_	SpaceAfter=No
 78	.	.	PUNCT	Z:-------------	_	15	punct	_	_
 
-# sent_id a-zakon.iso-006-p43s7
+# sent_id zakon.iso-006-p43s7/cs
 # orig_file_sentence document_02_006#37
 1	(4)	(4)	PUNCT	Z:-------------	_	50	punct	_	_
 2	Knihy	kniha	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Plur	50	dobj	_	_
@@ -1439,12 +1439,12 @@
 67	písemností	písemnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Plur	65	nmod	_	SpaceAfter=No
 68	.	.	PUNCT	Z:-------------	_	50	punct	_	_
 
-# sent_id a-zakon.iso-006-p44s1
+# sent_id zakon.iso-006-p44s1/cs
 # orig_file_sentence document_02_006#38
 1	ČÁST	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	0	root	_	_
 2	SEDMÁ	sedmý	ADJ	CrFS1----------	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	1	amod	_	_
 
-# sent_id a-zakon.iso-006-p44s2
+# sent_id zakon.iso-006-p44s2/cs
 # orig_file_sentence document_02_006#39
 1	USTANOVENÍ	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	0	root	_	_
 2	SPOLEČNÁ	společný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	1	amod	_	SpaceAfter=No
@@ -1453,16 +1453,16 @@
 5	A	a	CONJ	J^-------------	_	2	cc	_	LId=a-1
 6	ZÁVĚREČNÁ	závěrečný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	2	conj	_	_
 
-# sent_id a-zakon.iso-006-p45s1
+# sent_id zakon.iso-006-p45s1/cs
 # orig_file_sentence document_02_006#40
 1	§_33	§_33	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-006-p45s2
+# sent_id zakon.iso-006-p45s2/cs
 # orig_file_sentence document_02_006#41
 1	Účetní	účetní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	2	amod	_	LId=účetní-1
 2	záznam	záznam	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	0	root	_	_
 
-# sent_id a-zakon.iso-006-p45s3
+# sent_id zakon.iso-006-p45s3/cs
 # orig_file_sentence document_02_006#42
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -1478,7 +1478,7 @@
 12	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	9	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s4
+# sent_id zakon.iso-006-p45s4/cs
 # orig_file_sentence document_02_006#43
 1	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	_	LId=pro-1
 2	účely	účel	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	11	nmod	_	_
@@ -1509,7 +1509,7 @@
 27	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s5
+# sent_id zakon.iso-006-p45s5/cs
 # orig_file_sentence document_02_006#44
 1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -1524,7 +1524,7 @@
 11	formu	forma	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	5	dobj	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s6
+# sent_id zakon.iso-006-p45s6/cs
 # orig_file_sentence document_02_006#45
 1	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	_	LId=pro-1
 2	účely	účel	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	6	nmod	_	_
@@ -1637,7 +1637,7 @@
 109	čitelný	čitelný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	99	acl	_	SpaceAfter=No
 110	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s8
+# sent_id zakon.iso-006-p45s8/cs
 # orig_file_sentence document_02_006#46
 1	(3)	(3)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -1656,7 +1656,7 @@
 15	formy	forma	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	6	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s9
+# sent_id zakon.iso-006-p45s9/cs
 # orig_file_sentence document_02_006#47
 1	Tímto	tento	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	2	det	_	_
 2	převodem	převod	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	3	nmod	_	_
@@ -1666,7 +1666,7 @@
 6	záznam	záznam	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s10
+# sent_id zakon.iso-006-p45s10/cs
 # orig_file_sentence document_02_006#48
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=v-1
 2	uvedeném	uvedený	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	_
@@ -1695,7 +1695,7 @@
 25	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s11
+# sent_id zakon.iso-006-p45s11/cs
 # orig_file_sentence document_02_006#49
 1	Splnění	splnění	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	5	nsubjpass	_	_
 2	uvedené	uvedený	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	_
@@ -1723,7 +1723,7 @@
 24	shodný	shodný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	12	conj	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s12
+# sent_id zakon.iso-006-p45s12/cs
 # orig_file_sentence document_02_006#50
 1	Splnění	splnění	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	8	dobj	_	_
 2	této	tento	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
@@ -1750,7 +1750,7 @@
 23	pracují	pracovat	VERB	VB-P---3P-AA---	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s13
+# sent_id zakon.iso-006-p45s13/cs
 # orig_file_sentence document_02_006#51
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=v-1
 2	případě	případ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Sing	1	mwe	_	_
@@ -1806,7 +1806,7 @@
 52	§_31	§_31	X	X@-------------	_	51	nmod	_	SpaceAfter=No
 53	.	.	PUNCT	Z:-------------	_	37	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s14
+# sent_id zakon.iso-006-p45s14/cs
 # orig_file_sentence document_02_006#52
 1	(4)	(4)	PUNCT	Z:-------------	_	22	punct	_	_
 2	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -1848,7 +1848,7 @@
 38	osobu	osoba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	35	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	22	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s15
+# sent_id zakon.iso-006-p45s15/cs
 # orig_file_sentence document_02_006#53
 1	Pokud	pokud	SCONJ	J,-------------	_	4	mark	_	_
 2	tuto	tento	DET	PDFS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
@@ -1933,7 +1933,7 @@
 81	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	79	nmod	_	SpaceAfter=No
 82	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s16
+# sent_id zakon.iso-006-p45s16/cs
 # orig_file_sentence document_02_006#54
 1	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	2	amod	_	LId=účetní-1
 2	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	4	nsubj	_	_
@@ -1950,7 +1950,7 @@
 13	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s17
+# sent_id zakon.iso-006-p45s17/cs
 # orig_file_sentence document_02_006#55
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Jednotlivý	jednotlivý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	4	amod	_	_
@@ -1965,7 +1965,7 @@
 11	záznamy	záznam	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Plur	7	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s18
+# sent_id zakon.iso-006-p45s18/cs
 # orig_file_sentence document_02_006#56
 1	Všechna	všechen	PRON	PLNP1----------	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	2	nmod	_	_
 2	ustanovení	ustanovení	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Plur	10	nsubj	_	_
@@ -1993,7 +1993,7 @@
 24	seskupením	seskupení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Negative=Pos|Number=Sing	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s19
+# sent_id zakon.iso-006-p45s19/cs
 # orig_file_sentence document_02_006#57
 1	(6)	(6)	PUNCT	Z:-------------	_	16	punct	_	_
 2	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	LId=na-1
@@ -2045,7 +2045,7 @@
 48	písm._a)	písm._a)	X	X@-------------	_	47	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s20
+# sent_id zakon.iso-006-p45s20/cs
 # orig_file_sentence document_02_006#58
 1	(7)	(7)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -2103,7 +2103,7 @@
 54	čitelný	čitelný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	44	acl	_	SpaceAfter=No
 55	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s21
+# sent_id zakon.iso-006-p45s21/cs
 # orig_file_sentence document_02_006#59
 1	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	_	LId=pro-1
 2	potřeby	potřeba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Plur	25	nmod	_	LId=potřeba-1
@@ -2148,7 +2148,7 @@
 41	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	38	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	Z:-------------	_	25	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s22
+# sent_id zakon.iso-006-p45s22/cs
 # orig_file_sentence document_02_006#60
 1	Tyto	tento	DET	PDFP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
 2	povinnosti	povinnost	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Plur	3	dobj	_	_
@@ -2170,7 +2170,7 @@
 18	záznamy	záznam	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	13	dobj	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s23
+# sent_id zakon.iso-006-p45s23/cs
 # orig_file_sentence document_02_006#61
 1	Stanovení	stanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	8	nsubj	_	_
 2	těchto	tento	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	3	det	_	_
@@ -2182,7 +2182,7 @@
 8	dotčeno	dotknout	VERB	VsNS---XX-AP---	Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s24
+# sent_id zakon.iso-006-p45s24/cs
 # orig_file_sentence document_02_006#62
 1	(8)	(8)	PUNCT	Z:-------------	_	13	punct	_	_
 2	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=v-1
@@ -2214,7 +2214,7 @@
 28	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	26	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id a-zakon.iso-006-p45s25
+# sent_id zakon.iso-006-p45s25/cs
 # orig_file_sentence document_02_006#63
 1	(9)	(9)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -2254,17 +2254,17 @@
 36	odcizením	odcizení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Negative=Pos|Number=Sing	25	conj	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s1
+# sent_id zakon.iso-006-p46s1/cs
 # orig_file_sentence document_02_006#64
 1	§_33a	§_33a	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-006-p46s2
+# sent_id zakon.iso-006-p46s2/cs
 # orig_file_sentence document_02_006#65
 1	Průkaznost	průkaznost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	0	root	_	_
 2	účetního	účetní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
 3	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	1	nmod	_	_
 
-# sent_id a-zakon.iso-006-p46s3
+# sent_id zakon.iso-006-p46s3/cs
 # orig_file_sentence document_02_006#66
 1	(1)	(1)	PUNCT	Z:-------------	_	10	punct	_	_
 2	Podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=podle-2
@@ -2337,7 +2337,7 @@
 69	10	10	NUM	C}-------------	NumForm=Roman|NumType=Card	68	nummod	_	SpaceAfter=No
 70	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s5
+# sent_id zakon.iso-006-p46s5/cs
 # orig_file_sentence document_02_006#67
 1	(2)	(2)	PUNCT	Z:-------------	_	14	punct	_	_
 2	Zjistí-li	Zjistí-li	NOUN	NNNXX-----A----	Gender=Neut|Negative=Pos	14	nmod	_	_
@@ -2371,7 +2371,7 @@
 30	písm._b)_a_c)	písm._b)_a_c)	X	X@-------------	_	29	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s6
+# sent_id zakon.iso-006-p46s6/cs
 # orig_file_sentence document_02_006#68
 1	(3)	(3)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -2402,7 +2402,7 @@
 27	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	24	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s7
+# sent_id zakon.iso-006-p46s7/cs
 # orig_file_sentence document_02_006#69
 1	Pokud	pokud	SCONJ	J,-------------	_	5	mark	_	_
 2	účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -2426,7 +2426,7 @@
 20	přenosu	přenos	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Negative=Pos|Number=Sing	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s8
+# sent_id zakon.iso-006-p46s8/cs
 # orig_file_sentence document_02_006#70
 1	(4)	(4)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Podpisovým	podpisový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	_
@@ -2467,7 +2467,7 @@
 37	původnost	původnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	33	dobj	_	SpaceAfter=No
 38	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s9
+# sent_id zakon.iso-006-p46s9/cs
 # orig_file_sentence document_02_006#71
 1	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=na-1
 2	obě	oba	NUM	ClHP4----------	Case=Acc|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	3	nummod	_	_
@@ -2493,7 +2493,7 @@
 22	podpis	podpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	20	nsubjpass	_	SpaceAfter=No
 23	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s10
+# sent_id zakon.iso-006-p46s10/cs
 # orig_file_sentence document_02_006#72
 1	U	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	_	LId=u-1
 2	případů	případ	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	11	nmod	_	_
@@ -2526,7 +2526,7 @@
 29	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	26	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id a-zakon.iso-006-p46s11
+# sent_id zakon.iso-006-p46s11/cs
 # orig_file_sentence document_02_006#73
 1	(5)	(5)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Připojením	připojení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Negative=Pos|Number=Sing	6	dobj	_	_
@@ -2619,7 +2619,7 @@
 89	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	86	nmod	_	SpaceAfter=No
 90	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-007-p46s13
+# sent_id zakon.iso-007-p46s13/cs
 # orig_file_sentence document_02_007#1
 1	(6)	(6)	PUNCT	Z:-------------	_	22	punct	_	_
 2	Připojení	připojení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing	22	nsubj	_	_
@@ -2653,7 +2653,7 @@
 30	4	4	NUM	C}-------------	NumForm=Roman|NumType=Card	29	nummod	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	22	punct	_	_
 
-# sent_id a-zakon.iso-007-p46s14
+# sent_id zakon.iso-007-p46s14/cs
 # orig_file_sentence document_02_007#2
 1	(7)	(7)	PUNCT	Z:-------------	_	23	punct	_	_
 2	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -2700,7 +2700,7 @@
 43	jednotky	jednotka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	39	nmod	_	SpaceAfter=No
 44	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
-# sent_id a-zakon.iso-007-p46s15
+# sent_id zakon.iso-007-p46s15/cs
 # orig_file_sentence document_02_007#3
 1	(8)	(8)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Identifikačním	identifikační	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	3	amod	_	_
@@ -2752,7 +2752,7 @@
 48	osoby	osoba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	45	conj	_	SpaceAfter=No
 49	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-007-p46s17
+# sent_id zakon.iso-007-p46s17/cs
 # orig_file_sentence document_02_007#4
 1	(9)	(9)	PUNCT	Z:-------------	_	6	punct	_	_
 2	K	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	case	_	LId=k-1
@@ -2771,7 +2771,7 @@
 15	záznamů	záznam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	9	conj	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-007-p46s18
+# sent_id zakon.iso-007-p46s18/cs
 # orig_file_sentence document_02_007#5
 1	(10)	(10)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -2830,18 +2830,18 @@
 54	připojeny	připojit	VERB	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass	47	acl	_	SpaceAfter=No
 55	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-007-p47s1
+# sent_id zakon.iso-007-p47s1/cs
 # orig_file_sentence document_02_007#6
 1	§_34	§_34	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p47s2
+# sent_id zakon.iso-007-p47s2/cs
 # orig_file_sentence document_02_007#7
 1	Přenos	přenos	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	0	root	_	_
 2	průkazného	průkazný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	4	amod	_	_
 3	účetního	účetní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	4	amod	_	LId=účetní-1
 4	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	1	nmod	_	_
 
-# sent_id a-zakon.iso-007-p47s3
+# sent_id zakon.iso-007-p47s3/cs
 # orig_file_sentence document_02_007#8
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Přenos	přenos	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	6	nsubj	_	_
@@ -2881,7 +2881,7 @@
 36	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	32	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-007-p47s4
+# sent_id zakon.iso-007-p47s4/cs
 # orig_file_sentence document_02_007#9
 1	(2)	(2)	PUNCT	Z:-------------	_	12	punct	_	_
 2	Požadavky	požadavek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	12	nsubj	_	_
@@ -2924,11 +2924,11 @@
 39	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	35	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s1
+# sent_id zakon.iso-007-p48s1/cs
 # orig_file_sentence document_02_007#10
 1	§_35	§_35	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p48s2
+# sent_id zakon.iso-007-p48s2/cs
 # orig_file_sentence document_02_007#11
 1	Opravy	oprava	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Plur	0	root	_	_
 2	a	a	CONJ	J^-------------	_	1	cc	_	LId=a-1
@@ -2938,7 +2938,7 @@
 6	účetních	účetní	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	7	amod	_	LId=účetní-1
 7	záznamech	záznam	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Plur	4	nmod	_	_
 
-# sent_id a-zakon.iso-007-p48s3
+# sent_id zakon.iso-007-p48s3/cs
 # orig_file_sentence document_02_007#12
 1	(1)	(1)	PUNCT	Z:-------------	_	8	punct	_	_
 2	Opravy	oprava	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Plur	8	nsubj	_	_
@@ -2962,7 +2962,7 @@
 20	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	11	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s4
+# sent_id zakon.iso-007-p48s4/cs
 # orig_file_sentence document_02_007#13
 1	(2)	(2)	PUNCT	Z:-------------	_	22	punct	_	_
 2	Zjistí-li	Zjistí-li	NOUN	NNNXX-----A----	Gender=Neut|Negative=Pos	22	nmod	_	_
@@ -2998,7 +2998,7 @@
 32	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	31	nummod	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	22	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s5
+# sent_id zakon.iso-007-p48s5/cs
 # orig_file_sentence document_02_007#14
 1	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	2	amod	_	LId=účetní-1
 2	záznam	záznam	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	7	nsubj	_	_
@@ -3022,7 +3022,7 @@
 20	§_33_odst._7	§_33_odst._7	X	X@-------------	_	19	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s6
+# sent_id zakon.iso-007-p48s6/cs
 # orig_file_sentence document_02_007#15
 1	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	2	amod	_	LId=účetní-1
 2	záznam	záznam	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	8	nsubj	_	_
@@ -3045,7 +3045,7 @@
 19	§_33_odst._7	§_33_odst._7	X	X@-------------	_	18	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s7
+# sent_id zakon.iso-007-p48s7/cs
 # orig_file_sentence document_02_007#16
 1	(3)	(3)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Opravy	oprava	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Plur	4	nsubjpass	_	_
@@ -3087,7 +3087,7 @@
 37	opravě	oprava	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	35	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s8
+# sent_id zakon.iso-007-p48s8/cs
 # orig_file_sentence document_02_007#17
 1	(4)	(4)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Okamžik	okamžik	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	7	nsubjpass	_	_
@@ -3118,7 +3118,7 @@
 26	případů	případ	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s9
+# sent_id zakon.iso-007-p48s9/cs
 # orig_file_sentence document_02_007#18
 1	(5)	(5)	PUNCT	Z:-------------	_	18	punct	_	_
 2	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	LId=na-1
@@ -3146,7 +3146,7 @@
 24	nevedly	vést	VERB	VpTP---XR-NA---	Animacy=Inan|Gender=Fem,Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	SpaceAfter=No|LId=vést-1
 25	.	.	PUNCT	Z:-------------	_	18	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s10
+# sent_id zakon.iso-007-p48s10/cs
 # orig_file_sentence document_02_007#19
 1	(6)	(6)	PUNCT	Z:-------------	_	28	punct	_	_
 2	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=v-1
@@ -3186,7 +3186,7 @@
 36	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	35	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	28	punct	_	_
 
-# sent_id a-zakon.iso-007-p48s11
+# sent_id zakon.iso-007-p48s11/cs
 # orig_file_sentence document_02_007#20
 1	(7)	(7)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=za-1
@@ -3231,11 +3231,11 @@
 41	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	35	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s1
+# sent_id zakon.iso-007-p49s1/cs
 # orig_file_sentence document_02_007#21
 1	§_36	§_36	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p49s2
+# sent_id zakon.iso-007-p49s2/cs
 # orig_file_sentence document_02_007#22
 1	(1)	(1)	PUNCT	Z:-------------	_	20	punct	_	_
 2	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
@@ -3267,7 +3267,7 @@
 28	)	)	PUNCT	Z:-------------	_	23	punct	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	20	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s3
+# sent_id zakon.iso-007-p49s3/cs
 # orig_file_sentence document_02_007#23
 1	Standardy	standard	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	2	nsubj	_	_
 2	stanoví	stanovit	VERB	VB-P---3P-AA---	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -3281,7 +3281,7 @@
 10	účtování	účtování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	9	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s4
+# sent_id zakon.iso-007-p49s4/cs
 # orig_file_sentence document_02_007#24
 1	Vybrané	vybraný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	_
 2	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -3292,7 +3292,7 @@
 7	vždy	vždy	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	4	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s5
+# sent_id zakon.iso-007-p49s5/cs
 # orig_file_sentence document_02_007#25
 1	Ostatní	ostatní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	_
 2	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur	3	amod	_	LId=účetní-1
@@ -3314,7 +3314,7 @@
 18	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	17	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s6
+# sent_id zakon.iso-007-p49s6/cs
 # orig_file_sentence document_02_007#26
 1	Odchylku	odchylka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	12	dobj	_	_
 2	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	LId=od-1
@@ -3334,7 +3334,7 @@
 16	závěrky	závěrka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s7
+# sent_id zakon.iso-007-p49s7/cs
 # orig_file_sentence document_02_007#27
 1	Použití	použití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	6	nsubjpass	_	_
 2	standardů	standard	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	1	nmod	_	_
@@ -3358,7 +3358,7 @@
 20	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	19	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s8
+# sent_id zakon.iso-007-p49s8/cs
 # orig_file_sentence document_02_007#28
 1	Pravidla	pravidlo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	9	dobj	_	_
 2	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
@@ -3374,7 +3374,7 @@
 12	předpisem	předpis	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	9	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s9
+# sent_id zakon.iso-007-p49s9/cs
 # orig_file_sentence document_02_007#29
 1	Vydání	vydání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	3	dobj	_	_
 2	standardů	standard	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	1	nmod	_	_
@@ -3385,7 +3385,7 @@
 7	zpravodaji	zpravodaj	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Negative=Pos|Number=Sing	3	nmod	_	SpaceAfter=No|LId=zpravodaj-1
 8	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s10
+# sent_id zakon.iso-007-p49s10/cs
 # orig_file_sentence document_02_007#30
 1	Ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	2	nsubj	_	_
 2	vede	vést	VERB	VB-S---3P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=vést-1
@@ -3394,7 +3394,7 @@
 5	standardů	standard	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	3	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s11
+# sent_id zakon.iso-007-p49s11/cs
 # orig_file_sentence document_02_007#31
 1	(2)	(2)	PUNCT	Z:-------------	_	3	punct	_	_
 2	Ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	3	nsubj	_	_
@@ -3414,7 +3414,7 @@
 16	standardu	standard	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Sing	15	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s12
+# sent_id zakon.iso-007-p49s12/cs
 # orig_file_sentence document_02_007#32
 1	(3)	(3)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	LId=z-1
@@ -3443,7 +3443,7 @@
 25	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	24	nummod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-007-p49s13
+# sent_id zakon.iso-007-p49s13/cs
 # orig_file_sentence document_02_007#33
 1	Tyto	tento	DET	PDIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	standardy	standard	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	7	nsubjpass	_	_
@@ -3454,16 +3454,16 @@
 7	nezveřejňují	zveřejňovat	VERB	VB-P---3P-NA---	Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-007-p50s1
+# sent_id zakon.iso-007-p50s1/cs
 # orig_file_sentence document_02_007#34
 1	Správní	správní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	2	amod	_	_
 2	delikty	delikt	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Plur	0	root	_	_
 
-# sent_id a-zakon.iso-007-p51s1
+# sent_id zakon.iso-007-p51s1/cs
 # orig_file_sentence document_02_007#35
 1	§_37	§_37	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p51s2
+# sent_id zakon.iso-007-p51s2/cs
 # orig_file_sentence document_02_007#36
 1	(1)	(1)	PUNCT	Z:-------------	_	10	punct	_	_
 2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -3582,7 +3582,7 @@
 115	záznamy	záznam	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Plur	113	dobj	_	SpaceAfter=No
 116	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id a-zakon.iso-007-p51s4
+# sent_id zakon.iso-007-p51s4/cs
 # orig_file_sentence document_02_007#37
 1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=za-1
@@ -3627,11 +3627,11 @@
 41	písm._c)_až_h)	písm._c)_až_h)	X	X@-------------	_	40	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id a-zakon.iso-007-p52s1
+# sent_id zakon.iso-007-p52s1/cs
 # orig_file_sentence document_02_007#38
 1	§_37a	§_37a	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p52s2
+# sent_id zakon.iso-007-p52s2/cs
 # orig_file_sentence document_02_007#39
 1	(1)	(1)	PUNCT	Z:-------------	_	8	punct	_	_
 2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	LId=účetní-1
@@ -3834,7 +3834,7 @@
 199	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	195	conj	_	SpaceAfter=No
 200	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-007-p52s4
+# sent_id zakon.iso-007-p52s4/cs
 # orig_file_sentence document_02_007#40
 1	(2)	(2)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Konsolidující	konsolidující	ADJ	AGFS1-----A----	Aspect=Imp|Case=Nom|Gender=Fem|Negative=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
@@ -3939,7 +3939,7 @@
 101	standardy	standarda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	93	dobj	_	SpaceAfter=No
 102	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-007-p52s6
+# sent_id zakon.iso-007-p52s6/cs
 # orig_file_sentence document_02_007#41
 1	(3)	(3)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	LId=za-1
@@ -4023,11 +4023,11 @@
 80	jinak	jinak	ADV	Db-------------	_	79	advmod	_	SpaceAfter=No
 81	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id a-zakon.iso-007-p53s1
+# sent_id zakon.iso-007-p53s1/cs
 # orig_file_sentence document_02_007#42
 1	§_37aa	§_37aa	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p53s2
+# sent_id zakon.iso-007-p53s2/cs
 # orig_file_sentence document_02_007#43
 1	(1)	(1)	PUNCT	Z:-------------	_	12	punct	_	_
 2	Hodnota	hodnota	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	12	nsubjpass	_	_
@@ -4067,7 +4067,7 @@
 36	došlo	dojít	VERB	VpNS---XR-AA---	Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	26	acl	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
-# sent_id a-zakon.iso-007-p53s3
+# sent_id zakon.iso-007-p53s3/cs
 # orig_file_sentence document_02_007#44
 1	(2)	(2)	PUNCT	Z:-------------	_	20	punct	_	_
 2	Pokud	pokud	SCONJ	J,-------------	_	10	mark	_	_
@@ -4104,7 +4104,7 @@
 33	§_26_odst._3	§_26_odst._3	X	X@-------------	_	31	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	20	punct	_	_
 
-# sent_id a-zakon.iso-007-p53s4
+# sent_id zakon.iso-007-p53s4/cs
 # orig_file_sentence document_02_007#45
 1	Obdobně	obdobně	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	3	advmod	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	auxpass:reflex	_	_
@@ -4125,7 +4125,7 @@
 17	sestavena	sestavit	VERB	VsQW---XX-AP---	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|VerbForm=Part|Voice=Pass	3	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-007-p53s5
+# sent_id zakon.iso-007-p53s5/cs
 # orig_file_sentence document_02_007#46
 1	(3)	(3)	PUNCT	Z:-------------	_	12	punct	_	_
 2	Nelze-li	Nelze-li	NOUN	NNNXX-----A----	Gender=Neut|Negative=Pos	12	nmod	_	_
@@ -4154,7 +4154,7 @@
 25	odhadem	odhad	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Negative=Pos|Number=Sing	12	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
-# sent_id a-zakon.iso-007-p53s6
+# sent_id zakon.iso-007-p53s6/cs
 # orig_file_sentence document_02_007#47
 1	(4)	(4)	PUNCT	Z:-------------	_	45	punct	_	_
 2	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=v-1
@@ -4216,11 +4216,11 @@
 58	období	období	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Negative=Pos|Number=Sing	53	nmod	_	SpaceAfter=No
 59	.	.	PUNCT	Z:-------------	_	45	punct	_	_
 
-# sent_id a-zakon.iso-007-p54s1
+# sent_id zakon.iso-007-p54s1/cs
 # orig_file_sentence document_02_007#48
 1	§_37ab	§_37ab	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p54s2
+# sent_id zakon.iso-007-p54s2/cs
 # orig_file_sentence document_02_007#49
 1	Společná	společný	ADJ	AANP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur	2	amod	_	_
 2	ustanovení	ustanovení	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Plur	0	root	_	_
@@ -4228,7 +4228,7 @@
 4	správním	správní	ADJ	AAIP3----1A----	Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	5	amod	_	_
 5	deliktům	delikt	NOUN	NNIP3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Negative=Pos|Number=Plur	2	nmod	_	_
 
-# sent_id a-zakon.iso-007-p54s3
+# sent_id zakon.iso-007-p54s3/cs
 # orig_file_sentence document_02_007#50
 1	(1)	(1)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Právnická	právnický	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	3	amod	_	_
@@ -4262,7 +4262,7 @@
 29	zabránila	zabránit	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Negative=Pos|Number=Plur,Sing|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id a-zakon.iso-007-p54s4
+# sent_id zakon.iso-007-p54s4/cs
 # orig_file_sentence document_02_007#51
 1	(2)	(2)	PUNCT	Z:-------------	_	9	punct	_	_
 2	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=při-1
@@ -4298,7 +4298,7 @@
 32	spáchán	spáchat	VERB	VsYS---XX-AP---	Gender=Masc|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass	27	acl	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id a-zakon.iso-007-p54s5
+# sent_id zakon.iso-007-p54s5/cs
 # orig_file_sentence document_02_007#52
 1	Od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	_	LId=od-1
 2	uložení	uložení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Negative=Pos|Number=Sing	10	dobj	_	_
@@ -4312,7 +4312,7 @@
 10	upustit	upustit	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	9	csubj	_	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id a-zakon.iso-007-p54s6
+# sent_id zakon.iso-007-p54s6/cs
 # orig_file_sentence document_02_007#53
 1	(3)	(3)	PUNCT	Z:-------------	_	8	punct	_	_
 2	Odpovědnost	odpovědnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	8	nsubj	_	_
@@ -4355,7 +4355,7 @@
 39	spáchán	spáchat	VERB	VsYS---XX-AP---	Gender=Masc|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass	35	acl	_	SpaceAfter=No
 40	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id a-zakon.iso-007-p54s7
+# sent_id zakon.iso-007-p54s7/cs
 # orig_file_sentence document_02_007#54
 1	(4)	(4)	PUNCT	Z:-------------	_	10	punct	_	_
 2	Správní	správní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur	3	amod	_	_
@@ -4377,7 +4377,7 @@
 18	jinak	jinak	ADV	Db-------------	_	14	advmod	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id a-zakon.iso-007-p54s8
+# sent_id zakon.iso-007-p54s8/cs
 # orig_file_sentence document_02_007#55
 1	(5)	(5)	PUNCT	Z:-------------	_	23	punct	_	_
 2	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=na-1
@@ -4411,16 +4411,16 @@
 30	osoby	osoba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Negative=Pos|Number=Sing	26	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
-# sent_id a-zakon.iso-007-p55s1
+# sent_id zakon.iso-007-p55s1/cs
 # orig_file_sentence document_02_007#56
 1	§_37b	§_37b	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p55s2
+# sent_id zakon.iso-007-p55s2/cs
 # orig_file_sentence document_02_007#57
 1	Zmocňovací	zmocňovací	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing	2	amod	_	_
 2	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	0	root	_	_
 
-# sent_id a-zakon.iso-007-p55s3
+# sent_id zakon.iso-007-p55s3/cs
 # orig_file_sentence document_02_007#58
 1	(1)	(1)	PUNCT	Z:-------------	_	3	punct	_	_
 2	Ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	3	nsubj	_	_
@@ -4431,7 +4431,7 @@
 7	§_4_odst._8,_§_23b_odst._5,_§_24_odst._5,_§_29_odst._4_a_§_30_odst._5	§_4_odst._8,_§_23b_odst._5,_§_24_odst._5,_§_29_odst._4_a_§_30_odst._5	X	X@-------------	_	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-007-p55s4
+# sent_id zakon.iso-007-p55s4/cs
 # orig_file_sentence document_02_007#59
 1	(2)	(2)	PUNCT	Z:-------------	_	3	punct	_	_
 2	Ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Negative=Pos|Number=Sing	3	nsubj	_	_
@@ -4443,11 +4443,11 @@
 8	§_36_odst._1	§_36_odst._1	X	X@-------------	_	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id a-zakon.iso-007-p56s1
+# sent_id zakon.iso-007-p56s1/cs
 # orig_file_sentence document_02_007#60
 1	§_38	§_38	X	X@-------------	_	0	root	_	_
 
-# sent_id a-zakon.iso-007-p56s2
+# sent_id zakon.iso-007-p56s2/cs
 # orig_file_sentence document_02_007#61
 1	(1)	(1)	PUNCT	Z:-------------	_	9	punct	_	_
 2	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=v-1
@@ -4486,7 +4486,7 @@
 35	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Negative=Pos|Number=Plur	31	dobj	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id a-zakon.iso-007-p56s3
+# sent_id zakon.iso-007-p56s3/cs
 # orig_file_sentence document_02_007#62
 1	(2)	(2)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Ode	od	ADP	RV--2----------	AdpType=Voc|Case=Gen	3	case	_	LId=od-1
@@ -4513,7 +4513,7 @@
 23	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Negative=Pos|Number=Sing	17	conj	_	_
 24	zákona_č._128/1989_Sb.	zákona_č._128/1989_Sb.	X	X@-------------	_	23	nmod	_	_
 
-# sent_id a-zakon.iso-007-p57s1
+# sent_id zakon.iso-007-p57s1/cs
 # orig_file_sentence document_02_007#63
 1	§_38a	§_38a	X	X@-------------	_	0	root	_	_
 
