@@ -32,5 +32,6 @@ Data available since: UD v1.3
 License: CC BY-SA 4.0
 Genre: legal
 Contributors: Hladká, Barbora; Zeman, Daniel
+Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
 Original CLTT authors: Kríž, Vincent; Hladká, Barbora; Urešová, Zdeňka
