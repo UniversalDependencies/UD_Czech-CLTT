@@ -25,6 +25,11 @@ References
   http://hdl.handle.net/11234/1-1516.
 
 
+Changelog
+
+  * No changes since UD release 1.3.
+
+
 === Machine-readable metadata =================================================
 Documentation status: complete
 Data source: semi-automatic
