@@ -1,4 +1,4 @@
-# sent_id = zakon.iso-003-p23s3/cs
+# sent_id = zakon.iso-003-p23s3
 # text = (1) Pokud tento zákon nestanoví jinak, řádnou nebo mimořádnou účetní závěrku jsou povinny mít ověřenu auditorem tyto účetní jednotky a) akciové společnosti, pokud ke konci rozvahového dne účetního období, za nějž se účetní závěrka (§ 18 odst. 3) ověřuje, a účetního období bezprostředně předcházejícího, překročily nebo již dosáhly alespoň jedno ze tří uvedených kritérií: 1. aktiva celkem více než 40000000 Kč; aktivy celkem se pro účely tohoto zákona rozumí úhrn zjištěný z rozvahy v ocenění neupraveném o položky podle § 26 odst. 3, 2. roční úhrn čistého obratu více než 80000000 Kč; ročním úhrnem čistého obratu se pro účely tohoto zákona rozumí výše výnosů snížená o prodejní slevy a dělená počtem započatých měsíců, po které trvalo účetní období, a vynásobená dvanácti, 3. průměrný přepočtený stav zaměstnanců v průběhu účetního období více než 50, zjištěný způsobem stanoveným na základě zvláštního právního předpisu, b) ostatní obchodní společnosti a družstva, pokud ke konci rozvahového dne účetního období, za nějž se účetní závěrka (§ 18 odst. 3) ověřuje, a účetního období bezprotředně předcházejícího, překročily nebo již dosáhly alespoň dvou ze tří kritérií uvedených v písmenu a) bodech 1 až 3; v případě družstva se zaměstnancem podle písmene a) bodu 3 rozumí i pracovní vztah člena k družstvu, c) účetní jednotky podle § 1 odst. 2 písm. b), které jsou podnikateli, a to za podmínek podle písmene b), d) účetní jednotky podle § 1 odst. 2 písm. d) až h) za podmínek podle písmene b), e) účetní jednotky, kterým tuto povinnost stanoví zvláštní právní předpis.
 # orig_file_sentence document_02_004#1
 1	(1)	(1)	PUNCT	Z:-------------	_	14	punct	_	_
@@ -262,7 +262,7 @@
 259	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	256	nsubj	_	SpaceAfter=No
 260	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-004-p23s8/cs
+# sent_id = zakon.iso-004-p23s8
 # text = (2) Účetní jednotky uvedené v odstavci 1 nejsou povinny mít auditorem ověřenou účetní závěrku a) sestavenou v průběhu konkursu, a to po dobu nepřetržitě po sobě jdoucích 36 kalendářních měsíců, počínaje prvním dnem kalendářního měsíce následujícího po dni, kterým nastaly účinky prohlášení konkursu, pokud o jejím ověření auditorem nerozhodne věřitelský výbor, b) sestavenou ke dni předcházejícímu dni, kterým nastanou účinky schválení reorganizačního plánu, pokud o jejím ověření auditorem nerozhodne věřitelský výbor, c) pokud došlo ke zrušení konkursu z důvodu, že majetek dlužníka je pro uspokojení věřitelů zcela nepostačující, d) pokud tak stanoví zvláštní právní předpis.
 # orig_file_sentence document_02_004#2
 1	(2)	(2)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -372,18 +372,18 @@
 105	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	102	nsubj	_	SpaceAfter=No
 106	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-004-p24s1/cs
+# sent_id = zakon.iso-004-p24s1
 # text = § 21
 # orig_file_sentence document_02_004#3
 1	§_21	§_21	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p24s2/cs
+# sent_id = zakon.iso-004-p24s2
 # text = Výroční zpráva
 # orig_file_sentence document_02_004#4
 1	Výroční	výroční	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
 2	zpráva	zpráva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 
-# sent_id = zakon.iso-004-p24s3/cs
+# sent_id = zakon.iso-004-p24s3
 # text = (1) Účetní jednotky uvedené v § 20 odst. 1 písm. a) až d) jsou povinny vyhotovit výroční zprávu, jejímž účelem je uceleně, vyváženě a komplexně informovat o vývoji jejich výkonnosti, činnosti a stávajícím hospodářském postavení.
 # orig_file_sentence document_02_004#5
 1	(1)	(1)	PUNCT	Z:-------------	_	8	punct	_	_
@@ -419,7 +419,7 @@
 31	postavení	postavení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	23	conj	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-004-p24s4/cs
+# sent_id = zakon.iso-004-p24s4
 # text = Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. 2.
 # orig_file_sentence document_02_004#6
 1	Výroční	výroční	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
@@ -433,7 +433,7 @@
 9	§_20_odst._2	§_20_odst._2	X	X@-------------	_	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-004-p24s5/cs
+# sent_id = zakon.iso-004-p24s5
 # text = (2) c) b) a) Výroční o o o zpráva aktivitách předpokládaném skutečnostechmusí v vývoji , kromě oblasti činnosti které informací výzkumu účetní nastaly nezbytných a jednotkyaž pro vývojepo , naplnění rozvahovém účelu dni výroční a zprávy jsou dále významné obsahovat pro nejméně naplnění finanční účelu a výroční nefinanční zprávy informace podle odstavce d) 1o , aktivitách v oblasti ochrany životního prostředí a pracovněprávních vztazích, e) o tom, zda účetní jednotka má organizační složku podniku v zahraničí, f) požadované podle zvláštních právních předpisů.
 # orig_file_sentence document_02_004#7
 1	(2)	(2)	PUNCT	Z:-------------	_	13	punct	_	_
@@ -527,7 +527,7 @@
 89	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	85	obl	_	SpaceAfter=No
 90	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id = zakon.iso-004-p24s7/cs
+# sent_id = zakon.iso-004-p24s7
 # text = (3) Má-li to význam pro posouzení majetku a jiných aktiv, závazků a jiných pasiv, finanční situace a výsledku hospodaření účetní jednotky, musí účetní jednotka, která používá investiční instrumenty, případně další obdobná aktiva a pasiva, uvést ve výroční zprávě také informace o a) cílech a metodách řízení rizik dané společnosti, včetně její politiky pro zajištění všech hlavních typů plánovaných transakcí, u kterých se použijí zajišťovací deriváty, a b) cenových, úvěrových a likvidních rizicích a rizicích souvisejících s tokem hotovosti, kterým je účetní jednotka vystavena.
 # orig_file_sentence document_02_004#8
 1	(3)	(3)	PUNCT	Z:-------------	_	25	punct	_	_
@@ -626,7 +626,7 @@
 94	vystavena	vystavit	VERB	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	82	acl	_	SpaceAfter=No
 95	.	.	PUNCT	Z:-------------	_	25	punct	_	_
 
-# sent_id = zakon.iso-004-p24s9/cs
+# sent_id = zakon.iso-004-p24s9
 # text = (4) Výroční zpráva obsahuje též účetní závěrku podle § 18, 19a, 22 a 23a a zprávu auditora, případně další dokumenty a údaje podle zvláštního právního předpisu.
 # orig_file_sentence document_02_004#9
 1	(4)	(4)	PUNCT	Z:-------------	_	4	punct	_	_
@@ -659,7 +659,7 @@
 28	předpisu	předpis	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-004-p24s10/cs
+# sent_id = zakon.iso-004-p24s10
 # text = (5) Účetní jednotky uvedené v § 20 odst. 1 písm. e) vyhotovují výroční zprávu nebo obdobný dokument, pokud jim tuto povinnost stanoví zvláštní právní předpis.
 # orig_file_sentence document_02_004#10
 1	(5)	(5)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -685,7 +685,7 @@
 21	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	18	nsubj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-004-p24s11/cs
+# sent_id = zakon.iso-004-p24s11
 # text = (6) Pro ověřování výroční zprávy auditorem platí ustanovení § 20 obdobně; předmětem ověření je soulad výroční zprávy s účetní závěrkou.
 # orig_file_sentence document_02_004#11
 1	(6)	(6)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -710,18 +710,18 @@
 20	závěrkou	závěrka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	15	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-004-p25s1/cs
+# sent_id = zakon.iso-004-p25s1
 # text = § 21a
 # orig_file_sentence document_02_004#12
 1	§_21a	§_21a	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p25s2/cs
+# sent_id = zakon.iso-004-p25s2
 # text = Způsoby zveřejňování
 # orig_file_sentence document_02_004#13
 1	Způsoby	způsob	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
 2	zveřejňování	zveřejňování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	_	_
 
-# sent_id = zakon.iso-004-p25s3/cs
+# sent_id = zakon.iso-004-p25s3
 # text = (1) Z účetních jednotek podle § 1 odst. 2 jsou povinny účetní závěrku i výroční zprávu, vyžaduje-li její vyhotovení tento zákon nebo zvláštní právní předpis, zveřejnit ty, které se zapisují do obchodního rejstříku, nebo ty, kterým tuto povinnost stanoví zvláštní právní předpis.
 # orig_file_sentence document_02_004#14
 1	(1)	(1)	PUNCT	Z:-------------	_	8	punct	_	_
@@ -770,7 +770,7 @@
 44	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	41	nsubj	_	SpaceAfter=No
 45	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-004-p25s4/cs
+# sent_id = zakon.iso-004-p25s4
 # text = Účetní jednotky zveřejňují účetní závěrku v rozsahu, v jakém jimi byla sestavena (§ 18 odst. 3).
 # orig_file_sentence document_02_004#15
 1	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	LId=účetní-1
@@ -791,7 +791,7 @@
 16	)	)	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = zakon.iso-004-p25s5/cs
+# sent_id = zakon.iso-004-p25s5
 # text = Povinnosti účetních jednotek ke zveřejnění či uveřejnění jiných informací stanovené ve zvláštních právních předpisech nejsou dotčeny.
 # orig_file_sentence document_02_004#16
 1	Povinnosti	povinnost	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	16	nsubj	_	_
@@ -812,7 +812,7 @@
 16	dotčeny	dotknout	VERB	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-004-p25s6/cs
+# sent_id = zakon.iso-004-p25s6
 # text = Ustanovení o účetních záznamech podle tohoto zákona se mohou použít obdobně i v uvedených případech.
 # orig_file_sentence document_02_004#17
 1	Ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	9	nsubj:pass	_	_
@@ -832,7 +832,7 @@
 15	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	10	obl	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-004-p25s7/cs
+# sent_id = zakon.iso-004-p25s7
 # text = (2) Účetní jednotky uvedené v § 20 zveřejňují účetní závěrku i výroční zprávu po jejich ověření auditorem a po schválení k tomu příslušným orgánem podle zvláštních právních předpisů, a to ve lhůtě do 30 dnů od splnění obou uvedených podmínek, pokud zvláštní právní předpisy nestanoví lhůtu jinou, nejpozději však do konce bezprostředně následujícího účetního období bez ohledu na to, zda byly tyto účetní záznamy uvedeným způsobem schváleny.
 # orig_file_sentence document_02_004#18
 1	(2)	(2)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -907,7 +907,7 @@
 70	schváleny	schválit	VERB	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	61	acl	_	SpaceAfter=No
 71	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-004-p25s8/cs
+# sent_id = zakon.iso-004-p25s8
 # text = (3) Účetní jednotky jsou povinny zveřejnit i zprávu auditora a informaci o tom, že zveřejňované účetní záznamy nebyly případně schváleny způsobem uvedeným v odstavci 2.
 # orig_file_sentence document_02_004#19
 1	(3)	(3)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -938,7 +938,7 @@
 26	2	2	NUM	C}-------------	NumForm=Roman|NumType=Card	25	nummod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-004-p25s9/cs
+# sent_id = zakon.iso-004-p25s9
 # text = (4) Účetní jednotky, které se zapisují do obchodního rejstříku, zveřejňují účetní závěrku a výroční zprávu jejich uložením do sbírky listin obchodního rejstříku podle zvláštního právního předpisu, přitom účetní závěrka může být uložena jako součást výroční zprávy.
 # orig_file_sentence document_02_004#20
 1	(4)	(4)	PUNCT	Z:-------------	_	12	punct	_	_
@@ -982,7 +982,7 @@
 39	zprávy	zpráva	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	37	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
-# sent_id = zakon.iso-004-p25s10/cs
+# sent_id = zakon.iso-004-p25s10
 # text = Účetní jednotky, které podle zvláštního právního předpisu předávají výroční zprávu České národní bance, předávají účetní závěrku a výroční zprávu do sbírky listin obchodního rejstříku prostřednictvím České národní banky.
 # orig_file_sentence document_02_004#21
 1	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	LId=účetní-1
@@ -1017,7 +1017,7 @@
 30	banky	banka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	16	obl	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-004-p25s11/cs
+# sent_id = zakon.iso-004-p25s11
 # text = Povinnost zveřejnění uvedených účetních záznamů podle tohoto zákona účetní jednotka splnila okamžikem jejich předání rejstříkovému soudu; v případech podle věty druhé předáním České národní bance.
 # orig_file_sentence document_02_004#22
 1	Povinnost	povinnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	_
@@ -1048,7 +1048,7 @@
 26	bance	banka	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	23	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id = zakon.iso-004-p25s12/cs
+# sent_id = zakon.iso-004-p25s12
 # text = (5) Organizační složky státu zveřejňují účetní závěrku prostřednictvím ministerstva způsobem umožňujícím dálkový přístup; ustanovení zvláštních právních předpisů o nakládání s utajovanými a jinými obdobnými informacemi tímto nejsou dotčena.
 # orig_file_sentence document_02_004#23
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -1082,7 +1082,7 @@
 29	dotčena	dotknout	VERB	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	5	parataxis	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-004-p25s13/cs
+# sent_id = zakon.iso-004-p25s13
 # text = Zveřejňování účetních výkazů za Českou republiku se provádí obdobně.
 # orig_file_sentence document_02_004#24
 1	Zveřejňování	zveřejňování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj:pass	_	_
@@ -1096,7 +1096,7 @@
 9	obdobně	obdobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-004-p25s14/cs
+# sent_id = zakon.iso-004-p25s14
 # text = (6) Účetní jednotky, které mají povinnost ověřování podle § 20, nesmí zveřejnit informace, které předtím nebyly ověřeny auditorem, způsobem, který by mohl uživatele uvést v omyl, že auditorem ověřeny byly.
 # orig_file_sentence document_02_004#25
 1	(6)	(6)	PUNCT	Z:-------------	_	12	punct	_	_
@@ -1136,7 +1136,7 @@
 35	byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	aux:pass	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
-# sent_id = zakon.iso-004-p25s15/cs
+# sent_id = zakon.iso-004-p25s15
 # text = (7) Povinnost zveřejnění podle tohoto ustanovení se vztahuje na všechny informace účetní závěrky i výroční zprávy s výjimkou těch, na které se vztahuje utajení podle zvláštního právního předpisu.
 # orig_file_sentence document_02_004#26
 1	(7)	(7)	PUNCT	Z:-------------	_	8	punct	_	_
@@ -1170,7 +1170,7 @@
 29	předpisu	předpis	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	25	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-004-p25s16/cs
+# sent_id = zakon.iso-004-p25s16
 # text = (8) Ustanovení odstavců 1 až 7 platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně.
 # orig_file_sentence document_02_004#27
 1	(8)	(8)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -1190,12 +1190,12 @@
 15	obdobně	obdobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	7	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-004-p26s1/cs
+# sent_id = zakon.iso-004-p26s1
 # text = § 22
 # orig_file_sentence document_02_004#28
 1	§_22	§_22	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p26s2/cs
+# sent_id = zakon.iso-004-p26s2
 # text = (1) Konsolidovanou účetní závěrkou se rozumí účetní závěrka sestavená a upravená metodami konsolidace.
 # orig_file_sentence document_02_004#29
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -1213,7 +1213,7 @@
 13	konsolidace	konsolidace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p26s3/cs
+# sent_id = zakon.iso-004-p26s3
 # text = Nestanoví-li se dále jinak, ustanovení tohoto zákona týkající se účetní závěrky se použijí i pro konsolidovanou účetní závěrku; konsolidovaná účetní závěrka je ověřována auditorem.
 # orig_file_sentence document_02_004#30
 1	Nestanoví-li	Nestanoví-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	14	nmod	_	_
@@ -1244,7 +1244,7 @@
 26	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	25	obj	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-004-p26s4/cs
+# sent_id = zakon.iso-004-p26s4
 # text = (2) Povinnost sestavit konsolidovanou účetní závěrku má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, účetní jednotka, která je obchodní společností a je ovládající osobou, s výjimkou ovládajících osob, které vykonávají společný vliv podle odstavce 4 (dále jen "konsolidující účetní jednotka").
 # orig_file_sentence document_02_004#31
 1	(2)	(2)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -1296,7 +1296,7 @@
 47	)	)	PUNCT	Z:-------------	_	37	punct	_	SpaceAfter=No
 48	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-004-p26s5/cs
+# sent_id = zakon.iso-004-p26s5
 # text = (3) Povinnost podrobit se sestavení konsolidované účetní závěrky má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, osoba bez ohledu na její sídlo, pokud je a) ovládanou osobou, s výjimkou ovládaných osob, ve kterých je vykonáván společný vliv podle odstavce 4 (dále jen "konsolidovaná účetní jednotka"), b) osobou, ve které konsolidující nebo konsolidovaná účetní jednotka vykonává společný vliv (dále jen "účetní jednotka pod společným vlivem"), nebo c) osobou, ve které konsolidující účetní jednotka vykonává podstatný vliv (dále jen "účetní jednotka přidružená").
 # orig_file_sentence document_02_004#32
 1	(3)	(3)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -1390,7 +1390,7 @@
 89	)	)	PUNCT	Z:-------------	_	75	punct	_	SpaceAfter=No
 90	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-004-p26s7/cs
+# sent_id = zakon.iso-004-p26s7
 # text = (4) Společným vlivem se pro účely sestavení konsolidované účetní závěrky rozumí takový vliv, kdy osoba v konsolidačním celku spolu s jednou nebo více osobami nezahrnutými do konsolidačního celku ovládají jinou osobu, přičemž osoba vykonávající společný vliv samostatně nevykonává rozhodující vliv v této jiné osobě.
 # orig_file_sentence document_02_004#33
 1	(4)	(4)	PUNCT	Z:-------------	_	11	punct	_	_
@@ -1441,7 +1441,7 @@
 46	osobě	osoba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	42	nmod	_	SpaceAfter=No
 47	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id = zakon.iso-004-p26s8/cs
+# sent_id = zakon.iso-004-p26s8
 # text = (5) Podstatným vlivem se rozumí takový významný vliv na řízení nebo provozování podniku podle zvláštního právního předpisu, jenž není rozhodující ani společný; není-li prokázán opak, považuje se za podstatný vliv dispozice nejméně s 20 % hlasovacích práv.
 # orig_file_sentence document_02_004#34
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -1486,7 +1486,7 @@
 40	práv	právo	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	38	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-004-p26s9/cs
+# sent_id = zakon.iso-004-p26s9
 # text = (6) Konsolidační celek tvoří účetní jednotky uvedené v odstavcích 2 a 3 písm. a), a to za podmínek stanovených § 22a a prováděcími právními předpisy.
 # orig_file_sentence document_02_004#35
 1	(6)	(6)	PUNCT	Z:-------------	_	4	punct	_	_
@@ -1515,7 +1515,7 @@
 24	předpisy	předpis	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	20	conj	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-004-p26s10/cs
+# sent_id = zakon.iso-004-p26s10
 # text = (7) Konsolidovaná účetní závěrka musí být sestavena tak, aby podávala věrný a poctivý obraz předmětu účetnictví a finanční situace konsolidačního celku, účetních jednotek pod společných vlivem a účetních jednotek přidružených.
 # orig_file_sentence document_02_004#36
 1	(7)	(7)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -1554,12 +1554,12 @@
 33	přidružených	přidružený	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	32	amod	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-004-p27s1/cs
+# sent_id = zakon.iso-004-p27s1
 # text = § 22a
 # orig_file_sentence document_02_004#37
 1	§_22a	§_22a	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p27s2/cs
+# sent_id = zakon.iso-004-p27s2
 # text = (1) Konsolidující účetní jednotka není povinna sestavit konsolidovanou účetní závěrku, pokud ke konci rozvahového dne účetního období, za nějž se konsolidovaná účetní závěrka sestavuje, konsolidující účetní jednotka a konsolidované účetní jednotky společně, na základě svých posledních řádných účetních závěrek, nesplnily alespoň dvě z těchto kritérií: a) aktiva celkem činí více než 350000000 Kč; aktivy celkem se pro účely tohoto zákona rozumí úhrn zjištěný z rozvahy v ocenění neupraveném o položky podle § 26 odst. 3, b) roční úhrn čistého obratu činí více než 700000000 Kč; ročním úhrnem čistého obratu se pro účely tohoto zákona rozumí výše výnosů snížená o prodejní slevy, dělená počtem započatých měsíců, po které trvalo účetní období, a vynásobená dvanácti, c) průměrný přepočtený stav zaměstnanců, včetně případů pracovního vztahu člena k družstvu, zjištěný způsobem stanoveným na základě zvláštního právního předpisu, činí v průběhu účetního období více než 250.
 # orig_file_sentence document_02_004#38
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -1718,7 +1718,7 @@
 154	250	250	NUM	C}-------------	NumForm=Roman|NumType=Card	152	advcl	_	SpaceAfter=No
 155	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p27s4/cs
+# sent_id = zakon.iso-004-p27s4
 # text = (2) Ustanovení odstavce 1 se nepoužije u účetních jednotek, které jsou bankami nebo provozují pojišťovací nebo zajišťovací činnost podle jiných právních předpisů, nebo jsou emitentem cenných papírů přijatých k obchodování na evropském regulovaném trhu.
 # orig_file_sentence document_02_004#39
 1	(2)	(2)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -1759,7 +1759,7 @@
 36	trhu	trh	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	32	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p27s5/cs
+# sent_id = zakon.iso-004-p27s5
 # text = (3) Konsolidující účetní jednotka není povinna sestavit konsolidovanou účetní závěrku, pokud k podání věrného a poctivého obrazu předmětu účetnictví a finanční situace konsolidačního celku postačuje účetní závěrka konsolidující účetní jednotky, protože konsolidující účetní jednotka ovládá pouze konsolidované účetní jednotky, jež jsou jednotlivě i v úhrnu nevýznamné.
 # orig_file_sentence document_02_004#40
 1	(3)	(3)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -1813,12 +1813,12 @@
 49	nevýznamné	významný	ADJ	AAIP1----1N----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg	41	acl	_	SpaceAfter=No
 50	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p28s1/cs
+# sent_id = zakon.iso-004-p28s1
 # text = § 22b
 # orig_file_sentence document_02_004#41
 1	§_22b	§_22b	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p28s2/cs
+# sent_id = zakon.iso-004-p28s2
 # text = (1) Konsolidující účetní jednotka je povinna včas sdělit účetním jednotkám uvedeným v § 22 odst. 3, že budou konsolidovány.
 # orig_file_sentence document_02_004#42
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -1840,7 +1840,7 @@
 17	konsolidovány	konsolidovat	VERB	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	8	ccomp	_	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p28s3/cs
+# sent_id = zakon.iso-004-p28s3
 # text = Současně jim sdělí informaci o vymezení konsolidačního celku a určí, které účetní záznamy a ostatní dokumenty jsou povinny tyto účetní jednotky poskytnout konsolidující účetní jednotce pro sestavení konsolidované účetní závěrky.
 # orig_file_sentence document_02_004#43
 1	Současně	současně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	_	_
@@ -1876,7 +1876,7 @@
 31	závěrky	závěrka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	28	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = zakon.iso-004-p28s4/cs
+# sent_id = zakon.iso-004-p28s4
 # text = (2) Konsolidující účetní jednotka je povinna vyhotovit konsolidovanou výroční zprávu a zajistit její ověření auditorem; předmětem ověření je soulad konsolidované výroční zprávy s konsolidovanou účetní závěrkou.
 # orig_file_sentence document_02_004#44
 1	(2)	(2)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -1908,7 +1908,7 @@
 27	závěrkou	závěrka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	20	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p28s5/cs
+# sent_id = zakon.iso-004-p28s5
 # text = Povinnosti podle § 22 odst. 2 a 3 a podle odstavce 1 platí obdobně v souvislosti s povinností vyhotovit konsolidovanou výroční zprávu.
 # orig_file_sentence document_02_004#45
 1	Povinnosti	povinnost	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	8	nsubj	_	_
@@ -1930,7 +1930,7 @@
 17	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	14	obj	_	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-004-p28s6/cs
+# sent_id = zakon.iso-004-p28s6
 # text = Konsolidovanou výroční zprávou se rozumí výroční zpráva, která obsahuje informace o konsolidačním celku, účetních jednotkách pod společným vlivem a účetních jednotkách přidružených.
 # orig_file_sentence document_02_004#46
 1	Konsolidovanou	konsolidovaný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
@@ -1959,7 +1959,7 @@
 24	přidružených	přidružený	ADJ	AAFP6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	23	amod	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-004-p28s7/cs
+# sent_id = zakon.iso-004-p28s7
 # text = Jsou-li obsahem konsolidované výroční zprávy i všechny informace o konsolidující účetní jednotce, které musí obsahovat výroční zpráva, nemusí tato konsolidující účetní jednotka vyhotovovat výroční zprávu.
 # orig_file_sentence document_02_004#47
 1	Jsou-li	Jsou-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	2	cop	_	_
@@ -1991,7 +1991,7 @@
 27	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	25	obj	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	20	punct	_	_
 
-# sent_id = zakon.iso-004-p28s8/cs
+# sent_id = zakon.iso-004-p28s8
 # text = Nestanoví-li se dále jinak, ustanovení tohoto zákona týkající se výroční zprávy se použijí i pro konsolidovanou výroční zprávu.
 # orig_file_sentence document_02_004#48
 1	Nestanoví-li	Nestanoví-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	14	nmod	_	_
@@ -2015,12 +2015,12 @@
 19	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	14	obl	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-004-p29s1/cs
+# sent_id = zakon.iso-004-p29s1
 # text = § 23
 # orig_file_sentence document_02_004#49
 1	§_23	§_23	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p29s2/cs
+# sent_id = zakon.iso-004-p29s2
 # text = (1) Konsolidující účetní jednotka je povinna pro sestavení konsolidované účetní závěrky použít metody a) plné konsolidace, b) poměrné konsolidace, nebo c) konsolidace ekvivalencí (protihodnotou).
 # orig_file_sentence document_02_004#50
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -2053,7 +2053,7 @@
 28	)	)	PUNCT	Z:-------------	_	27	punct	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p29s4/cs
+# sent_id = zakon.iso-004-p29s4
 # text = (2) Konsolidovaná účetní závěrka se sestavuje ke konci rozvahového dne konsolidující účetní jednotky.
 # orig_file_sentence document_02_004#51
 1	(2)	(2)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -2071,7 +2071,7 @@
 13	jednotky	jednotka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p29s5/cs
+# sent_id = zakon.iso-004-p29s5
 # text = (3) Účetní závěrky konsolidující účetní jednotky a jí konsolidovaných účetních jednotek a účetních jednotek pod společným vlivem použité pro sestavení konsolidované účetní závěrky sestavují tyto účetní jednotky v zásadě ke stejnému okamžiku.
 # orig_file_sentence document_02_004#52
 1	(3)	(3)	PUNCT	Z:-------------	_	24	punct	_	_
@@ -2108,7 +2108,7 @@
 32	okamžiku	okamžik	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	24	obl	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	24	punct	_	_
 
-# sent_id = zakon.iso-004-p29s6/cs
+# sent_id = zakon.iso-004-p29s6
 # text = Předchází-li rozvahový den poslední účetní závěrky některé z konsolidovaných účetních jednotek a účetních jednotek pod společným vlivem o více jak 3 měsíce rozvahový den podle odstavce 2, je tato konsolidovaná účetní jednotka zahrnuta do konsolidačního celku na základě účetní závěrky jí sestavené s použitím ustanovení § 19 odst. 3 ke konci rozvahového dne konsolidující účetní jednotky.
 # orig_file_sentence document_02_004#53
 1	Předchází-li	Předchází-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	34	obl	_	_
@@ -2167,7 +2167,7 @@
 54	jednotky	jednotka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	51	nmod	_	SpaceAfter=No
 55	.	.	PUNCT	Z:-------------	_	34	punct	_	_
 
-# sent_id = zakon.iso-004-p29s7/cs
+# sent_id = zakon.iso-004-p29s7
 # text = V případě účetních jednotek, které provozují činnost pojištění nebo zajištění podle zvláštních právních předpisů, může uvedená doba činit až 6 měsíců.
 # orig_file_sentence document_02_004#54
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=v-1
@@ -2195,7 +2195,7 @@
 23	měsíců	měsíc	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	20	obl	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	17	punct	_	_
 
-# sent_id = zakon.iso-004-p29s8/cs
+# sent_id = zakon.iso-004-p29s8
 # text = (4) Délka účetního období při konsolidaci účetní závěrky musí být stejná.
 # orig_file_sentence document_02_004#55
 1	(4)	(4)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -2211,7 +2211,7 @@
 11	stejná	stejný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-004-p29s9/cs
+# sent_id = zakon.iso-004-p29s9
 # text = Dojde-li v průběhu účetního období ke změnám ve vymezení účetních jednotek, které mají povinnost podrobit se sestavení konsolidované účetní závěrky podle § 22 odst. 3, musí být tato informace uvedena v příloze v konsolidované účetní závěrce.
 # orig_file_sentence document_02_004#56
 1	Dojde-li	Dojde-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	25	obl	_	_
@@ -2251,12 +2251,12 @@
 35	závěrce	závěrka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	31	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	25	punct	_	_
 
-# sent_id = zakon.iso-004-p30s1/cs
+# sent_id = zakon.iso-004-p30s1
 # text = § 23a
 # orig_file_sentence document_02_004#57
 1	§_23a	§_23a	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p30s2/cs
+# sent_id = zakon.iso-004-p30s2
 # text = Použití mezinárodních účetních standardů v konsolidaci
 # orig_file_sentence document_02_004#58
 1	Použití	použití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
@@ -2266,7 +2266,7 @@
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=v-1
 6	konsolidaci	konsolidace	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
 
-# sent_id = zakon.iso-004-p30s3/cs
+# sent_id = zakon.iso-004-p30s3
 # text = (1) Konsolidující účetní jednotka, která je emitentem cenných papírů přijatých k obchodování na evropském regulovaném trhu, použije pro sestavení konsolidované účetní závěrky mezinárodní účetní standardy.
 # orig_file_sentence document_02_004#59
 1	(1)	(1)	PUNCT	Z:-------------	_	19	punct	_	_
@@ -2298,7 +2298,7 @@
 27	standardy	standarda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	19	obj	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	19	punct	_	_
 
-# sent_id = zakon.iso-004-p30s4/cs
+# sent_id = zakon.iso-004-p30s4
 # text = (2) Konsolidující účetní jednotky neuvedené v odstavci 1 mohou pro sestavení konsolidované účetní závěrky použít mezinárodní účetní standardy.
 # orig_file_sentence document_02_004#60
 1	(2)	(2)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -2321,12 +2321,12 @@
 18	standardy	standard	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	15	obj	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-004-p31s1/cs
+# sent_id = zakon.iso-004-p31s1
 # text = § 23b
 # orig_file_sentence document_02_004#61
 1	§_23b	§_23b	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-004-p31s2/cs
+# sent_id = zakon.iso-004-p31s2
 # text = (1) Na sestavování účetních výkazů za Českou republiku se ustanovení § 22 až 22b, § 23 odst. 1 až 4 a § 23a nevztahují.
 # orig_file_sentence document_02_004#62
 1	(1)	(1)	PUNCT	Z:-------------	_	16	punct	_	_
@@ -2347,7 +2347,7 @@
 16	nevztahují	vztahovat	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-004-p31s3/cs
+# sent_id = zakon.iso-004-p31s3
 # text = (2) Za Českou republiku se sestavují roční účetní výkazy k poslednímu dni kalendářního roku v tomto členění: a) souhrnný výkaz majetku a závazků státu, b) souhrnný výkaz nákladů a výnosů státu, c) výkaz peněžních toků, d) příloha.
 # orig_file_sentence document_02_004#63
 1	(2)	(2)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -2393,7 +2393,7 @@
 41	příloha	příloha	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	21	conj	_	SpaceAfter=No
 42	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-004-p31s5/cs
+# sent_id = zakon.iso-004-p31s5
 # text = (3) K účetním výkazům za Českou republiku a k účetním výkazům za dílčí konsolidační celek státu musí být připojen podpisový záznam statutárního orgánu účetní jednotky, která tyto účetní výkazy sestavila.
 # orig_file_sentence document_02_004#64
 1	(3)	(3)	PUNCT	Z:-------------	_	17	punct	_	_
@@ -2429,7 +2429,7 @@
 31	sestavila	sestavit	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	25	acl	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	17	punct	_	_
 
-# sent_id = zakon.iso-004-p31s6/cs
+# sent_id = zakon.iso-004-p31s6
 # text = (4) Účetní jednotky zahrnuté do konsolidačního celku a dílčích konsolidačních celků státu jsou povinny poskytnout svoji účetní závěrku a veškeré ostatní dokumenty potřebné pro sestavení účetních výkazů za Českou republiku a účetních výkazů za dílčí konsolidační celek státu účetní jednotce, která tyto účetní výkazy sestavuje.
 # orig_file_sentence document_02_004#65
 1	(4)	(4)	PUNCT	Z:-------------	_	14	punct	_	_
@@ -2480,7 +2480,7 @@
 46	sestavuje	sestavovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	40	acl	_	SpaceAfter=No
 47	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-004-p31s7/cs
+# sent_id = zakon.iso-004-p31s7
 # text = (5) Podmínky způsobu sestavení ročních účetních výkazů a mezitímních účetních výkazů za Českou republiku, zejména vymezení konsolidačního celku a dílčích konsolidačních celků státu, stanovení pravidel konsolidace, včetně pravidel pro přenos účetních záznamů v technické formě, a dále způsobu a rozsahu použití metod konsolidace a určení odchylek stanoví prováděcí právní předpis.
 # orig_file_sentence document_02_004#66
 1	(5)	(5)	PUNCT	Z:-------------	_	51	punct	_	_
@@ -2539,24 +2539,24 @@
 54	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	51	nsubj	_	SpaceAfter=No
 55	.	.	PUNCT	Z:-------------	_	51	punct	_	_
 
-# sent_id = zakon.iso-004-p32s1/cs
+# sent_id = zakon.iso-004-p32s1
 # text = ČÁST ČTVRTÁ
 # orig_file_sentence document_02_004#67
 1	ČÁST	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	_	_
 2	ČTVRTÁ	čtvrtý	ADJ	CrFS1----------	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	0	root	_	_
 
-# sent_id = zakon.iso-004-p32s2/cs
+# sent_id = zakon.iso-004-p32s2
 # text = Způsoby oceňování
 # orig_file_sentence document_02_004#68
 1	Způsoby	způsob	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
 2	oceňování	oceňování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	_	_
 
-# sent_id = zakon.iso-005-p33s1/cs
+# sent_id = zakon.iso-005-p33s1
 # text = § 24
 # orig_file_sentence document_02_005#1
 1	§_24	§_24	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-005-p33s2/cs
+# sent_id = zakon.iso-005-p33s2
 # text = (1) Účetní jednotky jsou povinny oceňovat majetek a závazky způsoby podle ustanovení tohoto zákona.
 # orig_file_sentence document_02_005#2
 1	(1)	(1)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -2575,7 +2575,7 @@
 14	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	12	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-005-p33s3/cs
+# sent_id = zakon.iso-005-p33s3
 # text = (2) Účetní jednotky oceňují majetek a závazky a) k okamžiku uskutečnění účetního případu způsoby podle § 25, b) ke konci rozvahového dne nebo k jinému okamžiku, k němuž se účetní závěrka sestavuje, způsoby podle § 27; rovněž toto ocenění je povinna zaznamenat v účetních knihách, (dále jen "okamžik ocenění").
 # orig_file_sentence document_02_005#3
 1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	_	_
@@ -2633,7 +2633,7 @@
 53	)	)	PUNCT	Z:-------------	_	43	punct	_	SpaceAfter=No
 54	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-005-p33s5/cs
+# sent_id = zakon.iso-005-p33s5
 # text = Ustanovení tohoto zákona o oceňování majetku a závazků se použije přiměřeně i pro oceňování jiných aktiv a pasiv.
 # orig_file_sentence document_02_005#4
 1	Ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	10	nsubj:pass	_	_
@@ -2656,7 +2656,7 @@
 18	pasiv	pasívum	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	16	conj	_	SpaceAfter=No|LId=pasívum-1
 19	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = zakon.iso-005-p33s6/cs
+# sent_id = zakon.iso-005-p33s6
 # text = (3) Při nabytí více než jedné složky majetku převodem či přechodem, pokud nelze jednotlivé složky majetku ocenit postupem podle § 25, ocení účetní jednotka jednotlivé složky majetku a) při nabytí podniku či jeho části tvořící samostatnou organizační složku, a to i při přeměně společnosti s výjimkou změny právní formy 1. oceněním jednotlivých složek majetku vedeného v účetnictví účetní jednotky, ze které bylo právo k podniku převedeno nebo přešlo, nebo 2. oceněním jednotlivých složek majetku podle zvláštního právního předpisu, b) v ostatních případech poměrným rozúčtováním celkové pořizovací ceny nebo reprodukční pořizovací ceny.
 # orig_file_sentence document_02_005#5
 1	(3)	(3)	PUNCT	Z:-------------	_	23	punct	_	_
@@ -2759,7 +2759,7 @@
 98	ceny	cena	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	94	conj	_	SpaceAfter=No|LId=cena-1
 99	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
-# sent_id = zakon.iso-005-p33s10/cs
+# sent_id = zakon.iso-005-p33s10
 # text = (4) Při pořízení souboru movitých věcí se samostatným technicko-ekonomickým určením, které slouží jednotnému účelu, popřípadě u dalších souborů stanovených prováděcím právním předpisem, se ocení soubor jako celek.
 # orig_file_sentence document_02_005#6
 1	(4)	(4)	PUNCT	Z:-------------	_	27	punct	_	_
@@ -2794,7 +2794,7 @@
 30	celek	celek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	28	xcomp	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	27	punct	_	_
 
-# sent_id = zakon.iso-005-p33s11/cs
+# sent_id = zakon.iso-005-p33s11
 # text = (5) Účetní metodu oceňování majetku podle odstavců 3 a 4 upraví prováděcí právní předpis včetně možností použití způsobu oceňování podle odstavce 3 písm. a) bodu 1 v případě přeshraniční přeměny, vkladu nebo prodeji podniku.
 # orig_file_sentence document_02_005#7
 1	(5)	(5)	PUNCT	Z:-------------	_	11	punct	_	_
@@ -2831,7 +2831,7 @@
 32	podniku	podnik	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id = zakon.iso-005-p33s12/cs
+# sent_id = zakon.iso-005-p33s12
 # text = (6) Majetek a závazky vyjádřené v cizí měně přepočítávají účetní jednotky na českou měnu kurzem devizového trhu vyhlášeným Českou národní bankou, a to k okamžiku ocenění a) podle odstavce 2 písm. a), nebo b) podle odstavce 2 písm. b), a to pouze majetek a závazky uvedené v § 4 odst. 12.
 # orig_file_sentence document_02_005#8
 1	(6)	(6)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -2885,7 +2885,7 @@
 49	§_4_odst._12	§_4_odst._12	X	X@-------------	_	47	advmod	_	SpaceAfter=No
 50	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-005-p33s14/cs
+# sent_id = zakon.iso-005-p33s14
 # text = V případě nákupu nebo prodeje cizí měny za českou měnu lze k okamžiku ocenění použít kurzu, za který byly tyto hodnoty nakoupeny nebo prodány.
 # orig_file_sentence document_02_005#9
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=v-1
@@ -2915,7 +2915,7 @@
 25	prodány	prodat	VERB	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	23	conj	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
-# sent_id = zakon.iso-005-p33s15/cs
+# sent_id = zakon.iso-005-p33s15
 # text = (7) Pro účely ocenění podle odstavce 2 písm. a) může účetní jednotka použít pro přepočet cizí měny na českou měnu pevný kurs, kterým se rozumí kurs stanovený vnitřním předpisem účetní jednotky na základě kursu devizového trhu vyhlášeného Českou národní bankou, používaný účetní jednotkou po předem stanovenou dobu.
 # orig_file_sentence document_02_005#10
 1	(7)	(7)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -2968,7 +2968,7 @@
 48	dobu	doba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	42	obl	_	SpaceAfter=No
 49	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-005-p33s16/cs
+# sent_id = zakon.iso-005-p33s16
 # text = Stanovená doba nesmí přesáhnout účetní období.
 # orig_file_sentence document_02_005#11
 1	Stanovená	stanovený	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
@@ -2979,7 +2979,7 @@
 6	období	období	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
-# sent_id = zakon.iso-005-p33s17/cs
+# sent_id = zakon.iso-005-p33s17
 # text = Jako kurs devizového trhu, na jehož základě se pevný kurs stanoví, použije účetní jednotka kurs devizového trhu vyhlášený Českou národní bankou k prvnímu dni období, pro které je pevný kurs používán.
 # orig_file_sentence document_02_005#12
 1	Jako	jako	SCONJ	J,-------------	_	2	mark	_	_
@@ -3018,7 +3018,7 @@
 34	používán	používat	VERB	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	27	acl	_	SpaceAfter=No
 35	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-005-p33s18/cs
+# sent_id = zakon.iso-005-p33s18
 # text = Při používání pevného kursu může účetní jednotka tento kurs změnit svým vnitřním předpisem i v průběhu stanovené doby; v případech vyhlášení devalvace i revalvace české koruny musí být pevný kurs změněn vždy.
 # orig_file_sentence document_02_005#13
 1	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=při-1
@@ -3056,7 +3056,7 @@
 33	vždy	vždy	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	32	advmod	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-005-p33s19/cs
+# sent_id = zakon.iso-005-p33s19
 # text = (8) Ustanovení odstavce 7 se nevztahuje na účetní jednotky, které k výkonu činnosti potřebují podle zvláštních právních předpisů bankovní licenci, povolení k výkonu činnosti obchodníka s cennými papíry, povolení ke vzniku investiční společnosti nebo investičního fondu, povolení ke vzniku a činnosti penzijního fondu, povolení působit jako družstevní záložna, povolení k provozování pojišťovací nebo zajišťovací činnosti, povolení k provádění všeobecného zdravotního pojištění.
 # orig_file_sentence document_02_005#14
 1	(8)	(8)	PUNCT	Z:-------------	_	6	punct	_	_
@@ -3129,7 +3129,7 @@
 68	pojištění	pojištění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	65	nmod	_	SpaceAfter=No
 69	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-005-p33s20/cs
+# sent_id = zakon.iso-005-p33s20
 # text = Dále se ustanovení odstavce 7 nevztahuje na Českou národní banku, Českou kancelář pojistitelů a Všeobecnou zdravotní pojišťovnu České republiky.
 # orig_file_sentence document_02_005#15
 1	Dále	dále	ADV	Db------------1	_	6	advmod	_	LId=dále-3
@@ -3154,7 +3154,7 @@
 20	republiky	republika	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-005-p33s21/cs
+# sent_id = zakon.iso-005-p33s21
 # text = (9) V případě cizí měny, u které se nevyhlašuje kurs devizového trhu denně, použije účetní jednotka pro její přepočet a) kurs mezibankovního trhu pro tuto měnu k USD nebo EUR a kurs devizového trhu vyhlášený Českou národní bankou pro USD nebo EUR ke stejnému dni, nebo b) poslední známý kurs vyhlášený či zveřejněný Českou národní bankou; tento postup nepoužijí účetní jednotky, na které se nevztahuje ustanovení odstavce 7.
 # orig_file_sentence document_02_005#16
 1	(9)	(9)	PUNCT	Z:-------------	_	16	punct	_	_
@@ -3232,12 +3232,12 @@
 73	7	7	NUM	C}-------------	NumForm=Roman|NumType=Card	72	nummod	_	SpaceAfter=No
 74	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-005-p34s1/cs
+# sent_id = zakon.iso-005-p34s1
 # text = § 25
 # orig_file_sentence document_02_005#17
 1	§_25	§_25	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-005-p34s2/cs
+# sent_id = zakon.iso-005-p34s2
 # text = (1) Z jednotlivých složek majetku a závazků se oceňují a) hmotný majetek kromě zásob, s výjimkou hmotného majetku vytvořeného vlastní činností pořizovacími cenami, b) hmotný majetek kromě zásob vytvořený vlastní činností vlastními náklady, c) zásoby, s výjimkou zásob vytvořených vlastní činností pořizovacími cenami, d) zásoby vytvořené vlastní činností vlastními náklady, e) peněžní prostředky a ceniny jejich jmenovitými hodnotami, f) podíly, cenné papíry a deriváty pořizovacími cenami, g) pohledávky při vzniku jmenovitou hodnotou; při nabytí za úplatu nebo vkladem pořizovací cenou; závazky jmenovitou hodnotou, h) nehmotný majetek kromě pohledávek, s výjimkou nehmotného majetku vytvořeného vlastní činností pořizovacími cenami, i) nehmotný majetek kromě pohledávek vytvořený vlastní činností vlastními náklady, j) příchovky zvířat vlastními náklady, k) kulturní památky, sbírky muzejní povahy, předměty kulturní hodnoty a církevní stavby, pokud není známa jejich pořizovací cena, ve výši 1 Kč, l) majetek v případech bezúplatného nabytí, s výjimkou majetku uvedeného pod písmenem e), anebo majetek v případech, kdy vlastní náklady na jeho vytvoření vlastní činností nelze zjistit, a ostatní majetek, který není uveden pod písmeny a) až k), reprodukční pořizovací cenou.
 # orig_file_sentence document_02_005#18
 1	(1)	(1)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -3442,7 +3442,7 @@
 200	cenou	cena	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	157	dep	_	SpaceAfter=No|LId=cena-1
 201	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-005-p34s4/cs
+# sent_id = zakon.iso-005-p34s4
 # text = (2) Jiná aktiva a jiná pasiva, o kterých účtují vybrané účetní jednotky účetními zápisy v knihách podrozvahových účtů, se v případě skutečností, o kterých účetní jednotky účtují v souvislosti s budoucím přírůstkem nebo úbytkem majetku nebo jiného aktiva, závazku nebo jiného pasiva, ke kterému může dojít na základě stanovené podmínky nebo podmínek, oceňují předpokládanou výší ocenění této složky majetku či jiného aktiva nebo závazku či jiného pasiva.
 # orig_file_sentence document_02_005#19
 1	(2)	(2)	PUNCT	Z:-------------	_	59	punct	_	_
@@ -3520,7 +3520,7 @@
 73	pasiva	pasívum	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	70	conj	_	SpaceAfter=No|LId=pasívum-1
 74	.	.	PUNCT	Z:-------------	_	59	punct	_	_
 
-# sent_id = zakon.iso-005-p34s5/cs
+# sent_id = zakon.iso-005-p34s5
 # text = (3) Účetní jednotky při oceňování ke konci rozvahového dne zahrnují jen zisky, které byly dosaženy, a berou v úvahu všechna předvídatelná rizika a možné ztráty, které se týkají majetku a závazků a jsou jim známy do okamžiku sestavení účetní závěrky, jakož i všechna snížení hodnoty bez ohledu na to, zda je výsledkem hospodaření účetního období zisk nebo ztráta.
 # orig_file_sentence document_02_005#20
 1	(3)	(3)	PUNCT	Z:-------------	_	10	punct	_	_
@@ -3588,7 +3588,7 @@
 63	ztráta	ztráta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	61	conj	_	SpaceAfter=No
 64	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = zakon.iso-005-p34s6/cs
+# sent_id = zakon.iso-005-p34s6
 # text = (4) U stejného druhu zásob a cenných papírů se za způsob ocenění podle odstavce 1 považuje i ocenění cenou, která vyplyne z ocenění jejich úbytků cenou zjištěnou váženým aritmetickým průměrem nebo způsobem, kdy první cena pro ocenění přírůstku majetku se použije jako první cena pro ocenění úbytku majetku.
 # orig_file_sentence document_02_005#21
 1	(4)	(4)	PUNCT	Z:-------------	_	16	punct	_	_
@@ -3643,7 +3643,7 @@
 50	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	49	nmod	_	SpaceAfter=No
 51	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-005-p34s7/cs
+# sent_id = zakon.iso-005-p34s7
 # text = (5) Pro účely tohoto zákona se rozumí a) pořizovací cenou cena, za kterou byl majetek pořízen a náklady s jeho pořízením související, b) reprodukční pořizovací cenou cena, za kterou by byl majetek pořízen v době, kdy se o něm účtuje, c) vlastními náklady u zásob vytvořených vlastní činností přímé náklady vynaložené na výrobu nebo jinou činnost, popřípadě i část nepřímých nákladů, která se vztahuje k výrobě nebo k jiné činnosti, d) vlastními náklady u hmotného majetku kromě zásob a nehmotného majetku kromě pohledávek vytvořeného vlastní činností přímé náklady vynaložené na výrobu nebo jinou činnost a nepřímé náklady, které se vztahují k výrobě nebo jiné činnosti, vymezené v souladu s účetními metodami.
 # orig_file_sentence document_02_005#22
 1	(5)	(5)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -3769,7 +3769,7 @@
 121	metodami	metoda	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	116	obl	_	SpaceAfter=No
 122	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-005-p34s9/cs
+# sent_id = zakon.iso-005-p34s9
 # text = (6) V případě majetku podle odstavce 1 písm. l) se reprodukční pořizovací cena nepoužije v případě bezúplatné změny příslušnosti k hospodaření s majetkem státu nebo svěření majetku do správy podle zákona upravujícího rozpočtová pravidla územních samosprávných celků, výpůjčky nebo bezúplatného převodu nebo přechodu majetku mezi vybranými účetními jednotkami; v těchto případech účetní jednotka při ocenění majetku navazuje na výši ocenění v účetnictví účetní jednotky, která o tomto majetku naposledy účtovala.
 # orig_file_sentence document_02_005#23
 1	(6)	(6)	PUNCT	Z:-------------	_	13	punct	_	_
@@ -3846,12 +3846,12 @@
 72	účtovala	účtovat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	65	acl	_	SpaceAfter=No
 73	.	.	PUNCT	Z:-------------	_	13	punct	_	_
 
-# sent_id = zakon.iso-005-p35s1/cs
+# sent_id = zakon.iso-005-p35s1
 # text = § 26
 # orig_file_sentence document_02_005#24
 1	§_26	§_26	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-005-p35s2/cs
+# sent_id = zakon.iso-005-p35s2
 # text = (1) Pokud se při inventarizaci zásob zjistí, že jejich prodejní cena snížená o náklady spojené s prodejem je nižší, než cena použitá pro jejich ocenění v účetnictví, zásoby se ocení v účetnictví a v účetní závěrce touto nižší cenou.
 # orig_file_sentence document_02_005#25
 1	(1)	(1)	PUNCT	Z:-------------	_	33	punct	_	_
@@ -3898,7 +3898,7 @@
 42	cenou	cena	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	33	obl	_	SpaceAfter=No|LId=cena-1
 43	.	.	PUNCT	Z:-------------	_	33	punct	_	_
 
-# sent_id = zakon.iso-005-p35s3/cs
+# sent_id = zakon.iso-005-p35s3
 # text = (2) Pokud se při inventarizaci zjistí, že hodnota závazků je vyšší, popřípadě i nižší než jejich výše v účetnictví, uvedou se závazky v účetnictví a v účetní závěrce v tomto zjištěném ocenění.
 # orig_file_sentence document_02_005#26
 1	(2)	(2)	PUNCT	Z:-------------	_	23	punct	_	_
@@ -3938,7 +3938,7 @@
 35	ocenění	ocenění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	23	obl	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
-# sent_id = zakon.iso-005-p35s4/cs
+# sent_id = zakon.iso-005-p35s4
 # text = (3) Ustanovení o oceňování podle § 25 odst. 3 vyjadřují rezervy, opravné položky a odpisy majetku.
 # orig_file_sentence document_02_005#27
 1	(3)	(3)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -3957,7 +3957,7 @@
 14	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-005-p35s5/cs
+# sent_id = zakon.iso-005-p35s5
 # text = Rezervami podle tohoto zákona se rozumí rezerva na rizika a ztráty, rezerva na daň z příjmů, rezerva na důchody a podobné závazky, rezerva na restrukturalizaci.
 # orig_file_sentence document_02_005#28
 1	Rezervami	rezerva	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	_
@@ -3990,7 +3990,7 @@
 28	restrukturalizaci	restrukturalizace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	26	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
-# sent_id = zakon.iso-005-p35s6/cs
+# sent_id = zakon.iso-005-p35s6
 # text = Rezervami se dále rozumí technické rezervy nebo jiné rezervy podle zvláštních právních předpisů.
 # orig_file_sentence document_02_005#29
 1	Rezervami	rezerva	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
@@ -4008,7 +4008,7 @@
 13	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	6	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-005-p35s7/cs
+# sent_id = zakon.iso-005-p35s7
 # text = Opravnými položkami se vyjadřuje přechodné snížení hodnoty majetku; odpisy majetku vyjadřují trvalé snížení jeho hodnoty.
 # orig_file_sentence document_02_005#30
 1	Opravnými	opravný	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
@@ -4029,7 +4029,7 @@
 16	hodnoty	hodnota	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-005-p35s8/cs
+# sent_id = zakon.iso-005-p35s8
 # text = (4) Účetní jednotky, které nejsou založeny nebo zřízeny za účelem podnikání, uplatňují ustanovení odstavců 1 až 3 v souladu s účetními metodami.
 # orig_file_sentence document_02_005#31
 1	(4)	(4)	PUNCT	Z:-------------	_	14	punct	_	_
@@ -4058,12 +4058,12 @@
 24	metodami	metoda	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	14	obl	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-005-p36s1/cs
+# sent_id = zakon.iso-005-p36s1
 # text = § 27
 # orig_file_sentence document_02_005#32
 1	§_27	§_27	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-005-p36s2/cs
+# sent_id = zakon.iso-005-p36s2
 # text = (1) Z jednotlivých složek majetku a závazků k okamžiku ocenění podle § 24 odst. 2 písm. b) se reálnou hodnotou oceňují a) cenné papíry, s výjimkou cenných papírů držených do splatnosti, dluhopisů pořízených v primárních emisích neurčených účetní jednotkou k obchodování, cenných papírů představujících účast v ovládané osobě nebo v osobě pod podstatným vlivem a cenných papírů emitovaných účetní jednotkou, b) deriváty, c) finanční umístění, s výjimkou dluhopisů držených do splatnosti, jejichž emitentem je členský stát Organizace pro ekonomickou spolupráci a rozvoj a jejichž hodnocení bylo alespoň dvěma mezinárodně uznávanými ratingovými agenturami stanoveno na úrovni České republiky nebo vyšší, nejedná-li se o finanční umístění vztahující se k závazkům ze životního pojištění, je-li nositelem investičního rizika pojistník, a technické rezervy u účetních jednotek, které provozují činnost pojištění nebo zajištění podle zvláštních právních předpisů, kromě veřejného zdravotního pojištění, d) majetek a závazky v případech, kdy ocenění reálnou hodnotou ukládá zvláštní právní předpis, to neplatí v případech uvedených v odstavci 3, e) část majetku a závazků zajištěná deriváty, f) pohledávky, které účetní jednotka nabyla a určila k obchodování, g) závazky vrátit cenné papíry, které účetní jednotka zcizila a do okamžiku ocenění je nezískala zpět, h) u vybraných účetních jednotek majetek určený k prodeji s výjimkou zásob.
 # orig_file_sentence document_02_005#33
 1	(1)	(1)	PUNCT	Z:-------------	_	16	punct	_	_
@@ -4287,7 +4287,7 @@
 219	zásob	zásoba	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	213	nmod	_	SpaceAfter=No
 220	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-005-p36s4/cs
+# sent_id = zakon.iso-005-p36s4
 # text = (2) Majetek uvedený v odstavci 1 písm. a) až h) lze ocenit reálnou hodnotou i častěji než k okamžiku uvedenému v odstavci 1.
 # orig_file_sentence document_02_005#34
 1	(2)	(2)	PUNCT	Z:-------------	_	8	punct	_	_
@@ -4312,7 +4312,7 @@
 20	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	19	nummod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-005-p36s5/cs
+# sent_id = zakon.iso-005-p36s5
 # text = (3) Pokud zákon o přeměnách obchodních společností a družstev ukládá povinnost ocenění jmění při přeměně společnosti, oceňuje se majetek a závazky reálnou hodnotou v případech stanovených prováděcím právním předpisem; prováděcí právní předpis stanoví i okamžik účtování o ocenění reálnou hodnotou.
 # orig_file_sentence document_02_005#35
 1	(3)	(3)	PUNCT	Z:-------------	_	18	punct	_	_
@@ -4359,7 +4359,7 @@
 42	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	38	nmod	_	SpaceAfter=No
 43	.	.	PUNCT	Z:-------------	_	18	punct	_	_
 
-# sent_id = zakon.iso-005-p36s6/cs
+# sent_id = zakon.iso-005-p36s6
 # text = (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota, b) ocenění kvalifikovaným odhadem nebo posudkem znalce, není-li tržní hodnota k dispozici nebo tato nedostatečně představuje reálnou hodnotu; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě, c) ocenění stanovené podle zvláštních právních předpisů, nelze-li postupovat podle písmen a) a b).
 # orig_file_sentence document_02_005#36
 1	(4)	(4)	PUNCT	Z:-------------	_	10	punct	_	_
@@ -4429,7 +4429,7 @@
 65	a)_a_b)	a)_a_b)	X	X@-------------	_	64	nmod	_	SpaceAfter=No
 66	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
-# sent_id = zakon.iso-005-p36s8/cs
+# sent_id = zakon.iso-005-p36s8
 # text = (5) Tržní hodnotou se rozumí hodnota, která je vyhlášena na evropském regulovaném trhu nebo na zahraničním trhu obdobném regulovanému trhu.
 # orig_file_sentence document_02_005#37
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -4455,7 +4455,7 @@
 21	trhu	trh	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-005-p36s9/cs
+# sent_id = zakon.iso-005-p36s9
 # text = Účetní jednotka pro oceňování podle tohoto zákona použije tržní hodnotu, která je vyhlášena k okamžiku ne pozdějšímu, než je okamžik ocenění [§ 24 odst. 2 písm. b)], a nejvíce se blížícímu okamžiku ocenění.
 # orig_file_sentence document_02_005#38
 1	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	LId=účetní-1
@@ -4493,7 +4493,7 @@
 33	ocenění	ocenění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	32	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-005-p36s10/cs
+# sent_id = zakon.iso-005-p36s10
 # text = Pokud je majetek veden na regulovaném trhu, rozumí se tržní hodnotou závěrečná cena vyhlášená na regulovaném trhu v pracovní den, ke kterému se ocenění provádí.
 # orig_file_sentence document_02_005#39
 1	Pokud	pokud	SCONJ	J,-------------	_	4	mark	_	_
@@ -4525,7 +4525,7 @@
 27	provádí	provádět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-005-p36s11/cs
+# sent_id = zakon.iso-005-p36s11
 # text = V případě, že majetek není přijat k obchodování na regulovaném trhu a je přijat k obchodování na zahraničním regulovaném trhu, nebo na zahraničním trhu obdobném regulovanému trhu, rozumí se tržní hodnotou nejvyšší cena ze závěrečných cen, které bylo dosaženo na zahraničních regulovaných trzích, nebo na zahraničních trzích obdobných regulovanému trhu v pracovní den, ke kterému se ocenění provádí.
 # orig_file_sentence document_02_005#40
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=v-1
@@ -4594,7 +4594,7 @@
 64	provádí	provádět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	58	acl	_	SpaceAfter=No
 65	.	.	PUNCT	Z:-------------	_	31	punct	_	_
 
-# sent_id = zakon.iso-005-p36s12/cs
+# sent_id = zakon.iso-005-p36s12
 # text = Pokud v den, ke kterému se ocenění provádí, uvedené trhy nepracují, použije se cena vyhlášená na nich poslední pracovní den, který předchází okamžiku ocenění; není-li známa ani tato cena, postupuje se dále podle věty druhé.
 # orig_file_sentence document_02_005#41
 1	Pokud	pokud	SCONJ	J,-------------	_	13	mark	_	_
@@ -4640,7 +4640,7 @@
 41	druhé	druhý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	40	amod	_	SpaceAfter=No|LId=druhý-1
 42	.	.	PUNCT	Z:-------------	_	15	punct	_	_
 
-# sent_id = zakon.iso-005-p36s13/cs
+# sent_id = zakon.iso-005-p36s13
 # text = (6) V případech oceňování reálnou hodnotou se použije ustanovení § 25 odst. 3 přiměřeně a o oceňovacích rozdílech z tohoto ocenění účetní jednotky účtují v souladu s účetními metodami.
 # orig_file_sentence document_02_005#42
 1	(6)	(6)	PUNCT	Z:-------------	_	8	punct	_	_
@@ -4671,7 +4671,7 @@
 26	metodami	metoda	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	21	obl	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
-# sent_id = zakon.iso-005-p36s14/cs
+# sent_id = zakon.iso-005-p36s14
 # text = (7) Není-li objektivně možné stanovit reálnou hodnotu, považuje se za tuto hodnotu ocenění způsoby podle § 25.
 # orig_file_sentence document_02_005#43
 1	(7)	(7)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -4693,7 +4693,7 @@
 17	§_25	§_25	X	X@-------------	_	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-005-p36s15/cs
+# sent_id = zakon.iso-005-p36s15
 # text = Způsoby podle § 25 se ocení i majetek a závazky neuvedené v odstavci 1, není-li dále stanoveno jinak.
 # orig_file_sentence document_02_005#44
 1	Způsoby	způsob	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	_
@@ -4716,7 +4716,7 @@
 18	jinak	jinak	ADV	Db-------------	_	17	advmod	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-005-p36s16/cs
+# sent_id = zakon.iso-005-p36s16
 # text = Dluhopisy a ostatní cenné papíry s pevným výnosem, na něž se nevztahuje ustanovení odstavce 1, se ocení ke konci rozvahového dne nebo k jinému okamžiku, k němuž se sestavuje účetní závěrka, pořizovací cenou zvýšenou nebo sníženou o úrokové výnosy nebo náklady; zahrnuje-li ocenění pohledávek uvedené výnosy nebo náklady, může být zvýšeno nebo sníženo stejným způsobem.
 # orig_file_sentence document_02_005#45
 1	Dluhopisy	dluhopis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	19	nsubj:pass	_	_
@@ -4782,7 +4782,7 @@
 61	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	57	obl	_	SpaceAfter=No
 62	.	.	PUNCT	Z:-------------	_	19	punct	_	_
 
-# sent_id = zakon.iso-005-p36s17/cs
+# sent_id = zakon.iso-005-p36s17
 # text = Podíl, který představuje účast v ovládané osobě nebo v osobě pod podstatným vlivem, může být oceněn ekvivalencí (protihodnotou); použije-li účetní jednotka uvedený způsob ocenění, je povinna jej použít pro ocenění všech takových podílů.
 # orig_file_sentence document_02_005#46
 1	Podíl	podíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	16	nsubj	_	SpaceAfter=No
@@ -4826,12 +4826,12 @@
 39	podílů	podíl	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	36	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
-# sent_id = zakon.iso-005-p37s1/cs
+# sent_id = zakon.iso-005-p37s1
 # text = § 28
 # orig_file_sentence document_02_005#47
 1	§_28	§_28	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-005-p37s2/cs
+# sent_id = zakon.iso-005-p37s2
 # text = (1) Účetní jednotky, které mají vlastnické nebo jiné právo k majetku, anebo které hospodaří s majetkem státu nebo s majetkem územních samosprávných celků, není-li dále stanoveno jinak, o něm účtují a odpisují v souladu s účetními metodami.
 # orig_file_sentence document_02_005#48
 1	(1)	(1)	PUNCT	Z:-------------	_	34	punct	_	_
@@ -4877,7 +4877,7 @@
 41	metodami	metoda	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	36	obl	_	SpaceAfter=No
 42	.	.	PUNCT	Z:-------------	_	34	punct	_	_
 
-# sent_id = zakon.iso-005-p37s3/cs
+# sent_id = zakon.iso-005-p37s3
 # text = V případech smlouvy o výpůjčce po dobu zajištění závazků převodem práva nebo v případech, kdy se vlastnické právo k movitým věcem nabývá na základě projevu vůle jiným způsobem než převzetím věci, jakož i v dalších případech stanovených zvláštními právními předpisy nebo prováděcími právními předpisy, o majetku účtují a odpisují jej účetní jednotky, které jej používají.
 # orig_file_sentence document_02_005#49
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=v-1
@@ -4941,7 +4941,7 @@
 59	používají	používat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	55	acl	_	SpaceAfter=No
 60	.	.	PUNCT	Z:-------------	_	50	punct	_	_
 
-# sent_id = zakon.iso-005-p37s4/cs
+# sent_id = zakon.iso-005-p37s4
 # text = Pozemky a jiný majetek vymezený zvláštními právními předpisy nebo prováděcími právními předpisy se neodpisuje.
 # orig_file_sentence document_02_005#50
 1	Pozemky	pozemek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	14	nsubj:pass	_	_
@@ -4960,7 +4960,7 @@
 14	neodpisuje	odpisovat	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
-# sent_id = zakon.iso-005-p37s5/cs
+# sent_id = zakon.iso-005-p37s5
 # text = (2) Majetek uvedený v odstavci 1 odpisuje účetní jednotka, která jej úplatně nebo bezúplatně poskytuje jiné osobě k užívání zejména na základě smlouvy o nájmu nebo smlouvy o výpůjčce; ustanovení odstavce 1 týkající se smlouvy o výpůjčce tím nejsou dotčena.
 # orig_file_sentence document_02_005#51
 1	(2)	(2)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -5007,7 +5007,7 @@
 42	dotčena	dotknout	VERB	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	parataxis	_	SpaceAfter=No
 43	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-005-p37s6/cs
+# sent_id = zakon.iso-005-p37s6
 # text = (3) Majetek uvedený v odstavci 1 odpisuje účetní jednotka, která jej poskytuje jiné osobě k užívání na základě smlouvy o finančním leasingu, kterým se pro účely tohoto zákona rozumí poskytnutí majetku za úplatu do užívání, jestliže je uživatel oprávněn nebo povinen v průběhu užívání nebo po jeho ukončení nabýt vlastnické právo k poskytnutému majetku.
 # orig_file_sentence document_02_005#52
 1	(3)	(3)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -5069,7 +5069,7 @@
 57	majetku	majetek	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	54	nmod	_	SpaceAfter=No
 58	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-005-p37s7/cs
+# sent_id = zakon.iso-005-p37s7
 # text = (4) Majetek uvedený v odstavci 1 odpisuje nájemce, pouze pokud je oprávněn o tomto majetku účtovat a odpisovat jej na základě smlouvy o nájmu podniku nebo jeho části.
 # orig_file_sentence document_02_005#53
 1	(4)	(4)	PUNCT	Z:-------------	_	7	punct	_	_
@@ -5103,7 +5103,7 @@
 29	části	část	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	26	conj	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
-# sent_id = zakon.iso-005-p37s8/cs
+# sent_id = zakon.iso-005-p37s8
 # text = (5) Účetní jednotka, která majetek uvedený v odstavci 1 úplatně nebo bezúplatně užívá a provede na tomto majetku technické zhodnocení na svůj účet, účtuje o tomto technickém zhodnocení a odpisuje jej v souladu s účetními metodami.
 # orig_file_sentence document_02_005#54
 1	(5)	(5)	PUNCT	Z:-------------	_	26	punct	_	_
@@ -5146,7 +5146,7 @@
 38	metodami	metoda	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	32	obl	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	26	punct	_	_
 
-# sent_id = zakon.iso-005-p37s9/cs
+# sent_id = zakon.iso-005-p37s9
 # text = (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán, na jehož podkladě provádějí odpisování majetku v průběhu jeho používání.
 # orig_file_sentence document_02_005#55
 1	(6)	(6)	PUNCT	Z:-------------	_	9	punct	_	_
@@ -5174,7 +5174,7 @@
 23	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	17	obl	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = zakon.iso-005-p37s10/cs
+# sent_id = zakon.iso-005-p37s10
 # text = Uvedený majetek se odpisuje jen do výše jeho ocenění v účetnictví.
 # orig_file_sentence document_02_005#56
 1	Uvedený	uvedený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
@@ -5190,13 +5190,13 @@
 11	účetnictví	účetnictví	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = zakon.iso-005-p38s1/cs
+# sent_id = zakon.iso-005-p38s1
 # text = ČÁST PÁTÁ
 # orig_file_sentence document_02_005#57
 1	ČÁST	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 2	PÁTÁ	pátý	ADJ	CrFS1----------	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	1	amod	_	_
 
-# sent_id = zakon.iso-005-p38s2/cs
+# sent_id = zakon.iso-005-p38s2
 # text = Inventarizace majetku a závazků
 # orig_file_sentence document_02_005#58
 1	Inventarizace	inventarizace	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
@@ -5204,12 +5204,12 @@
 3	a	a	CCONJ	J^-------------	_	4	cc	_	LId=a-1
 4	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	2	conj	_	_
 
-# sent_id = zakon.iso-005-p39s1/cs
+# sent_id = zakon.iso-005-p39s1
 # text = § 29
 # orig_file_sentence document_02_005#59
 1	§_29	§_29	X	X@-------------	_	0	root	_	_
 
-# sent_id = zakon.iso-005-p39s2/cs
+# sent_id = zakon.iso-005-p39s2
 # text = (1) Účetní jednotky inventarizací zjišťují skutečný stav veškerého majetku a závazků a ověřují, zda zjištěný skutečný stav odpovídá stavu majetku a závazků v účetnictví a zda nejsou dány důvody pro účtování o položkách podle § 25 odst. 3.
 # orig_file_sentence document_02_005#60
 1	(1)	(1)	PUNCT	Z:-------------	_	5	punct	_	_
@@ -5250,7 +5250,7 @@
 36	§_25_odst._3	§_25_odst._3	X	X@-------------	_	32	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
-# sent_id = zakon.iso-005-p39s3/cs
+# sent_id = zakon.iso-005-p39s3
 # text = Inventarizaci účetní jednotky provádějí k okamžiku, ke kterému sestavují účetní závěrku jako řádnou nebo mimořádnou (dále jen "periodická inventarizace").
 # orig_file_sentence document_02_005#61
 1	Inventarizaci	inventarizace	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
