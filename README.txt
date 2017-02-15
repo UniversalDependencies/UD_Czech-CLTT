@@ -27,7 +27,8 @@ References
 
 Changelog
 
-  * No changes since UD release 1.3.
+  * 2017-03-01 UD v2 conversion by Martin Popel.
+  * No changes since UD release 1.3 to 1.4.
 
 
 === Machine-readable metadata =================================================
@@ -36,7 +37,7 @@ Data source: semi-automatic
 Data available since: UD v1.3
 License: CC BY-SA 4.0
 Genre: legal
-Contributors: Hladká, Barbora; Zeman, Daniel
+Contributors: Hladká, Barbora; Zeman, Daniel; Popel, Martin
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
 Original CLTT authors: Kríž, Vincent; Hladká, Barbora; Urešová, Zdeňka
