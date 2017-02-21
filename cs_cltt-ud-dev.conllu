@@ -1,3 +1,5 @@
+# newdoc id = vyhlaska.iso-001
+# newpar id = vyhlaska.iso-001-p8
 # sent_id = vyhlaska.iso-001-p8s1
 # text = HLAVA II
 # orig_file_sentence document_01_001#47
@@ -16,6 +18,7 @@
 7	BILANCE	bilance	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	appos	_	SpaceAfter=No
 8	)	)	PUNCT	Z:-------------	_	7	punct	_	_
 
+# newpar id = vyhlaska.iso-001-p9
 # sent_id = vyhlaska.iso-001-p9s1
 # text = § 5
 # orig_file_sentence document_01_001#49
@@ -64,6 +67,7 @@
 28	akcie	akcie	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	21	conj	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
+# newpar id = vyhlaska.iso-001-p10
 # sent_id = vyhlaska.iso-001-p10s1
 # text = § 6
 # orig_file_sentence document_01_001#52
@@ -990,6 +994,7 @@
 24	povodí	povodí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	23	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
+# newpar id = vyhlaska.iso-001-p11
 # sent_id = vyhlaska.iso-001-p11s1
 # text = § 7
 # orig_file_sentence document_01_001#74
@@ -1029,6 +1034,8 @@
 21	)	)	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newdoc id = vyhlaska.iso-002
+# newpar id = vyhlaska.iso-002-p11
 # sent_id = vyhlaska.iso-002-p11s4
 # text = (2) Položka "B.II.2. Stavby" obsahuje bez ohledu na výši ocenění a dobu použitelnosti a) stavby včetně budov, důlní díla a důlní stavby pod povrchem, vodní díla a další stavební díla podle zvláštních právních předpisů, b) otvírky nových lomů, pískoven a hlinišť, c) technické rekultivace, pokud zvláštní právní předpis nestanoví jinak, d) byty a nebytové prostory vymezené jako jednotky podle zvláštního právního předpisu.
 # orig_file_sentence document_01_002#1
@@ -1917,6 +1924,7 @@
 24	nabyvatele	nabyvatel	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p12
 # sent_id = vyhlaska.iso-002-p12s1
 # text = § 8
 # orig_file_sentence document_01_002#20
@@ -2192,6 +2200,7 @@
 20	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p13
 # sent_id = vyhlaska.iso-002-p13s1
 # text = § 9
 # orig_file_sentence document_01_002#27
@@ -2734,6 +2743,7 @@
 35	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p14
 # sent_id = vyhlaska.iso-002-p14s1
 # text = § 10
 # orig_file_sentence document_01_002#40
@@ -3109,6 +3119,7 @@
 48	dluhopisů	dluhopis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	45	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p15
 # sent_id = vyhlaska.iso-002-p15s1
 # text = § 11
 # orig_file_sentence document_01_002#51
@@ -3502,6 +3513,7 @@
 64	sdružení"	sdružení"	X	X@-------------	_	55	flat	_	SpaceAfter=No
 65	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p16
 # sent_id = vyhlaska.iso-002-p16s1
 # text = § 12
 # orig_file_sentence document_01_002#62
@@ -3696,6 +3708,7 @@
 7	listy	list	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	1	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p17
 # sent_id = vyhlaska.iso-002-p17s1
 # text = § 13
 # orig_file_sentence document_01_002#69
@@ -3862,12 +3875,15 @@
 34	osobami	osoba	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	29	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# newpar id = vyhlaska.iso-002-p18
 # sent_id = vyhlaska.iso-002-p18s1
 # text = § 14
 # orig_file_sentence document_01_002#76
 1	§	§	X	X@-------------	_	0	root	_	_
 2	14	14	X	X@-------------	_	1	flat	_	_
 
+# newdoc id = vyhlaska.iso-003
+# newpar id = vyhlaska.iso-003-p18
 # sent_id = vyhlaska.iso-003-p18s2
 # text = Základní kapitál
 # orig_file_sentence document_01_003#1
@@ -3973,6 +3989,7 @@
 22	rejstříku	rejstřík	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	16	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p19
 # sent_id = vyhlaska.iso-003-p19s1
 # text = § 14a
 # orig_file_sentence document_01_003#5
@@ -4194,6 +4211,7 @@
 55	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	44	nmod	_	SpaceAfter=No
 56	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p20
 # sent_id = vyhlaska.iso-003-p20s1
 # text = § 15
 # orig_file_sentence document_01_003#12
@@ -4254,6 +4272,7 @@
 35	podniku	podnik	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	32	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p21
 # sent_id = vyhlaska.iso-003-p21s1
 # text = § 15a
 # orig_file_sentence document_01_003#15
@@ -4342,6 +4361,7 @@
 16	závěrce	závěrka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p22
 # sent_id = vyhlaska.iso-003-p22s1
 # text = § 16
 # orig_file_sentence document_01_003#20
@@ -4559,6 +4579,7 @@
 38	jednotky	jednotka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	36	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p23
 # sent_id = vyhlaska.iso-003-p23s1
 # text = § 17
 # orig_file_sentence document_01_003#28
@@ -4918,6 +4939,7 @@
 38	sdružení"	sdružení"	X	X@-------------	_	29	flat	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p24
 # sent_id = vyhlaska.iso-003-p24s1
 # text = § 18
 # orig_file_sentence document_01_003#41
@@ -5191,6 +5213,7 @@
 34	plnění	plnění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	29	conj	_	SpaceAfter=No
 35	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p25
 # sent_id = vyhlaska.iso-003-p25s1
 # text = § 19
 # orig_file_sentence document_01_003#48
@@ -5318,6 +5341,7 @@
 18	obdobích	období	NOUN	NNNP6-----A----	Case=Loc|Gender=Neut|Number=Plur|Polarity=Pos	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p26
 # sent_id = vyhlaska.iso-003-p26s1
 # text = HLAVA III
 # orig_file_sentence document_01_003#54
@@ -5336,6 +5360,7 @@
 7	A	a	CCONJ	J^-------------	_	8	cc	_	LId=a-1
 8	ZTRÁTY	ztráta	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	6	conj	_	_
 
+# newpar id = vyhlaska.iso-003-p27
 # sent_id = vyhlaska.iso-003-p27s1
 # text = § 20
 # orig_file_sentence document_01_003#56
@@ -5403,6 +5428,7 @@
 26	13	13	NUM	C}-------------	NumForm=Roman|NumType=Card	25	nummod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p28
 # sent_id = vyhlaska.iso-003-p28s1
 # text = § 21
 # orig_file_sentence document_01_003#60
@@ -5486,6 +5512,7 @@
 67	činností	činnost	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	65	obl	_	SpaceAfter=No
 68	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p29
 # sent_id = vyhlaska.iso-003-p29s1
 # text = § 22
 # orig_file_sentence document_01_003#63
@@ -5527,6 +5554,7 @@
 25	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p30
 # sent_id = vyhlaska.iso-003-p30s1
 # text = § 23
 # orig_file_sentence document_01_003#66
@@ -5563,6 +5591,7 @@
 19	spotřeba"	spotřeba"	X	X@-------------	_	17	flat	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p31
 # sent_id = vyhlaska.iso-003-p31s1
 # text = § 24
 # orig_file_sentence document_01_003#69
@@ -5627,6 +5656,7 @@
 47	osoby	osoba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	45	nmod	_	SpaceAfter=No
 48	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p32
 # sent_id = vyhlaska.iso-003-p32s1
 # text = § 25
 # orig_file_sentence document_01_003#72
@@ -5665,6 +5695,7 @@
 20	příjmů	příjem	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p33
 # sent_id = vyhlaska.iso-003-p33s1
 # text = § 26
 # orig_file_sentence document_01_003#75
@@ -5734,6 +5765,7 @@
 40	hodnotu	hodnota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	37	obj	_	SpaceAfter=No
 41	.	.	PUNCT	Z:-------------	_	17	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p34
 # sent_id = vyhlaska.iso-003-p34s1
 # text = § 27
 # orig_file_sentence document_01_003#78
@@ -5801,6 +5833,7 @@
 49	výnosy"	výnosy"	X	X@-------------	_	47	flat	_	SpaceAfter=No
 50	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p35
 # sent_id = vyhlaska.iso-003-p35s1
 # text = § 28
 # orig_file_sentence document_01_003#81
@@ -5942,6 +5975,7 @@
 10	vyřazení	vyřazení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	_	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p36
 # sent_id = vyhlaska.iso-003-p36s1
 # text = § 29
 # orig_file_sentence document_01_003#87
@@ -6038,6 +6072,7 @@
 76	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	73	conj	_	SpaceAfter=No
 77	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p37
 # sent_id = vyhlaska.iso-003-p37s1
 # text = § 30
 # orig_file_sentence document_01_003#90
@@ -6088,6 +6123,7 @@
 31	souvislosti	souvislost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	26	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p38
 # sent_id = vyhlaska.iso-003-p38s1
 # text = § 31
 # orig_file_sentence document_01_004#1
@@ -6145,6 +6181,7 @@
 33	hodnotu	hodnota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	30	obj	_	SpaceAfter=No
 34	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p39
 # sent_id = vyhlaska.iso-003-p39s1
 # text = § 32
 # orig_file_sentence document_01_004#4
@@ -6196,12 +6233,15 @@
 31	vyúčtování	vyúčtování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	28	obl	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
+# newpar id = vyhlaska.iso-003-p40
 # sent_id = vyhlaska.iso-003-p40s1
 # text = § 33
 # orig_file_sentence document_01_004#7
 1	§	§	X	X@-------------	_	0	root	_	_
 2	33	33	X	X@-------------	_	1	flat	_	_
 
+# newdoc id = vyhlaska.iso-004
+# newpar id = vyhlaska.iso-004-p40
 # sent_id = vyhlaska.iso-004-p40s2
 # text = Ostatní finanční výnosy
 # orig_file_sentence document_01_004#8
@@ -6233,6 +6273,7 @@
 19	majetku	majetek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	14	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p41
 # sent_id = vyhlaska.iso-004-p41s1
 # text = § 34
 # orig_file_sentence document_01_004#10
@@ -6272,6 +6313,7 @@
 21	výlohy	výloha	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	9	conj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p42
 # sent_id = vyhlaska.iso-004-p42s1
 # text = § 35
 # orig_file_sentence document_01_004#13
@@ -6315,6 +6357,7 @@
 26	vyskytujících	vyskytující	ADJ	AGIP2-----A----	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	23	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p43
 # sent_id = vyhlaska.iso-004-p43s1
 # text = § 36
 # orig_file_sentence document_01_004#16
@@ -6358,6 +6401,7 @@
 26	vyskytujících	vyskytující	ADJ	AGIP2-----A----	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	23	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p44
 # sent_id = vyhlaska.iso-004-p44s1
 # text = § 37
 # orig_file_sentence document_01_004#19
@@ -6406,6 +6450,7 @@
 27	společnosti	společnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p45
 # sent_id = vyhlaska.iso-004-p45s1
 # text = § 38
 # orig_file_sentence document_01_004#22
@@ -6576,6 +6621,7 @@
 122	společníkům"	společníkům"	X	X@-------------	_	116	flat	_	SpaceAfter=No
 123	.	.	PUNCT	Z:-------------	_	62	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p46
 # sent_id = vyhlaska.iso-004-p46s1
 # text = § 38a
 # orig_file_sentence document_01_004#26
@@ -7008,6 +7054,7 @@
 72	náklady"	náklady"	X	X@-------------	_	70	flat	_	SpaceAfter=No
 73	.	.	PUNCT	Z:-------------	_	18	punct	_	_
 
+# newpar id = vyhlaska.iso-004-p47
 # sent_id = vyhlaska.iso-004-p47s1
 # text = HLAVA IV
 # orig_file_sentence document_01_004#34
@@ -7031,6 +7078,7 @@
 12	ÚČETNÍ	účetní	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	LId=účetní-1
 13	ZÁVĚRCE	závěrka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	nmod	_	_
 
+# newpar id = vyhlaska.iso-004-p48
 # sent_id = vyhlaska.iso-004-p48s1
 # text = § 39
 # orig_file_sentence document_01_004#36
@@ -9074,6 +9122,8 @@
 98	výdaje"	výdaje"	X	X@-------------	_	96	flat	_	SpaceAfter=No
 99	.	.	PUNCT	Z:-------------	_	38	punct	_	_
 
+# newdoc id = vyhlaska.iso-005
+# newpar id = vyhlaska.iso-005-p48
 # sent_id = vyhlaska.iso-005-p48s49
 # text = (14) Účetní jednotka, která použila účetní metody způsobem vycházejícím z předpokladu, že bude nepřetržitě pokračovat ve své činnosti a u které zároveň existuje významná nejistota, spočívající zejména ve skutečnosti, která nasvědčuje tomu, že účetní jednotka nemusí být schopna nepřetržitě pokračovat ve své činnosti a v důsledku toho v rámci své běžné podnikatelské činnosti například plnit své závazky, uvede v příloze v účetní závěrce tuto skutečnost.
 # orig_file_sentence document_01_005#10
@@ -9198,6 +9248,7 @@
 29	tocích	tok	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	26	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p49
 # sent_id = vyhlaska.iso-005-p49s1
 # text = HLAVA V
 # orig_file_sentence document_01_005#13
@@ -9216,6 +9267,7 @@
 7	PENĚŽNÍCH	peněžní	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	_	_
 8	TOCÍCH	tok	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	_	_
 
+# newpar id = vyhlaska.iso-005-p50
 # sent_id = vyhlaska.iso-005-p50s1
 # text = § 40
 # orig_file_sentence document_01_005#15
@@ -9446,6 +9498,7 @@
 27	)	)	PUNCT	Z:-------------	_	26	punct	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p51
 # sent_id = vyhlaska.iso-005-p51s1
 # text = § 41
 # orig_file_sentence document_01_005#23
@@ -9583,6 +9636,7 @@
 26	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	19	conj	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p52
 # sent_id = vyhlaska.iso-005-p52s1
 # text = § 42
 # orig_file_sentence document_01_005#29
@@ -9750,6 +9804,7 @@
 15	tocích	tok	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p53
 # sent_id = vyhlaska.iso-005-p53s1
 # text = § 43
 # orig_file_sentence document_01_005#34
@@ -10014,6 +10069,7 @@
 26	činnosti	činnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	20	obl	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	20	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p54
 # sent_id = vyhlaska.iso-005-p54s1
 # text = HLAVA VI
 # orig_file_sentence document_01_005#43
@@ -10033,6 +10089,7 @@
 8	VLASTNÍHO	vlastní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	LId=vlastní-1
 9	KAPITÁLU	kapitál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	_	_
 
+# newpar id = vyhlaska.iso-005-p55
 # sent_id = vyhlaska.iso-005-p55s1
 # text = § 44
 # orig_file_sentence document_01_005#45
@@ -10082,6 +10139,7 @@
 13	čerpáno	čerpat	VERB	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	acl	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p56
 # sent_id = vyhlaska.iso-005-p56s1
 # text = ČÁST TŘETÍ
 # orig_file_sentence document_01_005#48
@@ -10095,6 +10153,7 @@
 2	ÚČTOVÁ	účtový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
 3	OSNOVA	osnova	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 
+# newpar id = vyhlaska.iso-005-p57
 # sent_id = vyhlaska.iso-005-p57s1
 # text = § 45
 # orig_file_sentence document_01_005#50
@@ -10118,6 +10177,7 @@
 12	vyhlášce	vyhláška	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p58
 # sent_id = vyhlaska.iso-005-p58s1
 # text = § 46
 # orig_file_sentence document_01_005#52
@@ -10326,6 +10386,7 @@
 36	činnosti	činnost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	33	obj	_	SpaceAfter=No
 37	.	.	PUNCT	Z:-------------	_	23	punct	_	_
 
+# newpar id = vyhlaska.iso-005-p59
 # sent_id = vyhlaska.iso-005-p59s1
 # text = ČÁST ČTVRTÁ
 # orig_file_sentence document_01_005#58
@@ -10338,6 +10399,7 @@
 1	ÚČETNÍ	účetní	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	_	LId=účetní-2
 2	METODY	metoda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 
+# newpar id = vyhlaska.iso-005-p60
 # sent_id = vyhlaska.iso-005-p60s1
 # text = § 47
 # orig_file_sentence document_01_005#60
@@ -11360,6 +11422,8 @@
 26	)	)	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# newdoc id = vyhlaska.iso-006
+# newpar id = vyhlaska.iso-006-p61
 # sent_id = vyhlaska.iso-006-p61s1
 # text = § 48
 # orig_file_sentence document_01_006#1
@@ -11433,6 +11497,7 @@
 23	podílu	podíl	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	21	conj	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# newpar id = vyhlaska.iso-006-p62
 # sent_id = vyhlaska.iso-006-p62s1
 # text = § 49
 # orig_file_sentence document_01_006#5
