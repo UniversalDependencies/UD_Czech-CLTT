@@ -101,7 +101,7 @@
 98	Kč	Kč	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	97	nmod	_	SpaceAfter=No
 99	;	;	PUNCT	Z:-------------	_	109	punct	_	_
 100	ročním	roční	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	101	amod	_	_
-101	úhrnem	úhrn	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	109	obj	_	_
+101	úhrnem	úhrn	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	109	obl:agent	_	_
 102	čistého	čistý	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	103	amod	_	_
 103	obratu	obrat	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	101	nmod	_	LId=obrat-1
 104	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	109	expl:pass	_	_
@@ -208,7 +208,7 @@
 205	případě	případ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	204	fixed	_	_
 206	družstva	družstvo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	212	obl	_	_
 207	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	212	expl:pass	_	LId=s-1
-208	zaměstnancem	zaměstnanec	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	212	obj	_	_
+208	zaměstnancem	zaměstnanec	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	212	obl:agent	_	_
 209	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	210	case	_	LId=podle-2
 210	písmene	písmeno	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	212	obl	_	_
 211	a)_bodu_3	a)_bodu_3	X	X@-------------	_	210	nmod	_	_
@@ -408,7 +408,7 @@
 20	komplexně	komplexně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	16	conj	_	_
 21	informovat	informovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	14	csubj	_	_
 22	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	_	LId=o-1
-23	vývoji	vývoj	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	21	obj	_	_
+23	vývoji	vývoj	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	21	obl:arg	_	_
 24	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	výkonnosti	výkonnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	23	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	Z:-------------	_	27	punct	_	_
@@ -783,7 +783,7 @@
 8	,	,	PUNCT	Z:-------------	_	13	punct	_	_
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	LId=v-1
 10	jakém	jaký	DET	P4ZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	13	obl	_	_
-11	jimi	on	PRON	PPXP7--3-------	Case=Ins|Number=Plur|Person=3|PronType=Prs	13	obj	_	LId=on-1
+11	jimi	on	PRON	PPXP7--3-------	Case=Ins|Number=Plur|Person=3|PronType=Prs	13	obl:agent	_	LId=on-1
 12	byla	být	AUX	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	13	aux:pass	_	_
 13	sestavena	sestavený	ADJ	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	7	amod	_	_
 14	(	(	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
@@ -1118,7 +1118,7 @@
 17	předtím	předtím	ADV	Db-------------	_	19	advmod	_	_
 18	nebyly	být	AUX	VpTP---XR-NA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	19	aux:pass	_	_
 19	ověřeny	ověřený	ADJ	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	14	amod	_	_
-20	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	SpaceAfter=No
+20	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	19	obl:agent	_	SpaceAfter=No
 21	,	,	PUNCT	Z:-------------	_	22	punct	_	_
 22	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	20	conj	_	SpaceAfter=No
 23	,	,	PUNCT	Z:-------------	_	26	punct	_	_
@@ -1131,7 +1131,7 @@
 30	omyl	omyl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	28	obl:arg	_	SpaceAfter=No
 31	,	,	PUNCT	Z:-------------	_	34	punct	_	_
 32	že	že	SCONJ	J,-------------	_	34	mark	_	_
-33	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	34	obj	_	_
+33	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	34	obl:agent	_	_
 34	ověřeny	ověřený	ADJ	VsTP---XX-AP---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	30	amod	_	_
 35	byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	aux:pass	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	12	punct	_	_
@@ -1149,7 +1149,7 @@
 8	vztahuje	vztahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	LId=na-1
 10	všechny	všechen	DET	PLFP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	11	det	_	_
-11	informace	informace	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obj	_	_
+11	informace	informace	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obl:arg	_	_
 12	účetní	účetní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	LId=účetní-1
 13	závěrky	závěrka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	nmod	_	_
 14	i	i	CCONJ	J^-------------	_	16	cc	_	LId=i-1
@@ -1183,7 +1183,7 @@
 8	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	LId=pro-1
 9	konsolidovanou	konsolidovaný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
 10	účetní	účetní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	LId=účetní-1
-11	závěrku	závěrka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
+11	závěrku	závěrka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl:arg	_	_
 12	a	a	CCONJ	J^-------------	_	14	cc	_	LId=a-1
 13	výroční	výroční	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	_	_
 14	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	conj	_	_
@@ -1201,7 +1201,7 @@
 1	(1)	(1)	PUNCT	Z:-------------	_	6	punct	_	_
 2	Konsolidovanou	konsolidovaný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
 3	účetní	účetní	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	LId=účetní-1
-4	závěrkou	závěrka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
+4	závěrkou	závěrka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	6	obl:agent	_	_
 5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	_	_
 6	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	_	LId=účetní-1
@@ -1241,7 +1241,7 @@
 23	závěrka	závěrka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	25	nsubj:pass	_	_
 24	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux:pass	_	_
 25	ověřována	ověřovaný	ADJ	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	14	parataxis	_	_
-26	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	25	obj	_	SpaceAfter=No
+26	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	25	obl:agent	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
 # sent_id = zakon.iso-004-p26s4
@@ -1407,7 +1407,7 @@
 # orig_file_sentence document_02_004#33
 1	(4)	(4)	PUNCT	Z:-------------	_	11	punct	_	_
 2	Společným	společný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
-3	vlivem	vliv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	_
+3	vlivem	vliv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	11	obl:agent	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pass	_	_
 5	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	LId=pro-1
 6	účely	účel	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	11	obl	_	_
@@ -1458,7 +1458,7 @@
 # orig_file_sentence document_02_004#34
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Podstatným	podstatný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
-3	vlivem	vliv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obj	_	_
+3	vlivem	vliv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl:agent	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	_
 5	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	takový	takový	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
@@ -1666,7 +1666,7 @@
 90	Kč	Kč	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	89	nmod	_	SpaceAfter=No
 91	;	;	PUNCT	Z:-------------	_	101	punct	_	_
 92	ročním	roční	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	93	amod	_	_
-93	úhrnem	úhrn	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	101	obj	_	_
+93	úhrnem	úhrn	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	101	obl:agent	_	_
 94	čistého	čistý	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	95	amod	_	_
 95	obratu	obrat	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	93	nmod	_	LId=obrat-1
 96	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	101	expl:pass	_	_
@@ -1947,7 +1947,7 @@
 # orig_file_sentence document_02_004#46
 1	Konsolidovanou	konsolidovaný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
 2	výroční	výroční	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
-3	zprávou	zpráva	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	_	_
+3	zprávou	zpráva	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	5	obl:agent	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	_
 5	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	výroční	výroční	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	_
@@ -2955,7 +2955,7 @@
 20	pevný	pevný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	amod	_	_
 21	kurs	kurs	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	12	obj	_	SpaceAfter=No|LId=kurs-3
 22	,	,	PUNCT	Z:-------------	_	25	punct	_	_
-23	kterým	který	DET	P4ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	25	obj	_	_
+23	kterým	který	DET	P4ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	25	obl:agent	_	_
 24	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	25	expl:pass	_	_
 25	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl	_	_
 26	kurs	kurs	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	25	nsubj:pass	_	LId=kurs-3
@@ -3156,7 +3156,7 @@
 7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	LId=na-1
 8	Českou	český	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
 9	národní	národní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
-10	banku	banka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	SpaceAfter=No
+10	banku	banka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obl:arg	_	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	13	punct	_	_
 12	Českou	český	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	_
 13	kancelář	kancelář	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	conj	_	_
@@ -3771,7 +3771,7 @@
 108	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	109	expl:pv	_	_
 109	vztahují	vztahovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	105	acl	_	_
 110	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	111	case	_	LId=k-1
-111	výrobě	výroba	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	109	obj	_	_
+111	výrobě	výroba	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	109	obl:arg	_	_
 112	nebo	nebo	CCONJ	J^-------------	_	114	cc	_	_
 113	jiné	jiný	ADJ	AAFS3----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	114	amod	_	_
 114	činnosti	činnost	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	111	conj	_	SpaceAfter=No
@@ -3975,7 +3975,7 @@
 # sent_id = zakon.iso-005-p35s5
 # text = Rezervami podle tohoto zákona se rozumí rezerva na rizika a ztráty, rezerva na daň z příjmů, rezerva na důchody a podobné závazky, rezerva na restrukturalizaci.
 # orig_file_sentence document_02_005#28
-1	Rezervami	rezerva	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	_
+1	Rezervami	rezerva	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	6	obl:agent	_	_
 2	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=podle-2
 3	tohoto	tento	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	_
 4	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	_	_
@@ -4008,7 +4008,7 @@
 # sent_id = zakon.iso-005-p35s6
 # text = Rezervami se dále rozumí technické rezervy nebo jiné rezervy podle zvláštních právních předpisů.
 # orig_file_sentence document_02_005#29
-1	Rezervami	rezerva	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
+1	Rezervami	rezerva	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	4	obl:agent	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	_	_
 3	dále	dále	ADV	Db------------1	_	4	advmod	_	LId=dále-3
 4	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -4027,7 +4027,7 @@
 # text = Opravnými položkami se vyjadřuje přechodné snížení hodnoty majetku; odpisy majetku vyjadřují trvalé snížení jeho hodnoty.
 # orig_file_sentence document_02_005#30
 1	Opravnými	opravný	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
-2	položkami	položka	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
+2	položkami	položka	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	4	obl:agent	_	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	_	_
 4	vyjadřuje	vyjadřovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	přechodné	přechodný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	_	_
@@ -4174,7 +4174,7 @@
 91	mezinárodně	mezinárodně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	92	advmod	_	_
 92	uznávanými	uznávaný	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	94	amod	_	_
 93	ratingovými	ratingový	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	94	amod	_	_
-94	agenturami	agentura	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	95	obj	_	_
+94	agenturami	agentura	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	95	obl:agent	_	_
 95	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	75	conj	_	_
 96	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	97	case	_	LId=na-1
 97	úrovni	úroveň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	95	obl	_	_
@@ -4449,7 +4449,7 @@
 # orig_file_sentence document_02_005#37
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Tržní	tržní	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
-3	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	_	_
+3	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	5	obl:agent	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	_
 5	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	hodnota	hodnota	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj:pass	_	SpaceAfter=No
@@ -4522,7 +4522,7 @@
 9	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pass	_	_
 11	tržní	tržní	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	12	amod	_	_
-12	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	9	obj	_	_
+12	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	9	obl:agent	_	_
 13	závěrečná	závěrečný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	_	_
 14	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	9	nsubj:pass	_	LId=cena-2
 15	vyhlášená	vyhlášený	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	_	_
@@ -4576,7 +4576,7 @@
 31	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 32	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	31	expl:pass	_	_
 33	tržní	tržní	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	34	amod	_	_
-34	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	31	obj	_	_
+34	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	31	obl:agent	_	_
 35	nejvyšší	vysoký	ADJ	AAFS1----3A----	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing|Polarity=Pos	36	amod	_	_
 36	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	31	nsubj:pass	_	LId=cena-2
 37	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	39	case	_	LId=z-1
@@ -4776,7 +4776,7 @@
 40	sníženou	snížený	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	38	conj	_	_
 41	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	43	case	_	LId=o-1
 42	úrokové	úrokový	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	43	amod	_	_
-43	výnosy	výnos	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	38	obj	_	_
+43	výnosy	výnos	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	38	obl:arg	_	_
 44	nebo	nebo	CCONJ	J^-------------	_	45	cc	_	_
 45	náklady	náklad	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	43	conj	_	SpaceAfter=No
 46	;	;	PUNCT	Z:-------------	_	55	punct	_	_
@@ -5049,7 +5049,7 @@
 22	finančním	finanční	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	23	amod	_	_
 23	leasingu	leasing	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	20	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	Z:-------------	_	31	punct	_	_
-25	kterým	který	DET	P4ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	31	obj	_	_
+25	kterým	který	DET	P4ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	31	obl:agent	_	_
 26	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	31	expl:pass	_	_
 27	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	28	case	_	LId=pro-1
 28	účely	účel	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	31	obl	_	_

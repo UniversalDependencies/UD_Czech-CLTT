@@ -32,7 +32,10 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 # Changelog
 
-  * 2017-03-01 UD v2 conversion by Martin Popel.
+* 2017-11-15 UD 2.1
+  * Prepositional objects are now “obl:arg” instead of “obj”.
+  * Instrumental phrases for demoted agents in passives are now “obl:agent”.
+* 2017-03-01 UD v2 conversion by Martin Popel.
   * No changes since UD release 1.3 to 1.4.
 
 
