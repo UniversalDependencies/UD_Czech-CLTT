@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Czech-CLTT:
-commit 6b2f7cf66dc70a8bba33c91bb809f914411d2ad5
-Merge: e126c40 6088d23
+commit 8b4fc18bed3bc9276e7e5a4bc795990bb395cfba
+Merge: 3ba8430 18db0e8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 35630 of 35630 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.14637595923549.
