@@ -35,6 +35,7 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 * 2019-05-01 v2.4
   * Modified conversion: nouns do not have objects.
   * Unknown tag of advmod --> ADV.
+  * Fixed punctuation attachment.
 * 2018-11-15 v2.3
   * Added LDeriv for passive participles (the infinitive of the source verb).
 * 2018-04-15 v2.2
