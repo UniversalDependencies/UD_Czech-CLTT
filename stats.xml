@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1125</sentences><tokens>35084</tokens><words>35630</words><fused>281</fused></total>
+    <train><sentences>860</sentences><tokens>26225</tokens><words>26742</words><fused>263</fused></train>
+    <dev><sentences>129</sentences><tokens>4760</tokens><words>4773</words><fused>7</fused></dev>
+    <test><sentences>136</sentences><tokens>4099</tokens><words>4115</words><fused>11</fused></test>
   </size>
   <lemmas unique="2668" /><!-- ,, účetní, a, ., v, jednotka, být, ", nebo, se, který, k, podle, na, tento -->
   <forms unique="4705" /><!-- ,, a, účetní, ., v, ", se, nebo, podle, na, o, jednotky, k, s, účetních -->
@@ -14,7 +17,7 @@
   <tags unique="15">
     <tag name="ADJ">6781</tag><!-- účetní, konsolidovaný, právní, uvedený, jiný, finanční, zvláštní, hmotný, stanovený, dlouhodobý -->
     <tag name="ADP">3942</tag><!-- v, k, podle, na, o, s, z, do, za, pro -->
-    <tag name="ADV">787</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, hodně, například -->
+    <tag name="ADV">935</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, hodně, například -->
     <tag name="AUX">570</tag><!-- být -->
     <tag name="CCONJ">1875</tag><!-- a, nebo, i, či, anebo, ani, ale, však, buď, avšak -->
     <tag name="DET">1194</tag><!-- který, tento, jeho, ten, všechen, svůj, takový, jenž, každý, některý -->
@@ -26,7 +29,7 @@
     <tag name="SCONJ">389</tag><!-- pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak -->
     <tag name="SYM">18</tag><!-- %, +, / -->
     <tag name="VERB">1857</tag><!-- obsahovat, použít, moci, mít, účtovat, uvést, rozumět, sestavovat, vést, stanovit -->
-    <tag name="X">1244</tag><!-- a), b), c), d), e), f), h), g), není-li, i) -->
+    <tag name="X">1096</tag><!-- a), b), c), d), e), f), h), g), není-li, i) -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="66">
@@ -123,12 +126,12 @@
     <dep name="fixed">328</dep>
     <dep name="iobj">21</dep>
     <dep name="mark">365</dep>
-    <dep name="nmod">5052</dep>
+    <dep name="nmod">5067</dep>
     <dep name="nsubj">1283</dep>
     <dep name="nsubj:pass">384</dep>
     <dep name="nummod">286</dep>
     <dep name="nummod:gov">24</dep>
-    <dep name="obj">1211</dep>
+    <dep name="obj">1196</dep>
     <dep name="obl">1866</dep>
     <dep name="obl:agent">65</dep>
     <dep name="obl:arg">333</dep>
