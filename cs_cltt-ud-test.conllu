@@ -260,8 +260,8 @@
 32	jeho	jeho	DET	PSXXXZS3-------	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	33	det	_	_
 33	existenci	existence	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	31	obj	_	SpaceAfter=No
 34	,	,	PUNCT	Z:-------------	_	39	punct	_	_
-35	a	a	CCONJ	J^-------------	_	36	cc	_	LId=a-1
-36	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	39	cc	_	_
+35	a	a	CCONJ	J^-------------	_	39	cc	_	LId=a-1
+36	to	to	PART	PDNS4----------	_	35	fixed	_	_
 37	včetně	včetně	ADP	RR--2----------	AdpType=Prep|Case=Gen	39	case	_	LId=včetně-2
 38	jiných	jiný	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	39	amod	_	_
 39	aktiv	aktivum	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	6	nmod	_	SpaceAfter=No|LId=aktivum-2
@@ -473,8 +473,8 @@
 15	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	_
 16	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	15	nummod	_	SpaceAfter=No
 17	,	,	PUNCT	Z:-------------	_	20	punct	_	_
-18	a	a	CCONJ	J^-------------	_	19	cc	_	LId=a-1
-19	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	cc	_	_
+18	a	a	CCONJ	J^-------------	_	20	cc	_	LId=a-1
+19	to	to	PART	PDNS1----------	_	18	fixed	_	_
 20	tak	tak	ADV	Db-------------	PronType=Dem	13	dep	_	SpaceAfter=No|LId=tak-3
 21	,	,	PUNCT	Z:-------------	_	25	punct	_	_
 22-23	aby	_	_	_	_	_	_	_	_
@@ -1152,8 +1152,8 @@
 13	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	14	case	_	LId=v-1
 14	§_31_odst._1	§_31_odst._1	ADV	X@-------------	_	12	advmod	_	SpaceAfter=No
 15	,	,	PUNCT	Z:-------------	_	20	punct	_	_
-16	a	a	CCONJ	J^-------------	_	17	cc	_	LId=a-1
-17	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	20	cc	_	_
+16	a	a	CCONJ	J^-------------	_	20	cc	_	LId=a-1
+17	to	to	PART	PDNS4----------	_	16	fixed	_	_
 18	zejména	zejména	ADV	Db-------------	_	20	advmod:emph	_	_
 19	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	20	case	_	LId=pro-1
 20	účely	účel	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	obl	_	_
@@ -1466,7 +1466,7 @@
 51	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	52	amod	_	LId=účetní-1
 52	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	50	nsubj	_	SpaceAfter=No
 53	,	,	PUNCT	Z:-------------	_	56	punct	_	_
-54	dokud	dokud	SCONJ	J,-------------	_	56	advmod	_	_
+54	dokud	dokud	SCONJ	J,-------------	_	56	mark	_	_
 55	ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	56	nsubj	_	_
 56	nedá	dát	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	_	_
 57	samo	sám	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	56	xcomp	_	_
@@ -1940,8 +1940,8 @@
 23	náležitostmi	náležitost	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	21	iobj	_	_
 24	originálu	originál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	23	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	Z:-------------	_	28	punct	_	_
-26	a	a	CCONJ	J^-------------	_	27	cc	_	LId=a-1
-27	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	28	cc	_	_
+26	a	a	CCONJ	J^-------------	_	28	cc	_	LId=a-1
+27	to	to	PART	PDNS4----------	_	26	fixed	_	_
 28	nejpozději	pozdě	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	21	advmod	_	_
 29	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	31	case	_	LId=před-1
 30	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
@@ -2890,8 +2890,8 @@
 25	identifikačního	identifikační	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	26	amod	_	_
 26	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	23	conj	_	SpaceAfter=No
 27	,	,	PUNCT	Z:-------------	_	31	punct	_	_
-28	a	a	CCONJ	J^-------------	_	29	cc	_	LId=a-1
-29	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	31	cc	_	_
+28	a	a	CCONJ	J^-------------	_	31	cc	_	LId=a-1
+29	to	to	PART	PDNS1----------	_	28	fixed	_	_
 30	takovým	takový	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	det	_	_
 31	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	SpaceAfter=No
 32	,	,	PUNCT	Z:-------------	_	36	punct	_	_
