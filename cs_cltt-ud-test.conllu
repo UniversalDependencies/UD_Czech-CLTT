@@ -19,7 +19,7 @@
 16	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	10	obl	_	_
 17	(	(	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
 18	dále	dále	ADV	Db------------1	_	9	dep	_	LId=dále-3
-19	jen	jen	PART	TT-------------	_	20	advmod:emph	_	LId=jen-1
+19	jen	jen	PART	TT-------------	_	21	advmod:emph	_	LId=jen-1
 20-22	"průběžná_inventarizace"	_	_	_	_	_	_	_	SpaceAfter=No
 20	"	"	PUNCT	Z:-------------	_	21	punct	_	_
 21	průběžná_inventarizace	"průběžná_inventarizace"	X	X@-------------	_	9	dep	_	_
@@ -372,7 +372,7 @@
 24	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	22	obj	_	_
 25	(	(	PUNCT	Z:-------------	_	24	punct	_	SpaceAfter=No
 26	dále	dále	ADV	Db------------1	_	24	dep	_	LId=dále-3
-27	jen	jen	PART	TT-------------	_	28	advmod:emph	_	LId=jen-1
+27	jen	jen	PART	TT-------------	_	29	advmod:emph	_	LId=jen-1
 28-30	"rozhodný_den"	_	_	_	_	_	_	_	SpaceAfter=No
 28	"	"	PUNCT	Z:-------------	_	29	punct	_	_
 29	rozhodný_den	"rozhodný_den"	X	X@-------------	_	24	dep	_	_
@@ -1882,7 +1882,7 @@
 13	"	"	PUNCT	Z:-------------	_	14	punct	_	_
 14	A	"A"	X	X@-------------	_	12	nmod	_	_
 15	"	"	PUNCT	Z:-------------	_	14	punct	_	_
-16	nebo	nebo	CCONJ	J^-------------	_	17	cc	_	_
+16	nebo	nebo	CCONJ	J^-------------	_	18	cc	_	_
 17-19	"V"	_	_	_	_	_	_	_	_
 17	"	"	PUNCT	Z:-------------	_	18	punct	_	_
 18	V	"V"	X	X@-------------	_	13	conj	_	_
@@ -3369,7 +3369,7 @@
 23	standardy	standard	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	20	obj	_	_
 24	(	(	PUNCT	Z:-------------	_	23	punct	_	SpaceAfter=No
 25	dále	dále	ADV	Db------------1	_	23	dep	_	LId=dále-3
-26	jen	jen	PART	TT-------------	_	27	advmod:emph	_	LId=jen-1
+26	jen	jen	PART	TT-------------	_	28	advmod:emph	_	LId=jen-1
 27-29	"standardy"	_	_	_	_	_	_	_	SpaceAfter=No
 27	"	"	PUNCT	Z:-------------	_	28	punct	_	_
 28	standardy	"standardy"	X	X@-------------	_	23	dep	_	_
