@@ -17,7 +17,7 @@
   <tags unique="15">
     <tag name="ADJ">6781</tag><!-- účetní, konsolidovaný, právní, uvedený, jiný, finanční, zvláštní, hmotný, stanovený, dlouhodobý -->
     <tag name="ADP">3942</tag><!-- v, k, podle, na, o, s, z, do, za, pro -->
-    <tag name="ADV">938</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, hodně, například -->
+    <tag name="ADV">790</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, hodně, například -->
     <tag name="AUX">570</tag><!-- být -->
     <tag name="CCONJ">1875</tag><!-- a, nebo, i, či, anebo, ani, ale, však, buď, avšak -->
     <tag name="DET">1161</tag><!-- který, tento, jeho, ten, všechen, svůj, takový, jenž, každý, některý -->
@@ -29,7 +29,7 @@
     <tag name="SCONJ">386</tag><!-- pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak -->
     <tag name="SYM">18</tag><!-- %, +, / -->
     <tag name="VERB">1857</tag><!-- obsahovat, použít, moci, mít, účtovat, uvést, rozumět, sestavovat, vést, stanovit -->
-    <tag name="X">1096</tag><!-- a), b), c), d), e), f), h), g), není-li, i) -->
+    <tag name="X">1244</tag><!-- a), b), c), d), e), f), h), g), není-li, i) -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="66">
@@ -104,7 +104,7 @@
   <deps unique="38">
     <dep name="acl">573</dep>
     <dep name="advcl">201</dep>
-    <dep name="advmod">602</dep>
+    <dep name="advmod">438</dep>
     <dep name="advmod:emph">294</dep>
     <dep name="amod">6130</dep>
     <dep name="appos">78</dep>
@@ -132,7 +132,7 @@
     <dep name="nummod">286</dep>
     <dep name="nummod:gov">24</dep>
     <dep name="obj">1196</dep>
-    <dep name="obl">1866</dep>
+    <dep name="obl">2030</dep>
     <dep name="obl:agent">65</dep>
     <dep name="obl:arg">333</dep>
     <dep name="orphan">22</dep>
