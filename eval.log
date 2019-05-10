@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Czech-CLTT:
-commit 8b4fc18bed3bc9276e7e5a4bc795990bb395cfba
-Merge: 3ba8430 18db0e8
+commit 251794e05d5ca79bd272d527502ec2b3c8cfcc19
+Merge: af85e90 0fb5817
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 35630 of 35630 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.14637595923549.
@@ -15,11 +15,11 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 27084 out of 35630 total words have one or more features.
+Features: 27054 out of 35630 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 384 bugs.
+Udapi: found 200 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 35630 words.
 Genres: found 1 out of 17 known.
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-dev.conllu
@@ -35,8 +35,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.517271940783672) = 0.132633830970172
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.892225652539994) = 0.274530970012306
+(weight=0.307692307692308) * (score{udapi}=0.94386752736458) = 0.29042077765064
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.654733999139912) * (availability=1) * (validity=1) = 0.654733999139912
+(TOTAL score=0.670623806778246) * (availability=1) * (validity=1) = 0.670623806778246
 STARS = 3.5
-UD_Czech-CLTT	0.654733999139912	3.5
+UD_Czech-CLTT	0.670623806778246	3.5
