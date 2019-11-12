@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Czech-CLTT:
-commit 251794e05d5ca79bd272d527502ec2b3c8cfcc19
-Merge: af85e90 0fb5817
+commit d3c3d6346f017c3efb054b6b8ec829cd43f3e162
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:01:16 2019 +0200
 Size: counted 35630 of 35630 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.14637595923549.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,12 +23,46 @@ Udapi: found 200 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 35630 words.
 Genres: found 1 out of 17 known.
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-dev.conllu
-*** PASSED ***
+[Line 210 Sent zakon.iso-003-p23s3 Node 207]: [L3 Syntax rel-upos-expl] 'expl' should normally be 'PRON' but it is 'ADP'
+[Line 1483 Sent zakon.iso-004-p26s8 Node 25]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'X'
+[Line 1483 Sent zakon.iso-004-p26s8 Node 25]: [L5 Syntax cop-lemma] 'není-li' is not a copula in language [cs]
+[Line 1977 Sent zakon.iso-004-p28s7 Node 1]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'NOUN'
+[Line 1977 Sent zakon.iso-004-p28s7 Node 1]: [L5 Syntax cop-lemma] 'Jsou-li' is not a copula in language [cs]
+[Line 4096 Sent zakon.iso-005-p36s2 Node 13]: [L3 Syntax rel-upos-expl] 'expl' should normally be 'PRON' but it is 'ADP'
+[Line 4644 Sent zakon.iso-005-p36s12 Node 30]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'X'
+[Line 4644 Sent zakon.iso-005-p36s12 Node 30]: [L5 Syntax cop-lemma] 'není-li' is not a copula in language [cs]
+[Line 4693 Sent zakon.iso-005-p36s14 Node 2]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'NOUN'
+...suppressing further errors regarding Syntax
+Syntax errors: 13
+*** FAILED *** with 13 errors
+Exit code: 1
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-test.conllu
-*** PASSED ***
+[Line 1888 Sent zakon.iso-006-p45s14 Node 13]: [L3 Syntax leaf-punct] 'punct' not expected to have children (13:":punct --> 18:V:conj)
+[Line 2096 Sent zakon.iso-006-p45s19 Node 30]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'X'
+[Line 2096 Sent zakon.iso-006-p45s19 Node 30]: [L5 Syntax cop-lemma] 'jsou-li' is not a copula in language [cs]
+[Line 2996 Sent zakon.iso-007-p47s4 Node 17]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'X'
+[Line 2996 Sent zakon.iso-007-p47s4 Node 17]: [L5 Syntax cop-lemma] 'je-li' is not a copula in language [cs]
+[Line 3237 Sent zakon.iso-007-p48s9 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'X'
+[Line 4149 Sent zakon.iso-007-p52s6 Node 77]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'X'
+[Line 4149 Sent zakon.iso-007-p52s6 Node 77]: [L5 Syntax cop-lemma] 'není-li' is not a copula in language [cs]
+Syntax errors: 8
+*** FAILED *** with 8 errors
+Exit code: 1
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 1461 Sent vyhlaska.iso-001-p7s22 Node 2]: [L3 Syntax leaf-punct] 'punct' not expected to have children (2:":punct --> 10:PASIVA_CELKEM:conj)
+[Line 1990 Sent vyhlaska.iso-001-p10s13 Node 6]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 2017 Sent vyhlaska.iso-001-p10s14 Node 7]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 2039 Sent vyhlaska.iso-001-p10s14 Node 29]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 2085 Sent vyhlaska.iso-001-p10s15 Node 38]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 2581 Sent vyhlaska.iso-002-p11s4 Node 60]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'NOUN'
+[Line 2581 Sent vyhlaska.iso-002-p11s4 Node 60]: [L5 Syntax cop-lemma] 'byt' is not a copula in language [cs]
+[Line 3132 Sent vyhlaska.iso-002-p11s20 Node 35]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 3175 Sent vyhlaska.iso-002-p11s21 Node 35]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+...suppressing further errors regarding Syntax
+Syntax errors: 138
+*** FAILED *** with 138 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +71,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.94386752736458) = 0.29042077765064
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.670623806778246) * (availability=1) * (validity=1) = 0.670623806778246
-STARS = 3.5
-UD_Czech-CLTT	0.670623806778246	3.5
+(TOTAL score=0.670623806778246) * (availability=1) * (validity=0.01) = 0.00670623806778246
+STARS = 0
+UD_Czech-CLTT	0.00670623806778246	0
