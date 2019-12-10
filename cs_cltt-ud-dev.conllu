@@ -478,7 +478,7 @@
 40	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	42	cop	_	_
 41	dále	dále	ADV	Db------------1	_	43	advmod	_	LId=dále-3
 42	významné	významný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	24	conj	_	_
-43	obsahovat	obsahovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	13	ccomp	_	_
+43	obsahovat	obsahovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	13	xcomp	_	_
 44	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	46	case	_	LId=pro-1
 45	nejméně	málo	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	53	advmod:emph	_	LId=málo-3
 46	naplnění	naplnění	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	42	obl	_	_
