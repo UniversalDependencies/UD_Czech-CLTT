@@ -35,6 +35,7 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 * 2020-05-01 v2.6
   * Fixed: "to je" is a fixed multi-word expression, as in other Czech treebanks.
   * Genitive, dative and instrumental nominals are now considered oblique.
+  * Relative clauses distinguished from other adnominal clauses.
 * 2019-05-01 v2.4
   * Modified conversion: nouns do not have objects.
   * Unknown tag of advmod --> ADV.
