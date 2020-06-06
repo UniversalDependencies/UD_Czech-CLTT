@@ -1,5 +1,5 @@
 # sent_id = zakon.iso-006-p39s4
-# text = V případech uvedených v odstavci 2 účetní jednotky mohou provádět inventarizaci i v průběhu účetního období (dále jen "průběžná_inventarizace").
+# text = V případech uvedených v odstavci 2 účetní jednotky mohou provádět inventarizaci i v průběhu účetního období (dále jen „průběžná inventarizace“).
 # orig_file_sentence document_02_006#1
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	_	LId=v-1
 2	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	9	obl	_	_
@@ -20,12 +20,12 @@
 17	(	(	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
 18	dále	dále	ADV	Db------------1	_	9	dep	_	LId=dále-3
 19	jen	jen	PART	TT-------------	_	21	advmod:emph	_	LId=jen-1
-20-22	"průběžná_inventarizace"	_	_	_	_	_	_	_	SpaceAfter=No
-20	"	"	PUNCT	Z:-------------	_	21	punct	_	_
-21	průběžná_inventarizace	"průběžná_inventarizace"	X	X@-------------	_	9	dep	_	_
-22	"	"	PUNCT	Z:-------------	_	21	punct	_	_
-23	)	)	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
-24	.	.	PUNCT	Z:-------------	_	9	punct	_	_
+20	„	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
+21	průběžná	průběžná	X	X@-------------	_	9	dep	_	LGloss=(from_multi_word_term)
+22	inventarizace	inventarizace	X	X@-------------	_	21	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+23	“	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
+24	)	)	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 # sent_id = zakon.iso-006-p39s5
 # text = Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou tímto dotčena.
@@ -344,7 +344,7 @@
 32	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 # sent_id = zakon.iso-006-p40s7
-# text = (4) Při periodické inventarizaci mohou účetní jednotky při zjišťování skutečného stavu stanovit den, ke kterému skutečný stav zjišťují a který předchází rozvahovému dni (dále jen "rozhodný_den"), a mohou dokončit zjišťování skutečného stavu podle účetních záznamů, které prokazují přírůstky a úbytky majetku a závazků, které nastaly mezi tímto dnem a rozvahovým dnem.
+# text = (4) Při periodické inventarizaci mohou účetní jednotky při zjišťování skutečného stavu stanovit den, ke kterému skutečný stav zjišťují a který předchází rozvahovému dni (dále jen „rozhodný den“), a mohou dokončit zjišťování skutečného stavu podle účetních záznamů, které prokazují přírůstky a úbytky majetku a závazků, které nastaly mezi tímto dnem a rozvahovým dnem.
 # orig_file_sentence document_02_006#13
 1	(4)	(4)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=při-1
@@ -373,40 +373,40 @@
 25	(	(	PUNCT	Z:-------------	_	24	punct	_	SpaceAfter=No
 26	dále	dále	ADV	Db------------1	_	24	dep	_	LId=dále-3
 27	jen	jen	PART	TT-------------	_	29	advmod:emph	_	LId=jen-1
-28-30	"rozhodný_den"	_	_	_	_	_	_	_	SpaceAfter=No
-28	"	"	PUNCT	Z:-------------	_	29	punct	_	_
-29	rozhodný_den	"rozhodný_den"	X	X@-------------	_	24	dep	_	_
-30	"	"	PUNCT	Z:-------------	_	29	punct	_	_
-31	)	)	PUNCT	Z:-------------	_	24	punct	_	SpaceAfter=No
-32	,	,	PUNCT	Z:-------------	_	34	punct	_	_
-33	a	a	CCONJ	J^-------------	_	34	cc	_	LId=a-1
-34	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
-35	dokončit	dokončit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	34	xcomp	_	_
-36	zjišťování	zjišťování	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	35	obj	_	_
-37	skutečného	skutečný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	38	amod	_	_
-38	stavu	stav	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	36	nmod	_	_
-39	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	41	case	_	LId=podle-2
-40	účetních	účetní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	41	amod	_	LId=účetní-1
-41	záznamů	záznam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	36	nmod	_	SpaceAfter=No
-42	,	,	PUNCT	Z:-------------	_	44	punct	_	_
-43	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	44	nsubj	_	_
-44	prokazují	prokazovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	41	acl:relcl	_	_
-45	přírůstky	přírůstek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	44	obj	_	_
-46	a	a	CCONJ	J^-------------	_	47	cc	_	LId=a-1
-47	úbytky	úbytek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	45	conj	_	_
-48	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	45	nmod	_	_
-49	a	a	CCONJ	J^-------------	_	50	cc	_	LId=a-1
-50	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	48	conj	_	SpaceAfter=No
-51	,	,	PUNCT	Z:-------------	_	53	punct	_	_
-52	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	53	nsubj	_	_
-53	nastaly	nastat	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	50	acl:relcl	_	_
-54	mezi	mezi	ADP	RR--7----------	AdpType=Prep|Case=Ins	56	case	_	LId=mezi-1
-55	tímto	tento	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	56	det	_	_
-56	dnem	den	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	53	obl	_	_
-57	a	a	CCONJ	J^-------------	_	59	cc	_	LId=a-1
-58	rozvahovým	rozvahový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	59	amod	_	_
-59	dnem	den	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	56	conj	_	SpaceAfter=No
-60	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+28	„	"	PUNCT	Z:-------------	_	29	punct	_	SpaceAfter=No
+29	rozhodný	rozhodný	X	X@-------------	_	24	dep	_	LGloss=(from_multi_word_term)
+30	den	den	X	X@-------------	_	29	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+31	“	"	PUNCT	Z:-------------	_	29	punct	_	SpaceAfter=No
+32	)	)	PUNCT	Z:-------------	_	24	punct	_	SpaceAfter=No
+33	,	,	PUNCT	Z:-------------	_	35	punct	_	_
+34	a	a	CCONJ	J^-------------	_	35	cc	_	LId=a-1
+35	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+36	dokončit	dokončit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	35	xcomp	_	_
+37	zjišťování	zjišťování	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	36	obj	_	_
+38	skutečného	skutečný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	39	amod	_	_
+39	stavu	stav	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	37	nmod	_	_
+40	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	42	case	_	LId=podle-2
+41	účetních	účetní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	42	amod	_	LId=účetní-1
+42	záznamů	záznam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	37	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	Z:-------------	_	45	punct	_	_
+44	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	45	nsubj	_	_
+45	prokazují	prokazovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	42	acl:relcl	_	_
+46	přírůstky	přírůstek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	45	obj	_	_
+47	a	a	CCONJ	J^-------------	_	48	cc	_	LId=a-1
+48	úbytky	úbytek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	46	conj	_	_
+49	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	46	nmod	_	_
+50	a	a	CCONJ	J^-------------	_	51	cc	_	LId=a-1
+51	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	49	conj	_	SpaceAfter=No
+52	,	,	PUNCT	Z:-------------	_	54	punct	_	_
+53	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	54	nsubj	_	_
+54	nastaly	nastat	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	51	acl:relcl	_	_
+55	mezi	mezi	ADP	RR--7----------	AdpType=Prep|Case=Ins	57	case	_	LId=mezi-1
+56	tímto	tento	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	57	det	_	_
+57	dnem	den	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	54	obl	_	_
+58	a	a	CCONJ	J^-------------	_	60	cc	_	LId=a-1
+59	rozvahovým	rozvahový	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	60	amod	_	_
+60	dnem	den	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	57	conj	_	SpaceAfter=No
+61	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = zakon.iso-006-p40s8
 # text = (5) Při průběžné inventarizaci se odstavec 4 použije obdobně.
@@ -1866,7 +1866,7 @@
 53	.	.	PUNCT	Z:-------------	_	37	punct	_	_
 
 # sent_id = zakon.iso-006-p45s14
-# text = (4) Účetní záznam v technické nebo smíšené formě, se skartačními znaky "A" nebo "V" vzniklý z činnosti účetní jednotky, musí být ve formátu, který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu.
+# text = (4) Účetní záznam v technické nebo smíšené formě, se skartačními znaky „A“ nebo „V“ vzniklý z činnosti účetní jednotky, musí být ve formátu, který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu.
 # orig_file_sentence document_02_006#52
 1	(4)	(4)	PUNCT	Z:-------------	_	26	punct	_	_
 2	Účetní	účetní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	LId=účetní-1
@@ -1880,15 +1880,13 @@
 10	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	12	case	_	LId=s-1
 11	skartačními	skartační	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	_	_
 12	znaky	znak	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	8	conj	_	_
-13-15	"A"	_	_	_	_	_	_	_	_
-13	"	"	PUNCT	Z:-------------	_	14	punct	_	_
-14	A	"A"	X	X@-------------	_	12	nmod	_	_
-15	"	"	PUNCT	Z:-------------	_	14	punct	_	_
+13	„	"	PUNCT	Z:-------------	_	14	punct	_	SpaceAfter=No
+14	A	A	X	X@-------------	_	12	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+15	“	"	PUNCT	Z:-------------	_	14	punct	_	_
 16	nebo	nebo	CCONJ	J^-------------	_	18	cc	_	_
-17-19	"V"	_	_	_	_	_	_	_	_
-17	"	"	PUNCT	Z:-------------	_	18	punct	_	_
-18	V	"V"	X	X@-------------	_	13	conj	_	_
-19	"	"	PUNCT	Z:-------------	_	18	punct	_	_
+17	„	"	PUNCT	Z:-------------	_	18	punct	_	SpaceAfter=No
+18	V	V	X	X@-------------	_	14	conj	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+19	“	"	PUNCT	Z:-------------	_	18	punct	_	_
 20	vzniklý	vzniklý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
 21	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	22	case	_	LId=z-1
 22	činnosti	činnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	20	obl:arg	_	_
@@ -3350,7 +3348,7 @@
 1	§_36	§_36	X	X@-------------	_	0	root	_	_
 
 # sent_id = zakon.iso-007-p49s2
-# text = (1) Pro dosažení souladu při používání účetních metod účetními jednotkami a pro zajištění vyšší míry srovnatelnosti účetních závěrek ministerstvo vydává České účetní standardy (dále jen "standardy").
+# text = (1) Pro dosažení souladu při používání účetních metod účetními jednotkami a pro zajištění vyšší míry srovnatelnosti účetních závěrek ministerstvo vydává České účetní standardy (dále jen „standardy“).
 # orig_file_sentence document_02_007#22
 1	(1)	(1)	PUNCT	Z:-------------	_	20	punct	_	_
 2	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
@@ -3378,10 +3376,9 @@
 24	(	(	PUNCT	Z:-------------	_	23	punct	_	SpaceAfter=No
 25	dále	dále	ADV	Db------------1	_	23	dep	_	LId=dále-3
 26	jen	jen	PART	TT-------------	_	28	advmod:emph	_	LId=jen-1
-27-29	"standardy"	_	_	_	_	_	_	_	SpaceAfter=No
-27	"	"	PUNCT	Z:-------------	_	28	punct	_	_
-28	standardy	"standardy"	X	X@-------------	_	23	dep	_	_
-29	"	"	PUNCT	Z:-------------	_	28	punct	_	_
+27	„	"	PUNCT	Z:-------------	_	28	punct	_	SpaceAfter=No
+28	standardy	standardy	X	X@-------------	_	23	dep	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+29	“	"	PUNCT	Z:-------------	_	28	punct	_	SpaceAfter=No
 30	)	)	PUNCT	Z:-------------	_	23	punct	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	20	punct	_	_
 

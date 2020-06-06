@@ -5,14 +5,14 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1125</sentences><tokens>35176</tokens><words>35722</words><fused>281</fused></total>
-    <train><sentences>860</sentences><tokens>26291</tokens><words>26808</words><fused>263</fused></train>
-    <dev><sentences>129</sentences><tokens>4776</tokens><words>4789</words><fused>7</fused></dev>
-    <test><sentences>136</sentences><tokens>4109</tokens><words>4125</words><fused>11</fused></test>
+    <total><sentences>1125</sentences><tokens>36673</tokens><words>36689</words><fused>16</fused></total>
+    <train><sentences>860</sentences><tokens>27752</tokens><words>27761</words><fused>9</fused></train>
+    <dev><sentences>129</sentences><tokens>4800</tokens><words>4801</words><fused>1</fused></dev>
+    <test><sentences>136</sentences><tokens>4121</tokens><words>4127</words><fused>6</fused></test>
   </size>
-  <lemmas unique="2666" /><!-- ,, účetní, a, ., v, jednotka, být, ", se, nebo, který, k, podle, na, tento -->
-  <forms unique="4702" /><!-- ,, a, účetní, ., v, ", se, nebo, podle, na, o, jednotky, k, s, účetních -->
-  <fusions unique="179" /><!-- aby, "*_Finanční_výsledek_hospodaření", "*_Provozní_výsledek_hospodaření", "B.II.9._Oceňovací_rozdíl_k_nabytému_majetku", "XIII._Mimořádné_výnosy", "A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností", "B.II.3._Samostatné_movité_věci_a_soubory_movitých_věcí", "B.II.5._Dospělá_zvířata_a_jejich_skupiny", "R._Mimořádné_náklady", "**_Výsledek_hospodaření_za_běžnou_činnost", "*_Mimořádný_výsledek_hospodaření", "B.I._Dlouhodobý_nehmotný_majetek", "B.II.3._Závazky_-_podstatný_vliv", "B.II.4._Závazky_ke_společníkům,_členům_družstva_a_k_účastníkům_sdružení", "C.II.4._Pohledávky_za_společníky,_členy_družstva_a_za_účastníky_sdružení" -->
+  <lemmas unique="2734" /><!-- ,, účetní, a, ., v, jednotka, být, ", nebo, se, který, k, podle, na, majetek -->
+  <forms unique="4660" /><!-- ,, a, účetní, ., v, se, nebo, podle, na, o, jednotky, k, “, „, majetku -->
+  <fusions unique="1" /><!-- aby -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">6781</tag><!-- účetní, konsolidovaný, právní, uvedený, jiný, finanční, zvláštní, hmotný, stanovený, dlouhodobý -->
@@ -25,11 +25,11 @@
     <tag name="NUM">440</tag><!-- 1, 3, 2, jeden, 4, 5, dva, 41, 7, dvanáct -->
     <tag name="PART">154</tag><!-- li, jen, to, až, netto, nikoli, brutto, ne -->
     <tag name="PRON">636</tag><!-- se, jenž, on, veškerý -->
-    <tag name="PUNCT">4570</tag><!-- ,, ., ", ;, (, ), (1), (2), (3), (4) -->
+    <tag name="PUNCT">4606</tag><!-- ,, ., ", ;, (, ), (1), (2), (3), - -->
     <tag name="SCONJ">386</tag><!-- pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak -->
     <tag name="SYM">18</tag><!-- %, +, / -->
     <tag name="VERB">1857</tag><!-- obsahovat, použít, moci, mít, účtovat, uvést, rozumět, sestavovat, vést, stanovit -->
-    <tag name="X">1209</tag><!-- a), b), c), d), e), f), h), g), i), j) -->
+    <tag name="X">2140</tag><!-- a), b), c), a, d), z, e), hospodaření, f), pohledávky -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="66">
@@ -115,7 +115,7 @@
     <dep name="cc">1915</dep>
     <dep name="ccomp">21</dep>
     <dep name="compound">1</dep>
-    <dep name="conj">2630</dep>
+    <dep name="conj">2624</dep>
     <dep name="cop">437</dep>
     <dep name="csubj">55</dep>
     <dep name="csubj:pass">3</dep>
@@ -127,7 +127,7 @@
     <dep name="fixed">364</dep>
     <dep name="iobj">3</dep>
     <dep name="mark">413</dep>
-    <dep name="nmod">5063</dep>
+    <dep name="nmod">6000</dep>
     <dep name="nsubj">1283</dep>
     <dep name="nsubj:pass">384</dep>
     <dep name="nummod">286</dep>
@@ -137,7 +137,7 @@
     <dep name="obl:arg">691</dep>
     <dep name="orphan">22</dep>
     <dep name="parataxis">65</dep>
-    <dep name="punct">4570</dep>
+    <dep name="punct">4606</dep>
     <dep name="root">1125</dep>
     <dep name="xcomp">281</dep>
   </deps>

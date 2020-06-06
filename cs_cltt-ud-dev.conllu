@@ -1245,7 +1245,7 @@
 27	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
 # sent_id = zakon.iso-004-p26s4
-# text = (2) Povinnost sestavit konsolidovanou účetní závěrku má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, účetní jednotka, která je obchodní společností a je ovládající osobou, s výjimkou ovládajících osob, které vykonávají společný vliv podle odstavce 4 (dále jen "konsolidující_účetní_jednotka").
+# text = (2) Povinnost sestavit konsolidovanou účetní závěrku má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, účetní jednotka, která je obchodní společností a je ovládající osobou, s výjimkou ovládajících osob, které vykonávají společný vliv podle odstavce 4 (dále jen „konsolidující účetní jednotka“).
 # orig_file_sentence document_02_004#31
 1	(2)	(2)	PUNCT	Z:-------------	_	7	punct	_	_
 2	Povinnost	povinnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	_	_
@@ -1292,15 +1292,16 @@
 43	(	(	PUNCT	Z:-------------	_	37	punct	_	SpaceAfter=No
 44	dále	dále	ADV	Db------------1	_	37	dep	_	LId=dále-3
 45	jen	jen	PART	TT-------------	_	47	advmod:emph	_	LId=jen-1
-46-48	"konsolidující_účetní_jednotka"	_	_	_	_	_	_	_	SpaceAfter=No
-46	"	"	PUNCT	Z:-------------	_	47	punct	_	_
-47	konsolidující_účetní_jednotka	"konsolidující_účetní_jednotka"	X	X@-------------	_	37	dep	_	_
-48	"	"	PUNCT	Z:-------------	_	47	punct	_	_
-49	)	)	PUNCT	Z:-------------	_	37	punct	_	SpaceAfter=No
-50	.	.	PUNCT	Z:-------------	_	7	punct	_	_
+46	„	"	PUNCT	Z:-------------	_	47	punct	_	SpaceAfter=No
+47	konsolidující	konsolidující	X	X@-------------	_	37	dep	_	LGloss=(from_multi_word_term)
+48	účetní	účetní	X	X@-------------	_	47	nmod	_	LGloss=(from_multi_word_term)
+49	jednotka	jednotka	X	X@-------------	_	47	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+50	“	"	PUNCT	Z:-------------	_	47	punct	_	SpaceAfter=No
+51	)	)	PUNCT	Z:-------------	_	37	punct	_	SpaceAfter=No
+52	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 # sent_id = zakon.iso-004-p26s5
-# text = (3) Povinnost podrobit se sestavení konsolidované účetní závěrky má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, osoba bez ohledu na její sídlo, pokud je a) ovládanou osobou, s výjimkou ovládaných osob, ve kterých je vykonáván společný vliv podle odstavce 4 (dále jen "konsolidovaná_účetní_jednotka"), b) osobou, ve které konsolidující nebo konsolidovaná účetní jednotka vykonává společný vliv (dále jen "účetní_jednotka_pod_společným_vlivem"), nebo c) osobou, ve které konsolidující účetní jednotka vykonává podstatný vliv (dále jen "účetní_jednotka_přidružená").
+# text = (3) Povinnost podrobit se sestavení konsolidované účetní závěrky má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, osoba bez ohledu na její sídlo, pokud je a) ovládanou osobou, s výjimkou ovládaných osob, ve kterých je vykonáván společný vliv podle odstavce 4 (dále jen „konsolidovaná účetní jednotka“), b) osobou, ve které konsolidující nebo konsolidovaná účetní jednotka vykonává společný vliv (dále jen „účetní jednotka pod společným vlivem“), nebo c) osobou, ve které konsolidující účetní jednotka vykonává podstatný vliv (dále jen „účetní jednotka přidružená“).
 # orig_file_sentence document_02_004#32
 1	(3)	(3)	PUNCT	Z:-------------	_	9	punct	_	_
 2	Povinnost	povinnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	9	nsubj	_	_
@@ -1352,55 +1353,60 @@
 48	(	(	PUNCT	Z:-------------	_	32	punct	_	SpaceAfter=No
 49	dále	dále	ADV	Db------------1	_	32	dep	_	LId=dále-3
 50	jen	jen	PART	TT-------------	_	52	advmod:emph	_	LId=jen-1
-51-53	"konsolidovaná_účetní_jednotka"	_	_	_	_	_	_	_	SpaceAfter=No
-51	"	"	PUNCT	Z:-------------	_	52	punct	_	_
-52	konsolidovaná_účetní_jednotka	"konsolidovaná_účetní_jednotka"	X	X@-------------	_	32	dep	_	_
-53	"	"	PUNCT	Z:-------------	_	52	punct	_	_
-54	)	)	PUNCT	Z:-------------	_	32	punct	_	SpaceAfter=No
-55	,	,	PUNCT	Z:-------------	_	57	punct	_	_
-56	b)	b)	X	X@-------------	_	57	nmod	_	_
-57	osobou	osoba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	32	conj	_	SpaceAfter=No
-58	,	,	PUNCT	Z:-------------	_	66	punct	_	_
-59	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	60	case	_	LId=v-1
-60	které	který	DET	P4FS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	66	obl	_	_
-61	konsolidující	konsolidující	ADJ	AGMS1-----A----	Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	65	amod	_	_
-62	nebo	nebo	CCONJ	J^-------------	_	63	cc	_	_
-63	konsolidovaná	konsolidovaný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	61	conj	_	_
-64	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	65	amod	_	LId=účetní-1
-65	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	66	nsubj	_	_
-66	vykonává	vykonávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	57	acl:relcl	_	_
-67	společný	společný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	68	amod	_	_
-68	vliv	vliv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	66	obj	_	_
-69	(	(	PUNCT	Z:-------------	_	57	punct	_	SpaceAfter=No
-70	dále	dále	ADV	Db------------1	_	57	dep	_	LId=dále-3
-71	jen	jen	PART	TT-------------	_	73	advmod:emph	_	LId=jen-1
-72-74	"účetní_jednotka_pod_společným_vlivem"	_	_	_	_	_	_	_	SpaceAfter=No
-72	"	"	PUNCT	Z:-------------	_	73	punct	_	_
-73	účetní_jednotka_pod_společným_vlivem	"účetní_jednotka_pod_společným_vlivem"	X	X@-------------	_	57	dep	_	_
-74	"	"	PUNCT	Z:-------------	_	73	punct	_	_
-75	)	)	PUNCT	Z:-------------	_	57	punct	_	SpaceAfter=No
-76	,	,	PUNCT	Z:-------------	_	79	punct	_	_
-77	nebo	nebo	CCONJ	J^-------------	_	79	cc	_	_
-78	c)	c)	X	X@-------------	_	79	nmod	_	_
-79	osobou	osoba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	32	conj	_	SpaceAfter=No
-80	,	,	PUNCT	Z:-------------	_	86	punct	_	_
-81	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	82	case	_	LId=v-1
-82	které	který	DET	P4FS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	86	obl	_	_
-83	konsolidující	konsolidující	ADJ	AGFS1-----A----	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	85	amod	_	_
-84	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	85	amod	_	LId=účetní-1
-85	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	86	nsubj	_	_
-86	vykonává	vykonávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	79	acl:relcl	_	_
-87	podstatný	podstatný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	88	amod	_	_
-88	vliv	vliv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	86	obj	_	_
-89	(	(	PUNCT	Z:-------------	_	79	punct	_	SpaceAfter=No
-90	dále	dále	ADV	Db------------1	_	79	dep	_	LId=dále-3
-91	jen	jen	PART	TT-------------	_	93	advmod:emph	_	LId=jen-1
-92-94	"účetní_jednotka_přidružená"	_	_	_	_	_	_	_	SpaceAfter=No
-92	"	"	PUNCT	Z:-------------	_	93	punct	_	_
-93	účetní_jednotka_přidružená	"účetní_jednotka_přidružená"	X	X@-------------	_	79	dep	_	_
-94	"	"	PUNCT	Z:-------------	_	93	punct	_	_
-95	)	)	PUNCT	Z:-------------	_	79	punct	_	SpaceAfter=No
-96	.	.	PUNCT	Z:-------------	_	9	punct	_	_
+51	„	"	PUNCT	Z:-------------	_	52	punct	_	SpaceAfter=No
+52	konsolidovaná	konsolidovaná	X	X@-------------	_	32	dep	_	LGloss=(from_multi_word_term)
+53	účetní	účetní	X	X@-------------	_	52	nmod	_	LGloss=(from_multi_word_term)
+54	jednotka	jednotka	X	X@-------------	_	52	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+55	“	"	PUNCT	Z:-------------	_	52	punct	_	SpaceAfter=No
+56	)	)	PUNCT	Z:-------------	_	32	punct	_	SpaceAfter=No
+57	,	,	PUNCT	Z:-------------	_	59	punct	_	_
+58	b)	b)	X	X@-------------	_	59	nmod	_	_
+59	osobou	osoba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	32	conj	_	SpaceAfter=No
+60	,	,	PUNCT	Z:-------------	_	68	punct	_	_
+61	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	62	case	_	LId=v-1
+62	které	který	DET	P4FS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	68	obl	_	_
+63	konsolidující	konsolidující	ADJ	AGMS1-----A----	Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	67	amod	_	_
+64	nebo	nebo	CCONJ	J^-------------	_	65	cc	_	_
+65	konsolidovaná	konsolidovaný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	63	conj	_	_
+66	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	67	amod	_	LId=účetní-1
+67	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	68	nsubj	_	_
+68	vykonává	vykonávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	59	acl:relcl	_	_
+69	společný	společný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	70	amod	_	_
+70	vliv	vliv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	68	obj	_	_
+71	(	(	PUNCT	Z:-------------	_	59	punct	_	SpaceAfter=No
+72	dále	dále	ADV	Db------------1	_	59	dep	_	LId=dále-3
+73	jen	jen	PART	TT-------------	_	75	advmod:emph	_	LId=jen-1
+74	„	"	PUNCT	Z:-------------	_	75	punct	_	SpaceAfter=No
+75	účetní	účetní	X	X@-------------	_	59	dep	_	LGloss=(from_multi_word_term)
+76	jednotka	jednotka	X	X@-------------	_	75	nmod	_	LGloss=(from_multi_word_term)
+77	pod	pod	X	X@-------------	_	75	nmod	_	LGloss=(from_multi_word_term)
+78	společným	společným	X	X@-------------	_	75	nmod	_	LGloss=(from_multi_word_term)
+79	vlivem	vlivem	X	X@-------------	_	75	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+80	“	"	PUNCT	Z:-------------	_	75	punct	_	SpaceAfter=No
+81	)	)	PUNCT	Z:-------------	_	59	punct	_	SpaceAfter=No
+82	,	,	PUNCT	Z:-------------	_	85	punct	_	_
+83	nebo	nebo	CCONJ	J^-------------	_	85	cc	_	_
+84	c)	c)	X	X@-------------	_	85	nmod	_	_
+85	osobou	osoba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	32	conj	_	SpaceAfter=No
+86	,	,	PUNCT	Z:-------------	_	92	punct	_	_
+87	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	88	case	_	LId=v-1
+88	které	který	DET	P4FS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	92	obl	_	_
+89	konsolidující	konsolidující	ADJ	AGFS1-----A----	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	91	amod	_	_
+90	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	91	amod	_	LId=účetní-1
+91	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	92	nsubj	_	_
+92	vykonává	vykonávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	85	acl:relcl	_	_
+93	podstatný	podstatný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	94	amod	_	_
+94	vliv	vliv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	92	obj	_	_
+95	(	(	PUNCT	Z:-------------	_	85	punct	_	SpaceAfter=No
+96	dále	dále	ADV	Db------------1	_	85	dep	_	LId=dále-3
+97	jen	jen	PART	TT-------------	_	99	advmod:emph	_	LId=jen-1
+98	„	"	PUNCT	Z:-------------	_	99	punct	_	SpaceAfter=No
+99	účetní	účetní	X	X@-------------	_	85	dep	_	LGloss=(from_multi_word_term)
+100	jednotka	jednotka	X	X@-------------	_	99	nmod	_	LGloss=(from_multi_word_term)
+101	přidružená	přidružená	X	X@-------------	_	99	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+102	“	"	PUNCT	Z:-------------	_	99	punct	_	SpaceAfter=No
+103	)	)	PUNCT	Z:-------------	_	85	punct	_	SpaceAfter=No
+104	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 # sent_id = zakon.iso-004-p26s7
 # text = (4) Společným vlivem se pro účely sestavení konsolidované účetní závěrky rozumí takový vliv, kdy osoba v konsolidačním celku spolu s jednou nebo více osobami nezahrnutými do konsolidačního celku ovládají jinou osobu, přičemž osoba vykonávající společný vliv samostatně nevykonává rozhodující vliv v této jiné osobě.
@@ -2592,7 +2598,7 @@
 15	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = zakon.iso-005-p33s3
-# text = (2) Účetní jednotky oceňují majetek a závazky a) k okamžiku uskutečnění účetního případu způsoby podle §_25, b) ke konci rozvahového dne nebo k jinému okamžiku, k němuž se účetní závěrka sestavuje, způsoby podle §_27; rovněž toto ocenění je povinna zaznamenat v účetních knihách, (dále jen "okamžik_ocenění").
+# text = (2) Účetní jednotky oceňují majetek a závazky a) k okamžiku uskutečnění účetního případu způsoby podle §_25, b) ke konci rozvahového dne nebo k jinému okamžiku, k němuž se účetní závěrka sestavuje, způsoby podle §_27; rovněž toto ocenění je povinna zaznamenat v účetních knihách, (dále jen „okamžik ocenění“).
 # orig_file_sentence document_02_005#3
 1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	LId=účetní-1
@@ -2645,12 +2651,12 @@
 49	(	(	PUNCT	Z:-------------	_	43	punct	_	SpaceAfter=No
 50	dále	dále	ADV	Db------------1	_	43	dep	_	LId=dále-3
 51	jen	jen	PART	TT-------------	_	53	advmod:emph	_	LId=jen-1
-52-54	"okamžik_ocenění"	_	_	_	_	_	_	_	SpaceAfter=No
-52	"	"	PUNCT	Z:-------------	_	53	punct	_	_
-53	okamžik_ocenění	"okamžik_ocenění"	X	X@-------------	_	43	dep	_	_
-54	"	"	PUNCT	Z:-------------	_	53	punct	_	_
-55	)	)	PUNCT	Z:-------------	_	43	punct	_	SpaceAfter=No
-56	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+52	„	"	PUNCT	Z:-------------	_	53	punct	_	SpaceAfter=No
+53	okamžik	okamžik	X	X@-------------	_	43	dep	_	LGloss=(from_multi_word_term)
+54	ocenění	ocenění	X	X@-------------	_	53	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+55	“	"	PUNCT	Z:-------------	_	53	punct	_	SpaceAfter=No
+56	)	)	PUNCT	Z:-------------	_	43	punct	_	SpaceAfter=No
+57	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 # sent_id = zakon.iso-005-p33s5
 # text = Ustanovení tohoto zákona o oceňování majetku a závazků se použije přiměřeně i pro oceňování jiných aktiv a pasiv.
@@ -5282,7 +5288,7 @@
 37	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = zakon.iso-005-p39s3
-# text = Inventarizaci účetní jednotky provádějí k okamžiku, ke kterému sestavují účetní závěrku jako řádnou nebo mimořádnou (dále jen "periodická_inventarizace").
+# text = Inventarizaci účetní jednotky provádějí k okamžiku, ke kterému sestavují účetní závěrku jako řádnou nebo mimořádnou (dále jen „periodická inventarizace“).
 # orig_file_sentence document_02_005#61
 1	Inventarizaci	inventarizace	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	4	obl:arg	_	_
 2	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	LId=účetní-1
@@ -5303,10 +5309,10 @@
 17	(	(	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
 18	dále	dále	ADV	Db------------1	_	4	dep	_	LId=dále-3
 19	jen	jen	PART	TT-------------	_	21	advmod:emph	_	LId=jen-1
-20-22	"periodická_inventarizace"	_	_	_	_	_	_	_	SpaceAfter=No
-20	"	"	PUNCT	Z:-------------	_	21	punct	_	_
-21	periodická_inventarizace	"periodická_inventarizace"	X	X@-------------	_	4	dep	_	_
-22	"	"	PUNCT	Z:-------------	_	21	punct	_	_
-23	)	)	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-24	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+20	„	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
+21	periodická	periodická	X	X@-------------	_	4	dep	_	LGloss=(from_multi_word_term)
+22	inventarizace	inventarizace	X	X@-------------	_	21	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+23	“	"	PUNCT	Z:-------------	_	21	punct	_	SpaceAfter=No
+24	)	)	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
