@@ -34,6 +34,8 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 * 2020-11-15 v2.7
   * Fixed tokenization of "je-li", "není-li" etc.
+  * Improved tokenization of multi-word terms.
+  * Fixed some annotation errors.
 * 2020-05-01 v2.6
   * Fixed: "to je" is a fixed multi-word expression, as in other Czech treebanks.
   * Genitive, dative and instrumental nominals are now considered oblique.
