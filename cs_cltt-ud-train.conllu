@@ -27488,9 +27488,9 @@
 # text = (1) Není-li dále stanoveno jinak, účetní jednotky otevírají účetní knihy a) ke dni vzniku povinnosti vést účetnictví, b) k prvnímu dni účetního období, c) ke dni vstupu do likvidace, d) ke dni následujícímu po dni zpracování návrhu na rozdělení likvidačního zůstatku nebo ke dni následujícímu po dni zpracování zprávy o naložení s majetkem podle zvláštních právních předpisů, e) ke dni, kterým nastanou účinky rozhodnutí o úpadku nebo ke kterému nastanou účinky rozhodnutí soudu o přeměně reorganizace v konkurs, f) ke dni následujícímu po dni, kterým nastanou účinky zrušení konkursu, g) ke dni, kterým nastanou účinky schválení reorganizačního plánu, h) ke dni následujícímu po dni, kterým nastanou účinky splnění reorganizačního plánu, i) ke dni následujícímu po dni, kterým nastanou účinky splnění plánu oddlužení, nebo j) ke dni, který pro sestavení zahajovací rozvahy stanoví zvláštní právní předpis.
 # orig_file_sentence document_02_002#71
 1	(1)	(1)	PUNCT	Z:-------------	_	11	punct	_	_
-2	Není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No
-3	-	-	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-4	li	li	PART	TT-------------	_	2	mark	_	_
+2	Není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	_	SpaceAfter=No
+3	-	-	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+4	li	li	PART	TT-------------	_	6	mark	_	_
 5	dále	dále	ADV	Db------------1	_	6	advmod	_	LId=dále-3
 6	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	obl	_	LDeriv=stanovit
 7	jinak	jinak	ADV	Db-------------	_	6	advmod	_	SpaceAfter=No
@@ -27646,9 +27646,9 @@
 # text = (2) Není-li dále stanoveno jinak, účetní jednotky uzavírají účetní knihy a) ke dni zániku povinnosti vést účetnictví, b) k poslednímu dni účetního období, c) ke dni předcházejícímu dni vstupu do likvidace, d) ke dni zrušení bez likvidace s výjimkou přeměn společností nebo družstev, e) ke dni předcházejícímu dni, kterým nastanou účinky rozhodnutí o úpadku nebo ke kterému nastanou účinky rozhodnutí soudu o přeměně reorganizace v konkurs, f) ke dni, kterým nastanou účinky zrušení konkursu, g) ke dni předcházejícímu dni, kterým nastanou účinky schválení reorganizačního plánu, h) ke dni, kterým nastanou účinky splnění reorganizačního plánu, i) ke dni, kterým nastanou účinky splnění plánu oddlužení, nebo j) ke dni, ke kterému stanoví povinnost uzavřít účetní knihy nebo sestavit účetní závěrku zvláštní právní předpis.
 # orig_file_sentence document_02_003#1
 1	(2)	(2)	PUNCT	Z:-------------	_	11	punct	_	_
-2	Není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No
-3	-	-	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-4	li	li	PART	TT-------------	_	2	mark	_	_
+2	Není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	_	SpaceAfter=No
+3	-	-	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+4	li	li	PART	TT-------------	_	6	mark	_	_
 5	dále	dále	ADV	Db------------1	_	6	advmod	_	LId=dále-3
 6	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	obl	_	LDeriv=stanovit
 7	jinak	jinak	ADV	Db-------------	_	6	advmod	_	SpaceAfter=No

@@ -4737,9 +4737,9 @@
 12	odstavci	odstavec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	_
 13	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	12	nummod	_	SpaceAfter=No
 14	,	,	PUNCT	Z:-------------	_	19	punct	_	_
-15	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	19	aux	_	SpaceAfter=No
-16	-	-	PUNCT	Z:-------------	_	17	punct	_	SpaceAfter=No
-17	li	li	PART	TT-------------	_	15	mark	_	_
+15	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	19	aux:pass	_	SpaceAfter=No
+16	-	-	PUNCT	Z:-------------	_	19	punct	_	SpaceAfter=No
+17	li	li	PART	TT-------------	_	19	mark	_	_
 18	dále	dále	ADV	Db------------1	_	19	advmod	_	LId=dále-3
 19	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	obl	_	LDeriv=stanovit
 20	jinak	jinak	ADV	Db-------------	_	19	advmod	_	SpaceAfter=No

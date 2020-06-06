@@ -3240,9 +3240,9 @@
 9	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 10	nečitelné	čitelný	ADJ	AAIP1----1N----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg	4	acl:relcl	_	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-12	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	SpaceAfter=No
-13	-	-	PUNCT	Z:-------------	_	14	punct	_	SpaceAfter=No
-14	li	li	PART	TT-------------	_	12	mark	_	_
+12	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux:pass	_	SpaceAfter=No
+13	-	-	PUNCT	Z:-------------	_	15	punct	_	SpaceAfter=No
+14	li	li	PART	TT-------------	_	15	mark	_	_
 15	dodrženo	dodržený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	10	obl	_	LDeriv=dodržet
 16	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	15	nsubj:pass	_	_
 17	§_33_odst._7	§_33_odst._7	X	X@-------------	_	16	nmod	_	SpaceAfter=No

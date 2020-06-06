@@ -109,8 +109,8 @@
     <dep name="advmod:emph">294</dep>
     <dep name="amod">6130</dep>
     <dep name="appos">78</dep>
-    <dep name="aux">47</dep>
-    <dep name="aux:pass">127</dep>
+    <dep name="aux">43</dep>
+    <dep name="aux:pass">131</dep>
     <dep name="case">3890</dep>
     <dep name="cc">1915</dep>
     <dep name="ccomp">21</dep>
