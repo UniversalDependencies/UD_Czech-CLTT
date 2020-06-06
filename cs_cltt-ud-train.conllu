@@ -2003,7 +2003,7 @@
 3	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	rovnoměrně	rovnoměrně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	_	_
 5	nejpozději	pozdě	ADV	Dg-------3A----	Degree=Sup|Polarity=Pos	3	advmod	_	_
-6	do	do	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	8	case	_	LId=do-7
+6	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	LId=do-7
 7	60	60	NUM	C}-------------	NumForm=Roman|NumType=Card	8	nummod	_	_
 8	měsíců	měsíc	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	_
 9	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	LId=od-1
@@ -2030,7 +2030,7 @@
 4	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	rovnoměrně	rovnoměrně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	_	_
 6	nejpozději	pozdě	ADV	Dg-------3A----	Degree=Sup|Polarity=Pos	4	advmod	_	_
-7	do	do	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	9	case	_	LId=do-7
+7	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	LId=do-7
 8	60	60	NUM	C}-------------	NumForm=Roman|NumType=Card	9	nummod	_	_
 9	měsíců	měsíc	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	_
 10	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	11	case	_	LId=od-1
@@ -2052,7 +2052,7 @@
 26	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 27	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	28	case	_	LId=do-1
 28	nákladů	náklad	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	26	obl	_	_
-29	od	od	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	31	case	_	LId=od-7
+29	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	31	case	_	LId=od-7
 30	rozhodného	rozhodný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	31	amod	_	_
 31	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	26	obl	_	_
 32	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	31	nmod	_	SpaceAfter=No
@@ -2098,7 +2098,7 @@
 35	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 36	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	37	case	_	LId=do-1
 37	výnosů	výnos	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	35	obl	_	_
-38	od	od	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	40	case	_	LId=od-7
+38	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	40	case	_	LId=od-7
 39	rozhodného	rozhodný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	40	amod	_	_
 40	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	35	obl	_	_
 41	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	40	nmod	_	SpaceAfter=No
@@ -3200,7 +3200,7 @@
 32	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
 33	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	34	case	_	LId=do-1
 34	nákladů	náklad	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	32	obl	_	_
-35	od	od	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	37	case	_	LId=od-7
+35	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	37	case	_	LId=od-7
 36	rozhodného	rozhodný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	37	amod	_	_
 37	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	32	obl	_	_
 38	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	37	nmod	_	SpaceAfter=No
@@ -3243,7 +3243,7 @@
 32	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
 33	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	34	case	_	LId=do-1
 34	výnosů	výnos	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	32	obl	_	_
-35	od	od	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	37	case	_	LId=od-7
+35	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	37	case	_	LId=od-7
 36	rozhodného	rozhodný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	37	amod	_	_
 37	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	32	obl	_	_
 38	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	37	nmod	_	SpaceAfter=No
@@ -5611,7 +5611,7 @@
 19	změn	změna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	18	nmod	_	_
 20	základního	základní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	amod	_	_
 21	kapitálu	kapitál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	19	nmod	_	_
-22	do	do	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	24	case	_	LId=do-7
+22	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	_	LId=do-7
 23	obchodního	obchodní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	24	amod	_	_
 24	rejstříku	rejstřík	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	18	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	9	punct	_	_
@@ -23093,7 +23093,7 @@
 34	.	.	PUNCT	Z:-------------	_	33	punct	_	_
 35	července	červenec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	_
 36	2008	2008	NUM	C}-------------	NumForm=Roman|NumType=Card	35	nummod	_	_
-37	do	do	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	40	case	_	LId=do-7
+37	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	40	case	_	LId=do-7
 38	31	31	NUM	C}-------------	NumForm=Roman|NumType=Card	40	nummod	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	38	punct	_	_
 40	prosince	prosinec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	_
@@ -24173,7 +24173,7 @@
 47	zápis	zápis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	46	nsubj:pass	_	_
 48	uvedených	uvedený	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	49	amod	_	_
 49	skutečností	skutečnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	47	nmod	_	_
-50	do	do	ADJ	A2--------A----	Hyph=Yes|Polarity=Pos	52	case	_	LId=do-7
+50	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	52	case	_	LId=do-7
 51	obchodního	obchodní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	52	amod	_	_
 52	rejstříku	rejstřík	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	47	nmod	_	SpaceAfter=No
 53	,	,	PUNCT	Z:-------------	_	68	punct	_	_
