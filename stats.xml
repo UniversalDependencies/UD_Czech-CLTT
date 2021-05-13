@@ -10,7 +10,7 @@
     <dev><sentences>129</sentences><tokens>4800</tokens><words>4801</words><fused>1</fused></dev>
     <test><sentences>136</sentences><tokens>4121</tokens><words>4127</words><fused>6</fused></test>
   </size>
-  <lemmas unique="2734" /><!-- ,, účetní, a, ., v, jednotka, být, ", nebo, se, který, k, podle, na, majetek -->
+  <lemmas unique="2737" /><!-- ,, účetní, a, ., v, jednotka, být, ", nebo, se, který, k, podle, na, majetek -->
   <forms unique="4660" /><!-- ,, a, účetní, ., v, se, nebo, podle, na, o, jednotky, k, “, „, majetku -->
   <fusions unique="1" /><!-- aby -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -20,7 +20,7 @@
     <tag name="ADV">790</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, hodně, například -->
     <tag name="AUX">616</tag><!-- být -->
     <tag name="CCONJ">1875</tag><!-- a, nebo, i, či, anebo, ani, ale, však, buď, avšak -->
-    <tag name="DET">1161</tag><!-- který, tento, jeho, ten, všechen, svůj, takový, jenž, každý, některý -->
+    <tag name="DET">1161</tag><!-- který, tento, jeho, ten, všechen, svůj, takový, každý, jejichž, některý -->
     <tag name="NOUN">11292</tag><!-- jednotka, majetek, položka, závěrka, den, období, záznam, ocenění, závazek, účetnictví -->
     <tag name="NUM">440</tag><!-- 1, 3, 2, jeden, 4, 5, dva, 41, 7, dvanáct -->
     <tag name="PART">154</tag><!-- li, jen, to, až, netto, nikoli, brutto, ne -->
@@ -76,7 +76,7 @@
     <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,NOUN,VERB">463</feat><!-- nejsou, nehmotného, není, nehmotný, nelze, nemusí, nepoužije, nemá, nepoužijí, nebyly -->
     <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,DET,NOUN,VERB">20307</feat><!-- účetní, jednotky, účetních, jednotka, majetku, je, období, jsou, ocenění, účetnictví -->
     <feat name="Poss" value="Yes" upos="ADJ,DET">241</feat><!-- jejich, jeho, její, jejichž, své, jejího, jehož, jejím, svého, svých -->
-    <feat name="PrepCase" value="Npr" upos="PRON">17</feat><!-- jimiž, jehož, jenž, jež, jímž -->
+    <feat name="PrepCase" value="Npr" upos="PRON">67</feat><!-- jej, je, jim, jí, jimiž, jehož, ji, jenž, jimi, jež -->
     <feat name="PrepCase" value="Pre" upos="PRON">76</feat><!-- nichž, němž, němuž, nich, ní, níž, nějž, nimi, ně, něj -->
     <feat name="PronType" value="Dem" upos="ADV,DET">425</feat><!-- této, tohoto, těchto, tyto, tato, tento, tak, to, tomto, tímto -->
     <feat name="PronType" value="Emp" upos="DET">4</feat><!-- sama, samo, samy -->
@@ -104,7 +104,7 @@
   <deps unique="38">
     <dep name="acl">85</dep>
     <dep name="acl:relcl">488</dep>
-    <dep name="advcl">232</dep>
+    <dep name="advcl">247</dep>
     <dep name="advmod">438</dep>
     <dep name="advmod:emph">294</dep>
     <dep name="amod">6130</dep>
@@ -113,7 +113,7 @@
     <dep name="aux:pass">131</dep>
     <dep name="case">3889</dep>
     <dep name="cc">1915</dep>
-    <dep name="ccomp">21</dep>
+    <dep name="ccomp">58</dep>
     <dep name="compound">1</dep>
     <dep name="conj">2624</dep>
     <dep name="cop">438</dep>
@@ -132,8 +132,8 @@
     <dep name="nsubj:pass">382</dep>
     <dep name="nummod">286</dep>
     <dep name="nummod:gov">24</dep>
-    <dep name="obj">925</dep>
-    <dep name="obl">2005</dep>
+    <dep name="obj">888</dep>
+    <dep name="obl">1990</dep>
     <dep name="obl:arg">691</dep>
     <dep name="orphan">22</dep>
     <dep name="parataxis">65</dep>
