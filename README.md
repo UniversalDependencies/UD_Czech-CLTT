@@ -36,6 +36,7 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
   * "§" is now SYM instead of NOUN.
   * Fixed recognition of clauses with passive participles (ADJ).
   * The verb 'být' is now AUX in all contexts.
+  * Merged PRON/DET 'sám', 'samý'.
 * 2020-11-15 v2.7
   * Fixed tokenization of "je-li", "není-li" etc.
   * Improved tokenization of multi-word terms.

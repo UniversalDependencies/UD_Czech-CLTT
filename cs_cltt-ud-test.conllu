@@ -112,7 +112,7 @@
 3	inventarizace	inventarizace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
 4	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	5	obl:arg	_	_
 5	stanoví	stanovit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	sama	sám	DET	PLFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	8	xcomp	_	_
+6	sama	samý	DET	PLFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp|Variant=Short	8	xcomp	_	_
 7	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	_	LId=účetní-1
 8	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
@@ -120,7 +120,7 @@
 # sent_id = zakon.iso-006-p39s8
 # text = Každý druh zásob a uvedeného hmotného majetku musí být takto inventarizován alespoň jednou za účetní období.
 # orig_file_sentence document_02_006#5
-1	Každý	každý	DET	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	2	det	_	_
+1	Každý	každý	DET	AAIS1----1A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
 2	druh	druh	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	8	nsubj	_	LId=druh-1
 3	zásob	zásoba	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	_	_
 4	a	a	CCONJ	J^-------------	_	7	cc	_	LId=a-1
@@ -1471,7 +1471,7 @@
 54	dokud	dokud	SCONJ	J,-------------	_	56	mark	_	_
 55	ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	56	nsubj	_	_
 56	nedá	dát	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	_	_
-57	samo	sám	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	56	xcomp	_	_
+57	samo	samý	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp|Variant=Short	56	xcomp	_	_
 58	nebo	nebo	CCONJ	J^-------------	_	60	cc	_	_
 59	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	60	case	_	LId=na-1
 60	žádost	žádost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	57	conj	_	_
@@ -2045,7 +2045,7 @@
 8	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	_
 9	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pv	_	_
 10	týkají	týkat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	každého	každý	DET	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	14	det	_	_
+11	každého	každý	DET	AAIS2----1A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
 12	jednotlivého	jednotlivý	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	14	amod	_	_
 13	účetního	účetní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	14	amod	_	LId=účetní-1
 14	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obl:arg	_	_
@@ -3169,7 +3169,7 @@
 14	odpovědnou	odpovědný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	_
 15	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	16	case	_	LId=za-1
 16	provedení	provedení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	14	obl:arg	_	_
-17	každé	každý	DET	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|PronType=Tot	18	det	_	_
+17	každé	každý	DET	AAFS2----1A----	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	18	det	_	_
 18	opravy	oprava	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	Z:-------------	_	20	punct	_	_
 20	okamžik	okamžik	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	conj	_	_
