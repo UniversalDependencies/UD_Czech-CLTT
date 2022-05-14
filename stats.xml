@@ -18,7 +18,7 @@
     <tag name="ADJ">6772</tag><!-- účetní, konsolidovaný, právní, uvedený, jiný, finanční, zvláštní, hmotný, stanovený, dlouhodobý -->
     <tag name="ADP">3946</tag><!-- v, k, podle, na, o, s, z, do, za, pro -->
     <tag name="ADV">790</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, hodně, například -->
-    <tag name="AUX">616</tag><!-- být -->
+    <tag name="AUX">632</tag><!-- být -->
     <tag name="CCONJ">1875</tag><!-- a, nebo, i, či, anebo, ani, ale, však, buď, avšak -->
     <tag name="DET">1161</tag><!-- který, tento, jeho, ten, všechen, svůj, takový, každý, jejichž, některý -->
     <tag name="NOUN">11292</tag><!-- jednotka, majetek, položka, závěrka, den, období, záznam, ocenění, závazek, účetnictví -->
@@ -28,7 +28,7 @@
     <tag name="PUNCT">4606</tag><!-- ,, ., ", ;, (, ), (1), (2), (3), - -->
     <tag name="SCONJ">386</tag><!-- pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak -->
     <tag name="SYM">18</tag><!-- %, +, / -->
-    <tag name="VERB">1857</tag><!-- obsahovat, použít, moci, mít, účtovat, uvést, rozumět, sestavovat, vést, stanovit -->
+    <tag name="VERB">1841</tag><!-- obsahovat, použít, moci, mít, účtovat, uvést, rozumět, sestavovat, vést, stanovit -->
     <tag name="X">2140</tag><!-- a), b), c), a, d), z, e), hospodaření, f), pohledávky -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -47,7 +47,7 @@
     <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">3576</feat><!-- v, o, ve, na, při, případě, po, účetní, období, případech -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON">4341</feat><!-- účetní, jednotka, jednotky, které, položka, která, ustanovení, závěrka, který, majetek -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">128</feat><!-- více, delší, později, nejméně, nejpozději, vyšší, kratší, nižší, pozdějších, výše -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV,DET">6236</feat><!-- účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">6218</feat><!-- účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">14</feat><!-- nejpozději, nejvyšší, nejméně, nejvyšším, nejdříve, nejvyššího -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON">8075</feat><!-- účetní, jednotky, jednotka, účetních, které, položka, závěrky, jednotek, společnosti, konsolidované -->
     <feat name="Gender" value="Fem,Masc" upos="ADJ,AUX,VERB">226</feat><!-- povinny, byly, zahrnuty, nebyly, obchodovány, přestaly, uvedeny, vykázány, účtovány, nastaly -->
@@ -74,7 +74,7 @@
     <feat name="NumValue" value="1,2,3" upos="NUM">58</feat><!-- jeden, jedné, tří, dvě, jedno, jednoho, jednou, obě, dvou, dvěma -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">2213</feat><!-- je, jsou, obsahuje, jejich, jeho, není, rozumí, nejsou, může, uvede -->
     <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,NOUN,VERB">463</feat><!-- nejsou, nehmotného, není, nehmotný, nelze, nemusí, nepoužije, nemá, nepoužijí, nebyly -->
-    <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,DET,NOUN,VERB">20307</feat><!-- účetní, jednotky, účetních, jednotka, majetku, je, období, jsou, ocenění, účetnictví -->
+    <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,NOUN,VERB">20289</feat><!-- účetní, jednotky, účetních, jednotka, majetku, je, období, jsou, ocenění, účetnictví -->
     <feat name="Poss" value="Yes" upos="ADJ,DET">241</feat><!-- jejich, jeho, její, jejichž, své, jejího, jehož, jejím, svého, svých -->
     <feat name="PrepCase" value="Npr" upos="PRON">67</feat><!-- jej, je, jim, jí, jimiž, jehož, ji, jenž, jimi, jež -->
     <feat name="PrepCase" value="Pre" upos="PRON">76</feat><!-- nichž, němž, němuž, nich, ní, níž, nějž, nimi, ně, něj -->
@@ -89,10 +89,10 @@
     <feat name="Reflex" value="Yes" upos="DET,PRON">504</feat><!-- se, své, sobě, svého, svých, svůj, sebou, svoji, svým, si -->
     <feat name="Style" value="Arch" upos="PRON,VERB">13</feat><!-- jej, dáti -->
     <feat name="Style" value="Coll" upos="ADJ">4</feat><!-- vytvořený, Dlouhodobý, Krátkodobý -->
-    <feat name="Tense" value="Fut" upos="AUX,VERB">22</feat><!-- bude, budou -->
+    <feat name="Tense" value="Fut" upos="AUX">22</feat><!-- bude, budou -->
     <feat name="Tense" value="Past" upos="AUX,VERB">174</feat><!-- byly, byl, bylo, došlo, nebyly, přestaly, byla, nabyla, určila, nastaly -->
     <feat name="Tense" value="Pres" upos="ADJ,AUX,VERB">2177</feat><!-- je, jsou, obsahuje, není, konsolidující, rozumí, nejsou, může, uvede, mohou -->
-    <feat name="Variant" value="Short" upos="ADJ,PRON">837</feat><!-- se, povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, zavedena -->
+    <feat name="Variant" value="Short" upos="ADJ,DET,PRON">841</feat><!-- se, povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, zavedena -->
     <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- počínaje -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">1936</feat><!-- je, jsou, obsahuje, není, rozumí, nejsou, může, uvede, mohou, použijí -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">362</feat><!-- být, vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést -->
