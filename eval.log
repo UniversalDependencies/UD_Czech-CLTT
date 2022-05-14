@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Czech-CLTT:
-commit 48b29302578f36127f3dc78b2c3ac00101f5dbaf
+commit c20bb057a327405c673ec0fa43b4acee7112ad38
+Merge: 199b88a 67dc6df
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 08:58:53 2021 +0200
 Size: counted 36689 of 36689 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.20495396522564.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL         65
-Udapi: found 65 bugs.
+               TOTAL         47
+Udapi: found 47 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 36689 words.
 Genres: found 1 out of 17 known.
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-dev.conllu
@@ -37,8 +37,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.521511958244075) = 0.133721014934378
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.98228351822072) = 0.302241082529452
+(weight=0.307692307692308) * (score{udapi}=0.98718962086729) = 0.303750652574551
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.683531295621264) * (availability=1) * (validity=1) = 0.683531295621264
+(TOTAL score=0.685040865666362) * (availability=1) * (validity=1) = 0.685040865666362
 STARS = 3.5
-UD_Czech-CLTT	0.683531295621264	3.5
+UD_Czech-CLTT	0.685040865666362	3.5
