@@ -6,9 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1125</sentences><tokens>36673</tokens><words>36689</words><fused>16</fused></total>
-    <train><sentences>860</sentences><tokens>27752</tokens><words>27761</words><fused>9</fused></train>
-    <dev><sentences>129</sentences><tokens>4800</tokens><words>4801</words><fused>1</fused></dev>
-    <test><sentences>136</sentences><tokens>4121</tokens><words>4127</words><fused>6</fused></test>
+    <train><sentences>468</sentences><tokens>14282</tokens><words>14284</words><fused>2</fused></train>
+    <dev><sentences>318</sentences><tokens>10900</tokens><words>10906</words><fused>6</fused></dev>
+    <test><sentences>339</sentences><tokens>11491</tokens><words>11499</words><fused>8</fused></test>
   </size>
   <lemmas unique="2737" /><!-- ,, účetní, a, ., v, jednotka, být, ", nebo, se, který, k, podle, na, majetek -->
   <forms unique="4660" /><!-- ,, a, účetní, ., v, se, nebo, podle, na, o, jednotky, k, “, „, majetku -->
