@@ -32,6 +32,8 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Changed train-dev-test split so that there is 10+k dev and test.
 * 2021-05-15 v2.8
   * "§" is now SYM instead of NOUN.
   * Fixed recognition of clauses with passive participles (ADJ).
