@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 13 22:03:41 2022 +0100
 Evaluating the following revision of UD_Czech-CLTT:
-commit c20bb057a327405c673ec0fa43b4acee7112ad38
-Merge: 199b88a 67dc6df
+commit 016e22377b0604c01bebcb8c105bb6b8f6fc219a
+Merge: 568bad4 15769f4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 36689 of 36689 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.20495396522564.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
-Split: Did not find at least 10000 development words.
-Split: Did not find at least 10000 test words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
@@ -25,20 +25,33 @@ Udapi: found 47 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 36689 words.
 Genres: found 1 out of 17 known.
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-dev.conllu
-*** PASSED ***
+[Line 989 Sent vyhlaska.iso-007-p73s6 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7414 Sent zakon.iso-001-p2s3 Node 67]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [65, 71]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-test.conllu
-*** PASSED ***
+[Line 3954 Sent zakon.iso-004-p26s4 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 20]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 4012 Sent zakon.iso-004-p26s5 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6673 Sent zakon.iso-005-p35s4 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 3
+*** FAILED *** with 3 errors
+Exit code: 1
 validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 12700 Sent vyhlaska.iso-005-p60s11 Node 88]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [16, 104]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 15494 Sent vyhlaska.iso-006-p69s10 Node 16]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 18]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.521511958244075) = 0.133721014934378
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.98718962086729) = 0.303750652574551
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.685040865666362) * (availability=1) * (validity=1) = 0.685040865666362
-STARS = 3.5
-UD_Czech-CLTT	0.685040865666362	3.5
+(TOTAL score=0.718887019512516) * (availability=1) * (validity=0.01) = 0.00718887019512516
+STARS = 0
+UD_Czech-CLTT	0.00718887019512516	0
