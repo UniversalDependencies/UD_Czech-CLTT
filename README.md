@@ -15,6 +15,10 @@ See the following websites for more information on CLTT 1.0:
 * http://ufal.mff.cuni.cz/czech-legal-text-treebank
 * http://hdl.handle.net/11234/1-1516
 
+Note: There is a newer version of the original treebank, CLTT 2.0. It contains
+a separate annotation layer of accounting entities. We assume that the underlying
+text and the morphosyntactic annotation are the same as in CLTT 1.0.
+
 
 # Acknowledgments
 
