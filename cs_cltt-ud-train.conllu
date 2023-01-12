@@ -10482,24 +10482,24 @@
 26	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	30	case	30:case	SpaceAfter=No|LId=na-1
 27	:	:	PUNCT	Z:-------------	_	30	punct	30:punct	_
 28	a)	a)	X	X@-------------	_	30	nmod	30:nmod	_
-29	povinný	povinný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	30	amod	30:amod	_
-30	audit	audit	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	25	nmod	25:nmod:na:acc	_
+29	povinný	povinný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	30	amod	30:amod	_
+30	audit	audit	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	25	nmod	25:nmod:na:acc	_
 31	účetní	účetní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	32	amod	32:amod	LId=účetní-1
 32	závěrky	závěrka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	30	nmod	30:nmod:gen	SpaceAfter=No
 33	,	,	PUNCT	Z:-------------	_	37	punct	37:punct	_
 34	b)	b)	X	X@-------------	_	37	nmod	37:nmod	_
-35	jiné	jiný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	37	amod	37:amod	_
-36	ověřovací	ověřovací	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	37	amod	37:amod	_
-37	služby	služba	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	30	conj	25:nmod:na:nom|30:conj	SpaceAfter=No
+35	jiné	jiný	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	37	amod	37:amod	_
+36	ověřovací	ověřovací	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	37	amod	37:amod	_
+37	služby	služba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	30	conj	25:nmod:na:acc|30:conj	SpaceAfter=No
 38	,	,	PUNCT	Z:-------------	_	41	punct	41:punct	_
 39	c)	c)	X	X@-------------	_	41	nmod	41:nmod	_
-40	daňové	daňový	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	41	amod	41:amod	_
-41	poradenství	poradenství	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	30	conj	25:nmod:na:nom|30:conj	SpaceAfter=No
+40	daňové	daňový	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	41	amod	41:amod	_
+41	poradenství	poradenství	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	30	conj	25:nmod:na:acc|30:conj	SpaceAfter=No
 42	,	,	PUNCT	Z:-------------	_	46	punct	46:punct	_
 43	d)	d)	X	X@-------------	_	46	nmod	46:nmod	_
 44	jiné	jiný	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	46	amod	46:amod	_
 45	neauditorské	auditorský	ADJ	AAFP4----1N----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	46	amod	46:amod	_
-46	služby	služba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	30	conj	25:nmod:na:nom|30:conj	SpaceAfter=No
+46	služby	služba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	30	conj	25:nmod:na:acc|30:conj	SpaceAfter=No
 47	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 # sent_id = vyhlaska.iso-004-p48s43
