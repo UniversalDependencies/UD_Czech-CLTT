@@ -45,6 +45,7 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
     A few problematic sentences removed. Otherwise, the underlying text is the same.
   * Added document and paragraph boundaries (newdoc, newpar).
   * Fixed upstream errors that caused double subjects in clauses.
+  * Added enhanced dependencies.
 * 2022-11-15 v2.11
   * Changed train-dev-test split so that there is 10+k dev and test.
 * 2021-05-15 v2.8
