@@ -104,7 +104,7 @@
   <deps unique="38">
     <dep name="acl">84</dep>
     <dep name="acl:relcl">481</dep>
-    <dep name="advcl">243</dep>
+    <dep name="advcl">241</dep>
     <dep name="advmod">430</dep>
     <dep name="advmod:emph">286</dep>
     <dep name="amod">6016</dep>
@@ -127,13 +127,13 @@
     <dep name="fixed">355</dep>
     <dep name="iobj">3</dep>
     <dep name="mark">405</dep>
-    <dep name="nmod">5891</dep>
+    <dep name="nmod">5557</dep>
     <dep name="nsubj">1260</dep>
     <dep name="nsubj:pass">372</dep>
     <dep name="nummod">283</dep>
     <dep name="nummod:gov">24</dep>
     <dep name="obj">884</dep>
-    <dep name="obl">1946</dep>
+    <dep name="obl">2282</dep>
     <dep name="obl:arg">686</dep>
     <dep name="orphan">21</dep>
     <dep name="parataxis">59</dep>
