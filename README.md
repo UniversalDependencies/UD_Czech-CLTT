@@ -1,19 +1,23 @@
 # Summary
 
-The UD_Czech-CLTT treebank is based on the Czech Legal Text Treebank 1.0,
-created at Charles University in Prague.
+The UD_Czech-CLTT treebank is based on the Czech Legal Text Treebank 2.0,
+created at the Charles University in Prague.
 
 
 # Introduction
 
-CLTT is a collection of 1125 manually annotated dependency trees. CLTT consists
-of two legal documents: The Accounting Act (563/1991 Coll., as amended) and
-Decree on Double-entry Accounting for undertakers (500/2002 Coll., as amended).
+CLTT is a collection of 1121 manually annotated dependency trees. CLTT consists
+of two legal documents: The Accounting Act (563/1991 Coll., as amended; Czech:
+“Zákon o účetnictví”; in sentence ids: “zakon.iso”) and Decree on Double-entry
+Accounting for undertakers (500/2002 Coll., as amended; Czech: “Vyhláška, kterou
+se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění
+pozdějších předpisů, pro účetní jednotky, které jsou podnikateli účtujícími
+v soustavě podvojného účetnictví”; in sentence ids: “vyhlaska.iso”).
 
-See the following websites for more information on CLTT 1.0:
+See the following websites for more information on CLTT 2.0:
 
 * http://ufal.mff.cuni.cz/czech-legal-text-treebank
-* http://hdl.handle.net/11234/1-1516
+* http://hdl.handle.net/11234/1-2498
 
 
 # Acknowledgments
@@ -23,22 +27,33 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 ## References
 
-* Vincent Kríž, Barbora Hladká and Zdeňka Urešová, 2015,
-  Czech Legal Text Treebank,
-  LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics,
-  Charles University in Prague,
-  http://hdl.handle.net/11234/1-1516.
+* Vincent Kríž, Barbora Hladká:
+  Czech Legal Text Treebank 2.0.
+  In: Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018),
+  Copyright © European Language Resources Association, Paris, France, ISBN 979-10-95546-00-9, pp. 4501-4505, 2018
+* Vincent Kríž, Barbora Hladká, 2017,
+  Czech Legal Text Treebank 2.0,
+  LINDAT/CLARIN digital library at the Institute of Formal and Applied Linguistics (ÚFAL),
+  Faculty of Mathematics and Physics, Charles University,
+  http://hdl.handle.net/11234/1-2498.
 
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Switched to CLTT 2.0 as the source data. Some annotation errors fixed upstream.
+    A few problematic sentences removed. Otherwise, the underlying text is the same.
+  * Added document and paragraph boundaries (newdoc, newpar).
+  * Fixed upstream errors that caused double subjects in clauses.
+  * Added enhanced dependencies.
 * 2022-11-15 v2.11
   * Changed train-dev-test split so that there is 10+k dev and test.
+* 2022-05-15 v2.10
+  * The verb 'být' is now AUX in all contexts.
+  * Merged PRON/DET 'sám', 'samý'.
 * 2021-05-15 v2.8
   * "§" is now SYM instead of NOUN.
   * Fixed recognition of clauses with passive participles (ADJ).
-  * The verb 'být' is now AUX in all contexts.
-  * Merged PRON/DET 'sám', 'samý'.
 * 2020-11-15 v2.7
   * Fixed tokenization of "je-li", "není-li" etc.
   * Improved tokenization of multi-word terms.
