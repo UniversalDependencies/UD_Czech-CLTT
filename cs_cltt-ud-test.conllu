@@ -7481,7 +7481,7 @@
 30	,	,	PUNCT	Z:-------------	_	24	punct	24:punct	_
 31	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	32:cop	_
 32	povinna	povinný	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	16	parataxis	16:parataxis	_
-33	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	34	obj	34:obj	LId=on-1
+33	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	34	obj	34:obj	LId=on-1
 34	použít	použít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	32	xcomp	32:xcomp	_
 35	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	36	case	36:case	LId=pro-1
 36	ocenění	ocenění	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	34	obl	34:obl:pro:acc	_
@@ -7599,12 +7599,12 @@
 50	účtují	účtovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 51	a	a	CCONJ	J^-------------	_	52	cc	52:cc	LId=a-1
 52	odpisují	odpisovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	50	conj	0:root|50:conj	_
-53	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	52	obj	52:obj	LId=on-1
+53	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	52	obj	52:obj	LId=on-1
 54	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	55	amod	55:amod	LId=účetní-1
 55	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	50	nsubj	50:nsubj|52:nsubj|59:nsubj	SpaceAfter=No
 56	,	,	PUNCT	Z:-------------	_	59	punct	59:punct	_
 57	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	59	nsubj	55:ref	_
-58	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	59	obj	59:obj	LId=on-1
+58	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	59	obj	59:obj	LId=on-1
 59	používají	používat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	55	acl:relcl	55:acl:relcl	SpaceAfter=No
 60	.	.	PUNCT	Z:-------------	_	50	punct	50:punct	_
 
@@ -7641,7 +7641,7 @@
 9	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	7:nsubj|16:nsubj	SpaceAfter=No
 10	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
 11	která	který	DET	P4FS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	16	nsubj	9:ref	_
-12	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	16	obj	16:obj	LId=on-1
+12	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	16:obj	LId=on-1
 13	úplatně	úplatně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	16	advmod	16:advmod	_
 14	nebo	nebo	CCONJ	J^-------------	_	15	cc	15:cc	_
 15	bezúplatně	bezúplatně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	13	conj	13:conj|16:advmod	_
@@ -7688,7 +7688,7 @@
 9	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	7:nsubj|13:nsubj	SpaceAfter=No
 10	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
 11	která	který	DET	P4FS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	13	nsubj	9:ref	_
-12	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	13	obj	13:obj	LId=on-1
+12	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	13:obj	LId=on-1
 13	poskytuje	poskytovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	9:acl:relcl	_
 14	jiné	jiný	ADJ	AAFS3----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	15	amod	15:amod	_
 15	osobě	osoba	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	13	obl:arg	13:obl:arg:dat	_
@@ -7758,7 +7758,7 @@
 17	účtovat	účtovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	13	xcomp	13:xcomp	_
 18	a	a	CCONJ	J^-------------	_	19	cc	19:cc	LId=a-1
 19	odpisovat	odpisovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	17	conj	13:xcomp|17:conj	_
-20	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	19	obj	19:obj	LId=on-1
+20	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	19:obj	LId=on-1
 21	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	23:case	LId=na-1
 22	základě	základ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	21	fixed	21:fixed	_
 23	smlouvy	smlouva	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	19	obl	19:obl:na_základě:gen	_
@@ -7805,7 +7805,7 @@
 30	zhodnocení	zhodnocení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	26	obl:arg	26:obl:arg:o:loc	_
 31	a	a	CCONJ	J^-------------	_	32	cc	32:cc	LId=a-1
 32	odpisuje	odpisovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	0:root|26:conj	_
-33	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	32	obj	32:obj	LId=on-1
+33	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	32	obj	32:obj	LId=on-1
 34	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	38	case	38:case	LId=v-1
 35	souladu	soulad	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	34	fixed	34:fixed	_
 36	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	34	fixed	34:fixed	LId=s-1
@@ -8487,7 +8487,7 @@
 75	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	70	conj	67:nmod:k:dat|70:conj	SpaceAfter=No
 76	,	,	PUNCT	Z:-------------	_	81	punct	81:punct	_
 77	pokud	pokud	SCONJ	J,-------------	_	81	mark	81:mark	_
-78	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	81	obj	81:obj	LId=on-1
+78	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	81	obj	81:obj	LId=on-1
 79	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	80	amod	80:amod	LId=účetní-1
 80	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	81	nsubj	81:nsubj	_
 81	stanovila	stanovit	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	61	dep	61:dep	SpaceAfter=No
@@ -8511,7 +8511,7 @@
 99	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	92	conj	90:nmod:k:dat|92:conj	SpaceAfter=No
 100	,	,	PUNCT	Z:-------------	_	105	punct	105:punct	_
 101	pokud	pokud	SCONJ	J,-------------	_	105	mark	105:mark	_
-102	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	105	obj	105:obj	LId=on-1
+102	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	105	obj	105:obj	LId=on-1
 103	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	104	amod	104:amod	LId=účetní-1
 104	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	105	nsubj	105:nsubj	_
 105	stanovila	stanovit	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	84	dep	84:dep	SpaceAfter=No
@@ -8531,7 +8531,7 @@
 119	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	conj	11:obj|13:conj	SpaceAfter=No|LId=den-2
 120	,	,	PUNCT	Z:-------------	_	125	punct	125:punct	_
 121	pokud	pokud	SCONJ	J,-------------	_	125	mark	125:mark	_
-122	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Style=Arch	125	obj	125:obj	LId=on-1
+122	jej	on	PRON	PPZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	125	obj	125:obj	LId=on-1
 123	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	124	amod	124:amod	LId=účetní-1
 124	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	125	nsubj	125:nsubj	_
 125	stanovila	stanovit	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	119	dep	119:dep	SpaceAfter=No

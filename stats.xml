@@ -32,7 +32,7 @@
     <tag name="X">2120</tag><!-- a), b), c), a, d), z, hospodaření, e), pohledávky, f) -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="66">
+  <feats unique="65">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,DET,NOUN">35</feat><!-- Kč, něm, USD, m, m2, t, ha, ČSSR -->
     <feat name="AdpType" value="Comprep" upos="ADP">4</feat><!-- vzhledem -->
     <feat name="AdpType" value="Prep" upos="ADP">3523</feat><!-- v, podle, na, o, k, s, do, za, z, pro -->
@@ -87,7 +87,6 @@
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">95</feat><!-- nichž, němž, jejichž, němuž, jehož, jimiž, níž, nějž, jenž, přičemž -->
     <feat name="PronType" value="Tot" upos="ADV,DET,PRON">69</feat><!-- všech, všechny, veškeré, vždy, každou, každé, všechna, každého, každý, Každá -->
     <feat name="Reflex" value="Yes" upos="DET,PRON">494</feat><!-- se, své, sobě, svého, svých, svůj, sebou, svoji, svým, si -->
-    <feat name="Style" value="Arch" upos="PRON,VERB">13</feat><!-- jej, dáti -->
     <feat name="Style" value="Coll" upos="ADJ">4</feat><!-- vytvořený, Dlouhodobý, Krátkodobý -->
     <feat name="Tense" value="Fut" upos="AUX">22</feat><!-- bude, budou -->
     <feat name="Tense" value="Past" upos="AUX,VERB">172</feat><!-- byly, byl, bylo, došlo, nebyly, přestaly, byla, nabyla, určila, staly -->
