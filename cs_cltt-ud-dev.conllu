@@ -129,7 +129,7 @@
 108	technicko-ekonomickým	technicko-ekonomickým	X	X@-------------	_	109	nmod	109:nmod	_
 109	určením	určení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	103	nmod	103:nmod:s:ins	_
 110	jako	jako	SCONJ	J,-------------	_	112	mark	112:mark	_
-111	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	112	nummod	112:nummod	_
+111	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	112	nummod	112:nummod	_
 112	celek	celek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	103	xcomp	103:xcomp	SpaceAfter=No
 113	,	,	PUNCT	Z:-------------	_	118	punct	118:punct	_
 114	a	a	CCONJ	J^-------------	_	118	cc	118:cc	LId=a-1
@@ -1606,7 +1606,7 @@
 48	dobu	doba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	47	obj	47:obj	_
 49	splatnosti	splatnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	48	nmod	48:nmod:gen	_
 50	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	52	case	52:case	LId=do-1
-51	jednoho	jeden	NUM	ClZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	52	nummod	52:nummod	_
+51	jednoho	jeden	NUM	ClZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card	52	nummod	52:nummod	_
 52	roku	rok	NOUN	NNIS2-----A---1	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	48	nmod	48:nmod:do:gen	_
 53	a	a	CCONJ	J^-------------	_	55	cc	55:cc	LId=a-1
 54	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	55	aux:pass	55:aux:pass	_
@@ -2464,7 +2464,7 @@
 10	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	11	case	11:case	LId=podle-2
 11	§_24_odst._5_zákona	§_24_odst._5_zákona	X	X@-------------	_	12	obl	12:obl:podle:gen	_
 12	ocení	ocenit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	_
-13	jednou	jeden	NUM	ClFS7----------	Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	14	nummod	14:nummod	_
+13	jednou	jeden	NUM	ClFS7----------	Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	14	nummod	14:nummod	_
 14	cenou	cena	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	12	obl	12:obl:ins	SpaceAfter=No|LId=cena-2
 15	,	,	PUNCT	Z:-------------	_	22	punct	22:punct	_
 16	pokud	pokud	SCONJ	J,-------------	_	22	mark	22:mark	_
@@ -2572,7 +2572,7 @@
 4	nabytí	nabytí	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	2	nmod	2:nmod:při:loc	_
 5	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	8	cc	8:cc	_
 6	než	než	SCONJ	J,-------------	_	8	cc	8:cc	LId=než-2
-7	jedné	jeden	NUM	ClFS2----------	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	8	nummod	8:nummod	_
+7	jedné	jeden	NUM	ClFS2----------	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	8	nummod	8:nummod	_
 8	složky	složka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	4:nmod:gen	_
 9	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	8:nmod:gen	_
 10	převodem	převod	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	4:nmod:ins	_
@@ -7331,7 +7331,7 @@
 147	,	,	PUNCT	Z:-------------	_	156	punct	156:punct	_
 148	pokud	pokud	SCONJ	J,-------------	_	156	mark	156:mark	_
 149	alespoň	alespoň	ADV	Db-------------	_	150	advmod:emph	150:advmod:emph	_
-150	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	156	nsubj	156:nsubj	_
+150	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	156	nsubj	156:nsubj	_
 151	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	152	case	152:case	LId=z-1
 152	účastníků	účastník	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	150	nmod	150:nmod:z:gen	_
 153	tohoto	tento	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	154	det	154:det	_
@@ -9147,7 +9147,7 @@
 4	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 5	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	0	root	0:root	_
 6	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	xcomp	5:xcomp	LId=vést-1
-7	jedno	jeden	NUM	ClNS4----------	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	8	nummod	8:nummod	_
+7	jedno	jeden	NUM	ClNS4----------	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	8	nummod	8:nummod	_
 8	účetnictví	účetnictví	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	6	obj	6:obj	_
 9	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	LId=za-1
 10	účetní	účetní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	11:amod	LId=účetní-1
@@ -10042,7 +10042,7 @@
 18	oceňování	oceňování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	17	nmod	17:nmod:gen	_
 19	použité	použitý	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	17	amod	17:amod	_
 20	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	23:case	LId=v-1
-21	jednom	jeden	NUM	ClZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	23	nummod	23:nummod	_
+21	jednom	jeden	NUM	ClZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card	23	nummod	23:nummod	_
 22	účetním	účetní	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	23	amod	23:amod	LId=účetní-1
 23	období	období	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	19	obl	19:obl:v:loc	_
 24	nesmí	smět	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -10988,7 +10988,7 @@
 6	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	8	nsubj	1:ref	_
 7	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	8:expl:pv	_
 8	týkají	týkat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	1:acl:relcl	_
-9	jednoho	jeden	NUM	ClZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	11	nummod	11:nummod	_
+9	jednoho	jeden	NUM	ClZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card	11	nummod	11:nummod	_
 10	účetního	účetní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	11	amod	11:amod	LId=účetní-1
 11	dokladu	doklad	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	obl:arg	8:obl:arg:gen	SpaceAfter=No
 12	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
