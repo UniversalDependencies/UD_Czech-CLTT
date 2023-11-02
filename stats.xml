@@ -99,7 +99,7 @@
     <feat name="Voice" value="Pass" upos="ADJ">254</feat><!-- stanoveno, sestavena, obchodovány, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, účtovány -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="38">
+  <deps unique="37">
     <dep name="acl">84</dep>
     <dep name="acl:relcl">481</dep>
     <dep name="advcl">241</dep>
@@ -114,7 +114,7 @@
     <dep name="ccomp">56</dep>
     <dep name="compound">1</dep>
     <dep name="conj">2562</dep>
-    <dep name="cop">428</dep>
+    <dep name="cop">438</dep>
     <dep name="csubj">54</dep>
     <dep name="csubj:pass">3</dep>
     <dep name="dep">225</dep>
@@ -123,16 +123,15 @@
     <dep name="expl:pass">348</dep>
     <dep name="expl:pv">113</dep>
     <dep name="fixed">355</dep>
-    <dep name="iobj">3</dep>
     <dep name="mark">405</dep>
     <dep name="nmod">5557</dep>
     <dep name="nsubj">1260</dep>
     <dep name="nsubj:pass">372</dep>
     <dep name="nummod">283</dep>
     <dep name="nummod:gov">24</dep>
-    <dep name="obj">884</dep>
-    <dep name="obl">2282</dep>
-    <dep name="obl:arg">686</dep>
+    <dep name="obj">887</dep>
+    <dep name="obl">2274</dep>
+    <dep name="obl:arg">684</dep>
     <dep name="orphan">21</dep>
     <dep name="parataxis">59</dep>
     <dep name="punct">4539</dep>
