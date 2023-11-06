@@ -40,6 +40,10 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * Removed Style=Arch from all Czech UD treebanks.
+  * Removed NumValue from all Czech UD treebanks.
+  * Pseudo-existential _být_ with oblique/adverbial modifiers changed to copula.
 * 2023-05-15 v2.12
   * Switched to CLTT 2.0 as the source data. Some annotation errors fixed upstream.
     A few problematic sentences removed. Otherwise, the underlying text is the same.
