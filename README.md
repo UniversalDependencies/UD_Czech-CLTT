@@ -40,10 +40,15 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * Improved distinction between adverbial predicates (with copula) and adverbial modifiers.
+  * More restrictive use of orphans and empty nodes: Not in non-verbal coordinated sentences.
+  * Fixed treatment of "by" in aux/cop chains.
+  * Improved form and position of abstract predicates in gapping.
 * 2023-11-15 v2.13
   * Removed Style=Arch from all Czech UD treebanks.
   * Removed NumValue from all Czech UD treebanks.
-  * Pseudo-existential _být_ with oblique/adverbial modifiers changed to copula.
+  * Pseudo-existential "být" with oblique/adverbial modifiers changed to copula.
 * 2023-05-15 v2.12
   * Switched to CLTT 2.0 as the source data. Some annotation errors fixed upstream.
     A few problematic sentences removed. Otherwise, the underlying text is the same.
