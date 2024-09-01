@@ -10,7 +10,7 @@
     <dev><sentences>316</sentences><tokens>10704</tokens><words>10710</words><fused>6</fused></dev>
     <test><sentences>338</sentences><tokens>11401</tokens><words>11409</words><fused>8</fused></test>
   </size>
-  <lemmas unique="2711" /><!-- ,, účetní, a, ., v, jednotka, být, ", se, nebo, který, k, podle, na, majetek -->
+  <lemmas unique="2717" /><!-- ,, účetní, a, ., v, jednotka, být, ", se, nebo, který, k, podle, na, majetek -->
   <forms unique="4587" /><!-- ,, a, účetní, ., v, se, nebo, podle, na, o, jednotky, k, “, „, jednotka -->
   <fusions unique="1" /><!-- aby -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -72,8 +72,8 @@
     <feat name="NumType" value="Mult" upos="ADV">3</feat><!-- jednou -->
     <feat name="NumType" value="Ord" upos="ADJ,ADV">53</feat><!-- poprvé, prvním, prvnímu, první, prvního, třetí, PÁTÁ, ČTVRTÁ, ŠESTÁ, SEDMÁ -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">2172</feat><!-- je, jsou, obsahuje, jejich, jeho, není, rozumí, nejsou, může, uvede -->
-    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,NOUN,VERB">454</feat><!-- nejsou, nehmotného, není, nehmotný, nelze, nepoužije, nemusí, nemá, nepoužijí, nebyly -->
-    <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,NOUN,VERB">19897</feat><!-- účetní, jednotky, účetních, jednotka, majetku, je, období, ocenění, jsou, účetnictví -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADV,AUX,VERB">439</feat><!-- nejsou, nehmotného, není, nehmotný, nelze, nepoužije, nemusí, nemá, nepoužijí, nebyly -->
+    <feat name="Polarity" value="Pos" upos="ADJ,ADV,AUX,VERB">8850</feat><!-- účetní, účetních, je, jsou, účetního, obsahuje, konsolidované, konsolidující, finanční, rozumí -->
     <feat name="Poss" value="Yes" upos="ADJ,DET">231</feat><!-- jejich, jeho, její, jejichž, své, jehož, jejího, jejím, svého, svých -->
     <feat name="PrepCase" value="Npr" upos="PRON">67</feat><!-- jej, je, jim, jí, jimiž, jehož, ji, jenž, jimi, jež -->
     <feat name="PrepCase" value="Pre" upos="PRON">72</feat><!-- nichž, němž, němuž, nich, ní, níž, nějž, nimi, ně, něj -->
