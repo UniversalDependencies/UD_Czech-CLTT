@@ -47,7 +47,7 @@
     <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">3525</feat><!-- v, o, ve, na, při, případě, po, účetní, období, případech -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON">4218</feat><!-- účetní, jednotka, jednotky, které, položka, která, ustanovení, závěrka, který, majetek -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">125</feat><!-- více, delší, později, nejméně, nejpozději, vyšší, kratší, nižší, pozdějších, výše -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV">6091</feat><!-- účetní, účetních, účetního, konsolidované, finanční, účetním, právní, výroční, ostatní, reálnou -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">6450</feat><!-- účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">14</feat><!-- nejpozději, nejvyšší, nejméně, nejvyšším, nejdříve, nejvyššího -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON">7917</feat><!-- účetní, jednotky, jednotka, účetních, které, položka, závěrky, jednotek, společnosti, položek -->
     <feat name="Gender" value="Fem,Masc" upos="ADJ,AUX,VERB">219</feat><!-- povinny, byly, nebyly, obchodovány, přestaly, uvedeny, zahrnuty, vykázány, účtovány, staly -->
