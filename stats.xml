@@ -10,7 +10,7 @@
     <dev><sentences>316</sentences><tokens>10704</tokens><words>10710</words><fused>6</fused></dev>
     <test><sentences>338</sentences><tokens>11401</tokens><words>11409</words><fused>8</fused></test>
   </size>
-  <lemmas unique="2717" /><!-- ,, účetní, a, ., v, jednotka, být, ", se, nebo, který, k, podle, na, majetek -->
+  <lemmas unique="2718" /><!-- ,, účetní, a, ., v, jednotka, být, ", se, nebo, který, k, podle, na, majetek -->
   <forms unique="4587" /><!-- ,, a, účetní, ., v, se, nebo, podle, na, o, jednotky, k, “, „, jednotka -->
   <fusions unique="1" /><!-- aby -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -32,7 +32,7 @@
     <tag name="X">2120</tag><!-- a), b), c), a, d), z, hospodaření, e), pohledávky, f) -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="64">
+  <feats unique="67">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,DET,NOUN">35</feat><!-- Kč, něm, USD, m, m2, t, ha, ČSSR -->
     <feat name="AdpType" value="Comprep" upos="ADP">4</feat><!-- vzhledem -->
     <feat name="AdpType" value="Prep" upos="ADP">3523</feat><!-- v, podle, na, o, k, s, do, za, z, pro -->
@@ -40,15 +40,18 @@
     <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,VERB">301</feat><!-- auditorem, členům, přejímající, společník, společníka, zaměstnanců, účastníky, následujícímu, předcházejícímu, společníkům -->
     <feat name="Animacy" value="Inan" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">6994</feat><!-- majetku, dni, účetní, závazků, účetních, dne, majetek, odstavce, případě, náklady -->
     <feat name="Aspect" value="Imp" upos="ADJ,AUX,VERB">907</feat><!-- je, jsou, není, konsolidující, nejsou, být, by, byly, zanikající, následujícího -->
-    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">4049</feat><!-- se, účetní, na, pro, za, o, závěrku, závazky, období, účetnictví -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">4050</feat><!-- se, účetní, na, pro, za, o, závěrku, závazky, období, účetnictví -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,DET,NOUN,NUM,PRON">1134</feat><!-- k, ke, dni, obchodování, okamžiku, konci, kterému, majetku, rozvahovému, kterým -->
     <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON">7798</feat><!-- podle, účetní, majetku, účetních, do, z, účetního, u, závěrky, období -->
     <feat name="Case" value="Ins" upos="ADJ,ADP,DET,NOUN,NUM,PRON">2079</feat><!-- s, účetní, jednotkou, hodnotou, výjimkou, mezi, reálnou, způsobem, účetními, dnem -->
-    <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">3525</feat><!-- v, o, ve, na, při, případě, po, účetní, období, případech -->
+    <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">3524</feat><!-- v, o, ve, na, při, případě, po, účetní, období, případech -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON">4218</feat><!-- účetní, jednotka, jednotky, které, položka, která, ustanovení, závěrka, který, majetek -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">125</feat><!-- více, delší, později, nejméně, nejpozději, vyšší, kratší, nižší, pozdějších, výše -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">6450</feat><!-- účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">14</feat><!-- nejpozději, nejvyšší, nejméně, nejvyšším, nejdříve, nejvyššího -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV">258</feat><!-- v, s, na, z, bez, ve, vzhledem, za, souvztažně, společně -->
+    <feat name="ExtPos" value="ADV" upos="ADV">1</feat><!-- více -->
+    <feat name="ExtPos" value="CCONJ" upos="CCONJ,DET">35</feat><!-- a, to -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON">7917</feat><!-- účetní, jednotky, jednotka, účetních, které, položka, závěrky, jednotek, společnosti, položek -->
     <feat name="Gender" value="Fem,Masc" upos="ADJ,AUX,VERB">219</feat><!-- povinny, byly, nebyly, obchodovány, přestaly, uvedeny, zahrnuty, vykázány, účtovány, staly -->
     <feat name="Gender" value="Fem,Neut" upos="ADJ,AUX,NUM,VERB">145</feat><!-- povinna, sestavena, byla, zavedena, nabyla, určila, uvedena, známa, dvě, dotčena -->
@@ -100,12 +103,12 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="37">
-    <dep name="acl">84</dep>
-    <dep name="acl:relcl">481</dep>
+    <dep name="acl">88</dep>
+    <dep name="acl:relcl">537</dep>
     <dep name="advcl">241</dep>
     <dep name="advmod">430</dep>
     <dep name="advmod:emph">286</dep>
-    <dep name="amod">6016</dep>
+    <dep name="amod">5931</dep>
     <dep name="appos">76</dep>
     <dep name="aux">38</dep>
     <dep name="aux:pass">130</dep>
@@ -118,13 +121,13 @@
     <dep name="csubj">54</dep>
     <dep name="csubj:pass">3</dep>
     <dep name="dep">225</dep>
-    <dep name="det">629</dep>
+    <dep name="det">624</dep>
     <dep name="det:nummod">1</dep>
     <dep name="expl:pass">348</dep>
     <dep name="expl:pv">113</dep>
-    <dep name="fixed">355</dep>
-    <dep name="mark">405</dep>
-    <dep name="nmod">5557</dep>
+    <dep name="fixed">354</dep>
+    <dep name="mark">406</dep>
+    <dep name="nmod">5587</dep>
     <dep name="nsubj">1260</dep>
     <dep name="nsubj:pass">372</dep>
     <dep name="nummod">283</dep>
