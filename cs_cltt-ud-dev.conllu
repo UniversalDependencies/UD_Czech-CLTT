@@ -1263,7 +1263,7 @@
 4	určeny	určený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=určit
 5	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	6	case	6:case	LId=k-1
 6	pokrytí	pokrytí	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing	4	obl	4:obl:k:dat	_
-7	budoucích	budoucí	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	8:amod	_
+7	budoucích	budoucí	ADJ	AAIP2----1A----	Animacy=Inan|Aspect=Imp|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Act	8	amod	8:amod	_
 8	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod:gen|17:obl:u:gen|21:obl:u:gen|29:obl:u:gen	_
 9	nebo	nebo	CCONJ	J^-------------	_	10	cc	10:cc	_
 10	výdajů	výdaj	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	6:nmod:gen|8:conj|17:obl:u:gen|21:obl:u:gen|29:obl:u:gen	_
@@ -6178,7 +6178,7 @@
 42	-	-	PUNCT	Z:-------------	_	40	punct	40:punct	SpaceAfter=No
 43	)	)	PUNCT	Z:-------------	_	38	punct	38:punct	_
 44	jako	jako	SCONJ	J,-------------	_	45	mark	45:mark	_
-45	zůstatek	zůstatek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	dep	20:dep	_
+45	zůstatek	zůstatek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	advcl	20:advcl:jako	_
 46	aktivní	aktivní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	45	amod	45:amod	_
 47	nebo	nebo	CCONJ	J^-------------	_	48	cc	48:cc	_
 48	pasivní	pasivní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	46	conj	45:amod|46:conj	SpaceAfter=No
@@ -9600,10 +9600,10 @@
 10	§_18	§_18	X	X@-------------	_	6	obl	6:obl:podle:gen	_
 11	jako	jako	SCONJ	J,-------------	_	12	mark	12:mark	_
 12	řádnou	řádný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	xcomp	8:xcomp	SpaceAfter=No
-13	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
-14	popřípadě	popřípadě	ADV	Db-------------	_	16	cc	16:cc	_
-15	jako	jako	SCONJ	J,-------------	_	16	mark	16:mark|18:mark	_
-16	mimořádnou	mimořádný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	8:xcomp|12:conj	_
+13	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
+14	popřípadě	popřípadě	ADV	Db-------------	_	8	cc	8:cc	_
+15	jako	jako	SCONJ	J,-------------	_	16	mark	16:mark	_
+16	mimořádnou	mimořádný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	xcomp	8:xcomp	_
 17	nebo	nebo	CCONJ	J^-------------	_	18	cc	18:cc	_
 18	mezitímní	mezitímní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	16	conj	8:xcomp|16:conj	SpaceAfter=No
 19	,	,	PUNCT	Z:-------------	_	30	punct	30:punct	_
