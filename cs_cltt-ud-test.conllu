@@ -9425,9 +9425,9 @@
 51	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	52	amod	52:amod	LId=účetní-1
 52	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	50	nsubj	50:nsubj	SpaceAfter=No
 53	,	,	PUNCT	Z:-------------	_	56	punct	56:punct	_
-54	dokud	dokud	SCONJ	J,-------------	_	56	advcl	56:advcl	_
+54	dokud	dokud	SCONJ	J,-------------	_	56	mark	56:mark	_
 55	ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	56	nsubj	56:nsubj	_
-56	nedá	dát	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	50:advcl	_
+56	nedá	dát	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	50:advcl:dokud	_
 57	samo	samý	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp|Variant=Short	56	xcomp	56:xcomp	_
 58	nebo	nebo	CCONJ	J^-------------	_	60	cc	60:cc	_
 59	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	60	case	60:case	LId=na-1
