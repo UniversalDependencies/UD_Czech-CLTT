@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 010fa22abfc9a6374b5ccba60808f06eb23dcdae
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Tue Jun 10 17:39:59 2025 +0200
 Evaluating the following revision of UD_Czech-CLTT:
-commit 2049014ecadb335bc6e06e71b2ed20a0b209b8e8
-Merge: b86bc7e 2d239e9
+commit 2988b68afef6857a73ff9c7301c529a3b0efa367
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 9 23:57:03 2025 +0200
 Size: counted 36013 of 36013 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.16775996876459.
 Size: maximum value 13.815511 is for 1000000 words or more.
