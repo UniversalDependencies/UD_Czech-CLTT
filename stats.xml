@@ -101,10 +101,11 @@
     <feat name="Voice" value="Pass" upos="ADJ">254</feat><!-- stanoveno, sestavena, obchodovány, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, účtovány -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="37">
+  <deps unique="38">
     <dep name="acl">88</dep>
     <dep name="acl:relcl">537</dep>
     <dep name="advcl">242</dep>
+    <dep name="advcl:pred">70</dep>
     <dep name="advmod">430</dep>
     <dep name="advmod:emph">286</dep>
     <dep name="amod">5931</dep>
@@ -138,6 +139,6 @@
     <dep name="parataxis">59</dep>
     <dep name="punct">4539</dep>
     <dep name="root">1121</dep>
-    <dep name="xcomp">282</dep>
+    <dep name="xcomp">212</dep>
   </deps>
 </treebank>
