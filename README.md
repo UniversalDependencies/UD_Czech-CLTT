@@ -106,6 +106,7 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 Data available since: UD v1.3
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: legal
 Lemmas: converted from manual
 UPOS: converted from manual
