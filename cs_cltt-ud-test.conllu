@@ -4773,7 +4773,7 @@
 17	vlivem	vliv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	nmod	14:nmod:pod:ins	_
 18	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	19	case	19:case	LId=o-1
 19	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	1	advmod	1:advmod	_
-20	jak	jak	ADV	Db-------------	PronType=Int,Rel	22	mark	22:mark	LId=jak-3
+20	jak	jak	ADV	Db-------------	PronType=Int,Rel	22	advmod	22:advmod	LId=jak-3
 21	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	22	nummod	22:nummod	_
 22	měsíce	měsíc	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	dep	19:dep	_
 23	rozvahový	rozvahový	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	24	amod	24:amod	_
