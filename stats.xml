@@ -127,14 +127,14 @@
     <dep name="expl:pv">113</dep>
     <dep name="fixed">353</dep>
     <dep name="mark">406</dep>
-    <dep name="nmod">5587</dep>
+    <dep name="nmod">5685</dep>
     <dep name="nsubj">1260</dep>
     <dep name="nsubj:pass">372</dep>
     <dep name="nummod">283</dep>
     <dep name="nummod:gov">24</dep>
     <dep name="obj">887</dep>
-    <dep name="obl">2274</dep>
-    <dep name="obl:arg">684</dep>
+    <dep name="obl">2185</dep>
+    <dep name="obl:arg">675</dep>
     <dep name="orphan">15</dep>
     <dep name="parataxis">59</dep>
     <dep name="punct">4539</dep>
