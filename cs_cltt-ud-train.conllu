@@ -7886,7 +7886,7 @@
 5	náklady	náklady	X	X@-------------	_	3	nmod	3:nmod	SpaceAfter=No|LGloss=(from_multi_word_term)
 6	“	"	PUNCT	Z:-------------	_	3	punct	3:punct	_
 7	obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-8	náklady	náklad	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	7:obj	_
+8	náklady	náklad	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	iobj	7:iobj	_
 9	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	10:case	LId=z-1
 10	operací	operace	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	8	nmod	8:nmod:z:gen	_
 11	zcela	zcela	ADV	Db-------------	_	12	advmod	12:advmod	_

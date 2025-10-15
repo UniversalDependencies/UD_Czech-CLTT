@@ -5323,9 +5323,9 @@
 110	c)	c)	X	X@-------------	_	112	obl	112:obl|131:obl	_
 111	celkovou	celkový	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	112	amod	112:amod	_
 112	částku	částka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	11	conj	8:obj|11:conj	_
-113	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	112	nmod	112:nmod:gen|122:obj	SpaceAfter=No
+113	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	112	nmod	112:nmod:gen|122:iobj	SpaceAfter=No
 114	,	,	PUNCT	Z:-------------	_	122	punct	122:punct	_
-115	které	který	DET	P4YP4----------	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel	122	obj	113:ref	_
+115	které	který	DET	P4YP4----------	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel	122	iobj	113:ref	_
 116	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	117	case	117:case	LId=k-1
 117	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	122	obl	122:obl:k:dat	_
 118	sestavení	sestavení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	117	nmod	117:nmod:gen	_
