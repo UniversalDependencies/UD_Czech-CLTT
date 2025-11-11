@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit 010fa22abfc9a6374b5ccba60808f06eb23dcdae
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Jun 10 17:39:59 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Czech-CLTT:
-commit 2988b68afef6857a73ff9c7301c529a3b0efa367
+commit 65a768ab93aee09e79742d74e80cd99fa5a7e447
+Merge: db7fd89 b1d6be4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 23:57:03 2025 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'cs_cltt'
+Language code (from CoNLL-U file name) = 'cs'
+Found the following data files: cs_cltt-ud-dev.conllu, cs_cltt-ud-test.conllu, cs_cltt-ud-train.conllu
 Size: counted 36013 of 36013 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.16775996876459.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -17,12 +21,8 @@ Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
 Features: 26593 out of 36013 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 28 out of 37 found in the corpus.
+Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL          2
-Udapi: found 2 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 36013 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 *** PASSED ***
@@ -31,14 +31,13 @@ Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cs --max-err=10 UD_Czech-CLTT/cs_cltt-ud-train.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.518819767006915) = 0.133030709488952
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.999444644989309) = 0.30752142922748
-(weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.720052906452494) * (availability=1) * (validity=1) = 0.720052906452494
-STARS = 3.5
-UD_Czech-CLTT	0.720052906452494	3.5
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.518819767006915) = 0.19215546926182
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
+(weight=0.111111111111111) * (score{udeprels}=0.627027027027027) = 0.0696696696696697
+(TOTAL score=0.598281202838534) * (availability=1) * (validity=1) = 0.598281202838534
+STARS = 3
+UD_Czech-CLTT	0.598281202838534	3
