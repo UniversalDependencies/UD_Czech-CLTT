@@ -40,6 +40,10 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Changed annotation of "budoucí": VerbForm=Part, Voice=Act, Tense=Fut.
+  * Optional depictives are now annotated with "advcl:pred" (previously "xcomp").
+  * Fixed multiple objects under one predicate.
 * 2025-05-15 v2.16
   * Adjectives heading clauses are acl(:relcl) rather than amod.
   * Fixed multiword expressions need the ExtPos feature.
@@ -103,6 +107,7 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 Data available since: UD v1.3
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: legal
 Lemmas: converted from manual
 UPOS: converted from manual
