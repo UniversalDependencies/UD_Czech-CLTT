@@ -17,7 +17,7 @@
   <tags unique="15">
     <tag name="ADJ">6643</tag><!-- účetní, konsolidovaný, právní, uvedený, jiný, finanční, zvláštní, hmotný, stanovený, dlouhodobý -->
     <tag name="ADP">3865</tag><!-- v, k, podle, na, o, s, z, do, za, pro -->
-    <tag name="ADV">775</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, například, tak -->
+    <tag name="ADV">776</tag><!-- dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, například, tak -->
     <tag name="AUX">619</tag><!-- být -->
     <tag name="CCONJ">1831</tag><!-- a, nebo, i, či, anebo, ani, ale, však, avšak, buď -->
     <tag name="DET">1135</tag><!-- který, tento, jeho, ten, všechen, svůj, takový, každý, jejichž, některý -->
@@ -26,7 +26,7 @@
     <tag name="PART">152</tag><!-- li, jen, to, až, netto, nikoli, brutto, ne -->
     <tag name="PRON">622</tag><!-- se, jenž, on, veškerý -->
     <tag name="PUNCT">4539</tag><!-- ,, ., ", ;, (, ), (1), (2), (3), - -->
-    <tag name="SCONJ">379</tag><!-- pokud, jako, než, že, aby, jestliže, zda, jakož, až, jak -->
+    <tag name="SCONJ">378</tag><!-- pokud, jako, než, že, aby, jestliže, zda, jakož, až, jak -->
     <tag name="SYM">18</tag><!-- %, +, / -->
     <tag name="VERB">1819</tag><!-- obsahovat, moci, použít, mít, účtovat, uvést, rozumět, sestavovat, vést, stanovit -->
     <tag name="X">2120</tag><!-- a), b), c), a, d), z, hospodaření, e), pohledávky, f) -->
@@ -106,7 +106,7 @@
     <dep name="acl:relcl">537</dep>
     <dep name="advcl">242</dep>
     <dep name="advcl:pred">70</dep>
-    <dep name="advmod">431</dep>
+    <dep name="advmod">432</dep>
     <dep name="advmod:emph">286</dep>
     <dep name="amod">5931</dep>
     <dep name="appos">76</dep>
@@ -127,7 +127,7 @@
     <dep name="expl:pv">113</dep>
     <dep name="fixed">353</dep>
     <dep name="iobj">2</dep>
-    <dep name="mark">406</dep>
+    <dep name="mark">405</dep>
     <dep name="nmod">5685</dep>
     <dep name="nsubj">1260</dep>
     <dep name="nsubj:pass">372</dep>

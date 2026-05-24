@@ -11212,11 +11212,11 @@
 19	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	20	expl:pass	20:expl:pass	_
 20	pohlíží	pohlížet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 21	,	,	PUNCT	Z:-------------	_	26	punct	26:punct	_
-22	jakoby	jakoby	SCONJ	J,-------------	_	26	mark	26:mark	LId=jakoby-1
+22	jakoby	jakoby	ADV	J,-------------	_	26	advmod	26:advmod	LId=jakoby-1
 23	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp	26:ccomp	_
 24	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	25	amod	25:amod	LId=účetní-1
 25	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	26	nsubj	26:nsubj	_
-26	nevedly	vést	VERB	VpTP---XR-NA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	20	advcl	20:advcl:jako	SpaceAfter=No|LId=vést-1
+26	nevedly	vést	VERB	VpTP---XR-NA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	20	advcl	20:advcl	SpaceAfter=No|LId=vést-1
 27	.	.	PUNCT	Z:-------------	_	20	punct	20:punct	_
 
 # sent_id = zakon.iso-007-p48s10
