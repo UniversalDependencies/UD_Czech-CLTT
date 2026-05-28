@@ -6529,7 +6529,7 @@
 20	nižší	nízký	ADJ	AAFS1----2A----	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos	7	csubj:pass	7:csubj:pass	SpaceAfter=No
 21	,	,	PUNCT	Z:-------------	_	23	punct	23:punct	_
 22	než	než	SCONJ	J,-------------	_	23	mark	23:mark	LId=než-2
-23	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	20	advcl	20:advcl:než	LId=cena-2
+23	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	20	obl	20:obl:než	LId=cena-2
 24	použitá	použitý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	23	amod	23:amod	_
 25	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	27	case	27:case	LId=pro-1
 26	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	27	det	27:det	_
@@ -6572,7 +6572,7 @@
 16	nižší	nízký	ADJ	AAFS1----2A----	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	6:csubj:pass|12:conj	_
 17	než	než	SCONJ	J,-------------	_	19	mark	19:mark	LId=než-2
 18	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	19:det	_
-19	výše	výše	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	12	advcl	12:advcl:než|16:advcl:než	_
+19	výše	výše	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	12	obl	12:obl:než|16:obl:než	_
 20	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	21	case	21:case	LId=v-1
 21	účetnictví	účetnictví	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	19	nmod	19:nmod:v:loc	SpaceAfter=No
 22	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
@@ -7577,7 +7577,7 @@
 28	jiným	jiný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	29	amod	29:amod	_
 29	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	obl	23:obl:ins	_
 30	než	než	SCONJ	J,-------------	_	31	mark	31:mark	LId=než-2
-31	převzetím	převzetí	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	28	advcl	28:advcl:než	_
+31	převzetím	převzetí	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	28	obl	28:obl:než	_
 32	věci	věc	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	31	nmod	31:nmod:gen	SpaceAfter=No
 33	,	,	PUNCT	Z:-------------	_	38	punct	38:punct	_
 34	jakož	jakož	SCONJ	J,-------------	_	38	cc	38:cc	_
@@ -8681,7 +8681,7 @@
 27	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	28:cop	_
 28	nižší	nízký	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	5	acl:relcl	5:acl:relcl	_
 29	než	než	SCONJ	J,-------------	_	30	mark	30:mark	LId=než-2
-30	stav	stav	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	advcl	28:advcl:než	_
+30	stav	stav	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	obl	28:obl:než	_
 31	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	32	case	32:case	LId=v-1
 32	účetnictví	účetnictví	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	30	nmod	30:nmod:v:loc	_
 33	a	a	CCONJ	J^-------------	_	36	cc	36:cc	LId=a-1
@@ -8706,7 +8706,7 @@
 52	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	53	cop	53:cop	_
 53	vyšší	vysoký	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	28	conj	5:acl:relcl|28:conj	_
 54	než	než	SCONJ	J,-------------	_	55	mark	55:mark	LId=než-2
-55	stav	stav	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	53	advcl	53:advcl:než	_
+55	stav	stav	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	53	obl	53:obl:než	_
 56	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	57	case	57:case	LId=v-1
 57	účetnictví	účetnictví	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	55	nmod	55:nmod:v:loc	_
 58	a	a	CCONJ	J^-------------	_	61	cc	61:cc	LId=a-1
@@ -9300,7 +9300,7 @@
 8	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
 9	delší	dlouhý	ADJ	AAFS1----2A----	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos	15	advcl	15:advcl:pokud	LId=dlouhý-2
 10	než	než	SCONJ	J,-------------	_	11	mark	11:mark	LId=než-2
-11	lhůta	lhůta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	9	advcl	9:advcl:než	_
+11	lhůta	lhůta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	9	obl	9:obl:než	_
 12	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	13	case	13:case	LId=podle-2
 13	§_31_odst._2	§_31_odst._2	X	X@-------------	_	11	nmod	11:nmod:podle:gen	SpaceAfter=No
 14	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_

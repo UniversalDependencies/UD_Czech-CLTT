@@ -569,7 +569,7 @@
 13	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	14:amod	LId=účetní-1
 14	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	11:nsubj	_
 15	než	než	SCONJ	J,-------------	_	16	mark	16:mark	LId=než-2
-16	vlastník	vlastník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	advcl	12:advcl:než	_
+16	vlastník	vlastník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	obl	12:obl:než	_
 17	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod:gen	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
 19	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	20	expl:pass	20:expl:pass	_
@@ -1216,7 +1216,7 @@
 45	vyšší	vysoký	ADJ	AAFS1----2A----	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Pos	36	xcomp	36:xcomp	_
 46	než	než	SCONJ	J,-------------	_	48	mark	48:mark	LId=než-2
 47	zůstatková	zůstatkový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	48	amod	48:amod	_
-48	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	45	advcl	45:advcl:než	LId=cena-2
+48	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	45	obl	45:obl:než	LId=cena-2
 49	celého	celý	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	50	amod	50:amod	_
 50	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	48:nmod:gen	SpaceAfter=No
 51	.	.	PUNCT	Z:-------------	_	24	punct	24:punct	_
@@ -1896,7 +1896,7 @@
 9	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pass	10:expl:pass	_
 10	zjistí	zjistit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 11	jako	jako	SCONJ	J,-------------	_	12	mark	12:mark	_
-12	součin	součin	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	advcl	10:advcl:jako	_
+12	součin	součin	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	obl	10:obl:jako	_
 13	výsledného	výsledný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	14	amod	14:amod	_
 14	rozdílu	rozdíl	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod:gen	_
 15	a	a	CCONJ	J^-------------	_	16	cc	16:cc	LId=a-1
@@ -4798,7 +4798,7 @@
 114	než	než	SCONJ	J,-------------	_	117	mark	117:mark	LId=než-2
 115	konsolidující	konsolidující	ADJ	AGFS7-----A----	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	117	amod	117:amod	_
 116	účetní	účetní	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	117	amod	117:amod	LId=účetní-1
-117	jednotkou	jednotka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	112	advcl	112:advcl:než	SpaceAfter=No
+117	jednotkou	jednotka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	112	obl	112:obl:než	SpaceAfter=No
 118	,	,	PUNCT	Z:-------------	_	121	punct	121:punct	_
 119	d)	d)	X	X@-------------	_	121	obl	121:obl|123:obl|136:obl	_
 120	obchodní	obchodní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	121	amod	121:amod	_
@@ -6178,7 +6178,7 @@
 42	-	-	PUNCT	Z:-------------	_	40	punct	40:punct	SpaceAfter=No
 43	)	)	PUNCT	Z:-------------	_	38	punct	38:punct	_
 44	jako	jako	SCONJ	J,-------------	_	45	mark	45:mark	_
-45	zůstatek	zůstatek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	advcl	20:advcl:jako	_
+45	zůstatek	zůstatek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	obl	20:obl:jako	_
 46	aktivní	aktivní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	45	amod	45:amod	_
 47	nebo	nebo	CCONJ	J^-------------	_	48	cc	48:cc	_
 48	pasivní	pasivní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	46	conj	45:amod|46:conj	SpaceAfter=No
