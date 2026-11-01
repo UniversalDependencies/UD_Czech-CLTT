@@ -32,7 +32,7 @@
     <tag name="X">2120</tag><!-- a), b), c), a, d), z, hospodaření, e), pohledávky, f) -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="68">
+  <feats unique="69">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,DET,NOUN">35</feat><!-- Kč, něm, USD, m, m2, t, ha, ČSSR -->
     <feat name="AdpType" value="Comprep" upos="ADP">4</feat><!-- vzhledem -->
     <feat name="AdpType" value="Prep" upos="ADP">3523</feat><!-- v, podle, na, o, k, s, do, za, z, pro -->
@@ -99,6 +99,7 @@
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">1906</feat><!-- je, jsou, obsahuje, není, rozumí, nejsou, může, uvede, mohou, použijí -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">359</feat><!-- být, vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést -->
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">718</feat><!-- konsolidující, byly, zanikající, stanoveno, následujícího, související, byl, předcházejícímu, týkající, bylo -->
+    <feat name="VerbForm" value="Vnoun" upos="NOUN">1393</feat><!-- ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování -->
     <feat name="Voice" value="Act" upos="ADJ,AUX,VERB">2346</feat><!-- je, jsou, obsahuje, není, konsolidující, rozumí, nejsou, může, uvede, mohou -->
     <feat name="Voice" value="Pass" upos="ADJ">254</feat><!-- stanoveno, sestavena, obchodovány, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, účtovány -->
   </feats>
