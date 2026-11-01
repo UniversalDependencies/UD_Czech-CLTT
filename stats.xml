@@ -39,9 +39,9 @@
     <feat name="AdpType" value="Voc" upos="ADP">338</feat><!-- ve, ke, ze, se, ode, beze, přede -->
     <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,VERB">301</feat><!-- auditorem, členům, přejímající, společník, společníka, zaměstnanců, účastníky, následujícímu, předcházejícímu, společníkům -->
     <feat name="Animacy" value="Inan" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">6994</feat><!-- majetku, dni, účetní, závazků, účetních, dne, majetek, odstavce, případě, náklady -->
-    <feat name="Aspect" value="Imp" upos="ADJ,AUX,VERB">2099</feat><!-- je, jsou, obsahuje, není, konsolidující, rozumí, nejsou, může, být, mohou -->
-    <feat name="Aspect" value="Imp,Perf" upos="VERB">4</feat><!-- informovat, aktualizuje, dokumentuje -->
-    <feat name="Aspect" value="Perf" upos="VERB">579</feat><!-- uvede, použijí, stanoví, použít, použije, nastanou, došlo, ocení, uvést, nepoužije -->
+    <feat name="Aspect" value="Imp" upos="ADJ,AUX,VERB">2290</feat><!-- je, jsou, obsahuje, není, konsolidující, rozumí, nejsou, může, být, mohou -->
+    <feat name="Aspect" value="Imp,Perf" upos="ADJ,VERB">20</feat><!-- kvalifikovaným, emitované, emitovaných, informovat, organizován, aktivovaných, aktivována, aktivovány, aktualizuje, dokumentuje -->
+    <feat name="Aspect" value="Perf" upos="ADJ,VERB">1434</feat><!-- uvede, uvedené, uvedených, použijí, stanoví, použít, použije, stanovené, stanoveno, stanovených -->
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">4049</feat><!-- se, účetní, na, pro, za, o, závěrku, závazky, období, účetnictví -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,DET,NOUN,NUM,PRON">1134</feat><!-- k, ke, dni, obchodování, okamžiku, konci, kterému, majetku, rozvahovému, kterým -->
     <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON">7798</feat><!-- podle, účetní, majetku, účetních, do, z, účetního, u, závěrky, období -->
