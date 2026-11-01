@@ -40,6 +40,8 @@ including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
 
 # Changelog
 
+* 2026-11-15 v2.19
+  * Added missing lexical Aspect based on a list obtained from PDTC.
 * 2025-11-15 v2.17
   * Changed annotation of "budoucí": VerbForm=Part, Voice=Act, Tense=Fut.
   * Optional depictives are now annotated with "advcl:pred" (previously "xcomp").

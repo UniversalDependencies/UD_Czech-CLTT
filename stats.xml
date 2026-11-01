@@ -32,14 +32,16 @@
     <tag name="X">2120</tag><!-- a), b), c), a, d), z, hospodaření, e), pohledávky, f) -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="66">
+  <feats unique="68">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,DET,NOUN">35</feat><!-- Kč, něm, USD, m, m2, t, ha, ČSSR -->
     <feat name="AdpType" value="Comprep" upos="ADP">4</feat><!-- vzhledem -->
     <feat name="AdpType" value="Prep" upos="ADP">3523</feat><!-- v, podle, na, o, k, s, do, za, z, pro -->
     <feat name="AdpType" value="Voc" upos="ADP">338</feat><!-- ve, ke, ze, se, ode, beze, přede -->
     <feat name="Animacy" value="Anim" upos="ADJ,DET,NOUN,VERB">301</feat><!-- auditorem, členům, přejímající, společník, společníka, zaměstnanců, účastníky, následujícímu, předcházejícímu, společníkům -->
     <feat name="Animacy" value="Inan" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">6994</feat><!-- majetku, dni, účetní, závazků, účetních, dne, majetek, odstavce, případě, náklady -->
-    <feat name="Aspect" value="Imp" upos="ADJ,AUX,VERB">912</feat><!-- je, jsou, není, konsolidující, nejsou, být, by, byly, zanikající, následujícího -->
+    <feat name="Aspect" value="Imp" upos="ADJ,AUX,VERB">2099</feat><!-- je, jsou, obsahuje, není, konsolidující, rozumí, nejsou, může, být, mohou -->
+    <feat name="Aspect" value="Imp,Perf" upos="VERB">4</feat><!-- informovat, aktualizuje, dokumentuje -->
+    <feat name="Aspect" value="Perf" upos="VERB">579</feat><!-- uvede, použijí, stanoví, použít, použije, nastanou, došlo, ocení, uvést, nepoužije -->
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">4049</feat><!-- se, účetní, na, pro, za, o, závěrku, závazky, období, účetnictví -->
     <feat name="Case" value="Dat" upos="ADJ,ADP,DET,NOUN,NUM,PRON">1134</feat><!-- k, ke, dni, obchodování, okamžiku, konci, kterému, majetku, rozvahovému, kterým -->
     <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON">7798</feat><!-- podle, účetní, majetku, účetních, do, z, účetního, u, závěrky, období -->
